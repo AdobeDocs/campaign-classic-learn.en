@@ -35,5 +35,5 @@ The video below demonstrates how to do this.
 
 ## Additional Resources
 
-* [Adding SSL certificated](/help/acs/administrating/control-panel/adding-ssl-certificates.md)
+* [Adding SSL certificated](/help/acc/monitoring-campaign-classic/control-panel/adding-ssl-certificates.md)
 * [Subdomains and certificates](https://docs.adobe.com/content/help/en/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)
