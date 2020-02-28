@@ -5,7 +5,7 @@ description: The video below explains how to add some outside URLs to the list o
 seo-description: TThe video below explains how to add some outside URLs to the list of authorized URLs, so that your instance can connect to them. 
 feature: URl Permissions
 topics: Control Panel
-kt: KT-3259
+kt: 3259
 doc-type: feature video
 activity: use
 team: PM

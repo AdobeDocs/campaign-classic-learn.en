@@ -2,16 +2,16 @@
 product: adobe campaign
 sub-product: Campaign Classic
 user-guide-title: Adobe Campaign Classic Tutorials
-user-guide-url: https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/overview.html
+user-guide-url: https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Classic#recommended/solutions/campaign
 tutorials-title: Tutorials
-tutorials-url: https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/overview.html
+tutorials-url: https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html
 getting-started-title: Documentation
 getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html
 ---
 
-# Adobe Campaign Classic Tutorials {#tutorials}
+# Adobe Campaign Classic Tutorials {#campaign-classic-tutorials}
 
 + [Overview](/help/acc/overview.md)
 + Getting Started {#getting-started}
@@ -28,6 +28,7 @@ getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with
     + [Manage seed and proofs in an email](/help/acc/sending-messages/managing-seed-and-proofs.md)
     + [Personalize emails using dynamic content blocks](/help/acc/sending-messages/personalization-with-dynamic-content-blocks.md)
     + [Configure recurring and continuous email campaigns](/help/acc/sending-messages/recurring-deliveries.md)
+    + [Defining Interactive Email Content with AMP](/help/acc/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)
   + Push Channel {#push-channel}
     + [Configure Push Channel using the Experience Platform Mobile SDK](/help/acc/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk.md)
   + [Configure and deploy delivery templates](/help/acc/sending-messages/delivery-template-configuration.md)
@@ -52,9 +53,15 @@ getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with
 + Administrating {#administrating}
   + Control Panel {#control-panel-acc}
     + [Control Panel Overview](/help/acc/monitoring-campaign-classic/control-panel/control-panel-overview.md)
-    + [Managing SFTP Servers](/help/acc/monitoring-campaign-classic/control-panel/managing-sftp-servers.md)
+    + [Monitoring server capacity, whitelisting IP addresses, and adding SSH keys](/help/acc/monitoring-campaign-classic/control-panel/monitoring-server-capacity-whitelisting-adding-ssh-key.md)
+    + [Generating a SSH Key](/help/acc/monitoring-campaign-classic/control-panel/generate-ssh-key.md)
+    + [Connecting to a SFTP Server](/help/acc/monitoring-campaign-classic/control-panel/connect-to-sftp-server.md)  
+    + [Delegating Subdomains](/help/acc/monitoring-campaign-classic/control-panel/subdomain-delegation.md)
+    + [Adding SSL Certificates](/help/acc/monitoring-campaign-classic/control-panel/adding-ssl-certificates.md)
     + [Managing SSL Certificates](/help/acc/monitoring-campaign-classic/control-panel/managing-ssl-certificates.md)
-    + [Add URL Permissions](/help/acc/monitoring-campaign-classic/control-panel/adding-url-permissions.md)
+    + [Adding URL Permissions](/help/acc/monitoring-campaign-classic/control-panel/adding-url-permissions.md)
     + [IP Whitelisting for Instance Access](/help/acc/monitoring-campaign-classic/control-panel/ip-whitelisting.md)
     + [Troubleshooting the Control Panel](/help/acc/monitoring-campaign-classic/control-panel/trouble-shooting.md)
+  + Accessing an external database (FDA) {#fda}
+    + [Big data management on Snowflake](/help/acc/administrating/snowflake/big-data-segmentation-on-snowflake.md)
   
