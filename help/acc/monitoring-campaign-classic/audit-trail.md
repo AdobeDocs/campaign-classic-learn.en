@@ -39,4 +39,4 @@ The video below describes where to access the Audit Trail logs and which setting
 
 >[!VIDEO](https://video.tv.adobe.com/v/27425?quality=12)
 
-For more information can be found in the  [Audit Trail Documentation](http://docs.campaign.adobe.com/doc/AC/en/PRO_Production_procedures_Audit_trail.html).
+For more information can be found in the  [Audit Trail Documentation](https://docs.adobe.com/content/help/en/campaign-classic/using/monitoring-campaign-classic/production-procedures/audit-trail.html).

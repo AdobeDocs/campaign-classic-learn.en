@@ -19,5 +19,5 @@ Adobe Campaign uses workflows to carry out targeting campaigns, build campaigns 
 
 >[!VIDEO](https://video.tv.adobe.com/v/25605?quality=12)
 
-See the documentation [about Workflows](https://docs.campaign.adobe.com/doc/AC/en/WKF_Introduction_About_workflows.html)
-and [creating a workflow](https://helpx.adobe.com/campaign/kt/acc/using/acc-creating-a-workflow-in-a-campaign-video.html) for more information.
+See the documentation [about Workflows](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html),[creating a workflow](https://helpx.adobe.com/campaign/kt/acc/using/acc-creating-a-workflow-in-a-campaign-video.html)
+and [about targeting activities](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html) for more information.

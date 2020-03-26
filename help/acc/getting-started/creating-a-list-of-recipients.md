@@ -29,4 +29,4 @@ This video explains how to set up a list of recipients from a workflow. We will 
 
 >[!VIDEO](https://video.tv.adobe.com/v/25603?quality=12)
 
-See the documentation on [creating and managing lists](https://docs.campaign.adobe.com/doc/AC/en/PTF_Profile_management_Creating_and_managing_lists.html) for more information.
+See the documentation on [creating and managing lists](https://docs.adobe.com/content/help/en/campaign-classic/using/getting-started/profile-management/creating-and-managing-lists.html) for more information.

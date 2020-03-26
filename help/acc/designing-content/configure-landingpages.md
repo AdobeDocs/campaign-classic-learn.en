@@ -22,4 +22,4 @@ This video demonstrates how to navigate Adobe Campaign’s web application edito
 
 >[!VIDEO](https://video.tv.adobe.com/v/25041?quality=12)
 
-For more information see the detailed documentation on [Creating a landing page](https://docs.campaign.adobe.com/doc/AC/en/WEB_Editing_HTML_content_Creating_a_landing_page.html).
+For more information see the detailed documentation on [Creating a landing page](https://docs.adobe.com/content/help/en/campaign-classic/using/designing-content/editing-html-content/creating-a-landing-page.html).

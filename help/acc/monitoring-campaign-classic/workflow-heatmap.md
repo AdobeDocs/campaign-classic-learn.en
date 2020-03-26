@@ -23,7 +23,7 @@ The Workflow HeatMap helps the platform administrators to:
 * Filter workflows by duration to see which workflows may encounter issues
 * Easily find individual workflows and all related activities (with their duration)
 
-* Search by workflow type ([technical workflows](https://docs.campaign.adobe.com/doc/AC/en/WKF__General_operation_Building_a_workflow.html#Technical_workflows) or [campaign workflows](https://docs.campaign.adobe.com/doc/AC/en/WKF__General_operation_Building_a_workflow.html#Campaign_workflows))
+* Search by workflow type ([technical workflows](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/general-operation/building-a-workflow.html#technical-workflows) or [campaign workflows](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/general-operation/building-a-workflow.html#campaign-workflows))
 
 * Look for a specific workflow to analyze
 
@@ -33,4 +33,4 @@ Please note: This feature is only available as of Adobe Campaign Classic V7 (bui
 
 ## Additional Resources
 
-* [Monitoring Processes](https://docs.campaign.adobe.com/doc/AC/en/PRO_Production_procedures_Monitoring_processes.html#Workflow_monitoring)
+* [Monitoring Processes](https://docs.adobe.com/content/help/en/campaign-classic/using/monitoring-campaign-classic/production-procedures/monitoring-processes.html#Workflow_monitoring)

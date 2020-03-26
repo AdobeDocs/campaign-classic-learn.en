@@ -43,3 +43,5 @@ You can also set up approvals at a delivery level. If delivery approvals steps a
 Unlike the delivery or campaign approvals, the approval activity allows one to create an approval process within a workflow. This way, the targeting selection logic can be approved before the delivery is launched. It also allows approval at multiple levels within the workflow, if needed.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25174?quality=12)
+
+For more information, refer to the [Approval Documentation](https://docs.adobe.com/help/en/campaign-classic/using/automating-with-workflows/flow-control-activities/approval.html)

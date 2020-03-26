@@ -21,5 +21,5 @@ This video explains how to create a campaign and an email in Adobe Campaign Clas
 
 ## Additional Resources
 
-* [Use case: creating an email delivery](https://docs.campaign.adobe.com/doc/AC/en/WEB_Editing_HTML_content_Use_case-_creating_an_email_delivery.html)
-* [Building a workflow (documentation)](https://docs.campaign.adobe.com/doc/AC/en/WKF__General_operation_Building_a_workflow.html)
+* [Use case: creating an email delivery](https://docs.adobe.com/content/help/en/campaign-classic/using/designing-content/editing-html-content/use-case--creating-an-email-delivery.html)
+* [Building a workflow (documentation)](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/general-operation/building-a-workflow.html)
