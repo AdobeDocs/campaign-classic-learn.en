@@ -21,7 +21,8 @@ Audit Trail captures, in real-time, a comprehensive list of actions and events o
 * Who modified it  last and when?
 * What was the previous state?
 
-> [!NOTE]
+>[!NOTE]
+>
 >Audit Trails requires Campaign Classic version 19.1 or newer
 
 The Audit Trail will log and list operator actions, such as creation, modification, and deletion for workflows, options, and source schema. In addition the following actions are logged specifically for workflows:
