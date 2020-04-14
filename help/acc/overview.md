@@ -11,12 +11,13 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 
 ## What's New
 
+* **[Control Panel - Google TXT record management](/help/acc/monitoring-campaign-classic/control-panel/google-txt-record-management.md)**
+    <br>
+    *Learn how to add Google TXT site verification record to all your subdomains used to send emails to GMAIL addresses through the Campaign Control Panel.*
+
 * **[Delegating Subdomains (BETA)](/help/acc/monitoring-campaign-classic/control-panel/subdomain-delegation.md)**
     <br>
-    *Learn how to fully delegate a subdomain to Adobe Campaign* 
-* **[Adding SSL Certificates using Control Panel (BETA)](/help/acc/monitoring-campaign-classic/control-panel/adding-ssl-certificates.md)**
-    <br>
-    *Learn how you can add a SSL certificates to secure your subdomains using Control Panel.*
+    *Learn how to fully delegate a subdomain to Adobe Campaign*
 
 * **[Defining Interactive Email Content with AMP](/help/acc/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)**
     <br>

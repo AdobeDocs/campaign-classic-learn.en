@@ -61,6 +61,7 @@ getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with
     + [Managing SSL Certificates](/help/acc/monitoring-campaign-classic/control-panel/managing-ssl-certificates.md)
     + [Adding URL Permissions](/help/acc/monitoring-campaign-classic/control-panel/adding-url-permissions.md)
     + [IP Whitelisting for Instance Access](/help/acc/monitoring-campaign-classic/control-panel/ip-whitelisting.md)
+    + [Google TXT record management](/help/acc/monitoring-campaign-classic/control-panel/google-txt-record-management.md)
     + [Troubleshooting the Control Panel](/help/acc/monitoring-campaign-classic/control-panel/trouble-shooting.md)
   + Accessing an external database (FDA) {#fda}
     + [Big data management on Snowflake](/help/acc/administrating/snowflake/big-data-segmentation-on-snowflake.md)
