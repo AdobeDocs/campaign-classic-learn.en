@@ -75,6 +75,11 @@ The video below explains how to add an administrator to a Campaign instance
     <br>
     *Learn how to set up new connections to your instances by whitelisting IP addresses ranges.*
 
+* **[Google TXT record management](/help/acc/monitoring-campaign-classic/control-panel/google-txt-record-management.md)**
+    <br>
+    *Learn how to add Google TXT site verification record to all your subdomains used to send emails to GMAIL addresses through the Campaign Control Panel.*
+
+
 * **[Troubleshooting the Control Panel](/help/acc/monitoring-campaign-classic/control-panel/trouble-shooting.md)**
   <br>
     *Understand how to troubleshoot the Control Panel*
