@@ -1,13 +1,9 @@
 ---
-title: How to set up fatigue management using typology rules
-seo-title: How to set up fatigue management using typology rules in Adobe Campaign Classic
+title: How to set up fatigue management using typology rules in Adobe Campaign Classic
 description: Fatigue management controls frequency and quantity of messaging to avoid over-solicitation of recipients and is often applied using a typology rule. This video explains how to implement fatigue management in Adobe Campaign Classic by leveraging typology rules.
-seo-description: Fatigue management controls frequency and quantity of messaging to avoid over-solicitation of recipients and is often applied using a typology rule. This video explains how to implement fatigue management in Adobe Campaign Classic by leveraging typology rules.
-uuid: 0e142567-866e-4c3c-a078-1694c5da7628
-discoiquuid: e223216d-ff21-4516-a895-265fc5df938b
 feature: Fatigue Management
 topics: 
-kt: KT-1564
+kt: 1564
 doc-type: feature video
 activity: use
 team: TM

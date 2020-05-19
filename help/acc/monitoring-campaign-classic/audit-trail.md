@@ -1,13 +1,9 @@
 ---
 title: How to use the Audit Trail
-seo-title: How to use the Audit Trail 
 description: Audit Trail captures, in real-time, a comprehensive list of actions and events occurring within Adobe Campaign. 
-seo-description: Audit Trail captures, in real-time, a comprehensive list of actions and events occurring within Adobe Campaign. 
-uuid: a15e5f17-626a-4d18-940f-5a2798953af6
-discoiquuid: 7d1c99f3-05a4-42ee-9c75-140ed3cd31fd
 feature: Audit Trail
 topics: Monitoring and Guardrails
-kt: KT-2835
+kt: 2835
 doc-type: feature video
 activity: understand
 team: PM
