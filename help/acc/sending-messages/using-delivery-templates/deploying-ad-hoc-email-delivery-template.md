@@ -15,12 +15,13 @@ This video explains how to deploy an ad-hoc email delivery template and it expla
 
 >[!VIDEO](https://video.tv.adobe.com/v/24065?quality=12)
 
-## Additional Resources {#additional-resources}
+## Additional resources {#additional-resources}
 
-* [Configuring a delivery template](configuring-a-delivery-template.md)
-* [Deploying a delivery template](deploying-a-delivery-template.md)
+How-to videos
+* [Configuring a delivery template](/help/acc/sending-messages/using-delivery-templates/configuring-a-delivery-template.md)
+* [Setting delivery template properties](/help/acc/sending-messages/using-delivery-templates/setting-delivery-template-properties.md)
 
-**Documentation:**
+Documentation:
 
 * [About Templates](https://docs.campaign.adobe.com/doc/AC/en/DLV_Using_delivery_templates_About_templates.html)
 * [Creating a Delivery Template](https://docs.campaign.adobe.com/doc/AC/en/DLV_Using_delivery_templates_Creating_a_delivery_template.html)

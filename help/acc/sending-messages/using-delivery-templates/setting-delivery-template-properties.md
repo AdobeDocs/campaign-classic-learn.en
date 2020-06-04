@@ -15,12 +15,14 @@ The following video shows how to set the delivery template properties and explai
 
 >[!VIDEO](https://video.tv.adobe.com/v/24067?quality=12)
 
-## Additional Resources {#additional-resources}
+## Additional resources {#additional-resources}
 
-* [Configuring a delivery template](configuring-a-delivery-template.md)
-* [Deploying a delivery template](deploying-a-delivery-template.md)
+How-to videos
 
-**Documentation:**
+* [Configuring a delivery template](/help/acc/sending-messages/using-delivery-templates/configuring-a-delivery-template.md)
+* [Deploying an ad-hoc email delivery template](/help/acc/sending-messages/using-delivery-templates/deploying-ad-hoc-email-delivery-template.md)
+
+Documentation:
 
 * [About Templates](https://docs.campaign.adobe.com/doc/AC/en/DLV_Using_delivery_templates_About_templates.html)
 * [Creating a Delivery Template](https://docs.campaign.adobe.com/doc/AC/en/DLV_Using_delivery_templates_Creating_a_delivery_template.html)
