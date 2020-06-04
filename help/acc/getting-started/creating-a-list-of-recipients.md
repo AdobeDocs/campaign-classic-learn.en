@@ -1,13 +1,9 @@
 ---
 title: Creating a list of recipients
-seo-title: Creating a list of recipients
 description: A list is a static set of recipients that can be targeted in delivery actions or updated during import operations or during workflow execution. A list of recipients is also referred to as audience.
-seo-description: A list is a static set of recipients that can be targeted in delivery actions or updated during import operations or during workflow execution. A list of recipients is also referred to as audience.
-uuid: d71ecd1b-bd42-4c28-b8b7-541bde56c676
-discoiquuid: 9c9ee2cc-cdbc-4d78-bb13-c0304006c88f
 feature: Audiences
 topics: Getting started
-kt: KT-2173
+kt: 2173
 doc-type: feature video
 activity: setup
 team: DOC

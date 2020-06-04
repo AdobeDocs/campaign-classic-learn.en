@@ -1,24 +1,27 @@
 ---
 title: Adobe Campaign Classic Tutorials - Overview
-seo-title: Adobe Campaign Classic Tutorials - Overview
+description: Adobe Campaign provides a platform for designing cross-channel customer experiences and provides an environment for visual campaign orchestration, real time interaction management and cross channel execution. This user guide contains videos and tutorials on the many features and capabilities of Adobe Campaign Standard.
 product: Campaign
 sub-product: Campaign Classic
 ---
 
-# Overview 
+# Overview
 
 Adobe Campaign provides a platform for designing cross-channel customer experiences and provides an environment for visual campaign orchestration, real time interaction management and cross channel execution. This user guide contains videos and tutorials on the many features and capabilities of Adobe Campaign Classic.
 
 ## What's New
 
-* **[IP Whitelisting for Instance Access](/help/acc/monitoring-campaign-classic/control-panel/ip-whitelisting.md)**
-    <br>
-    *Learn how to set up new connections to your instances by whitelisting IP addresses ranges.*
+**[Control Panel - Generating and installing GPG keys](/help/acc/monitoring-campaign-classic/control-panel/generating-and-installing-gpg-keys.md)**
 
-* **[ Configure Push Channel using the Experience Platform Mobile SDK](/help/acc/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk.md)**
-    <br>
-    *Learn how to configure the Push applications directly from Adobe Launch. (Campaign Classic release 19.1)*
+    *Learn how to generate and install a new public/private GPG key pair on a specified instance and how to import and install a public key to your Adobe Campaign instance.*
 
+* **[Delegating Subdomains (BETA)](/help/acc/monitoring-campaign-classic/control-panel/subdomain-delegation.md)**
+    <br>
+    *Learn how to fully delegate a subdomain to Adobe Campaign*
+
+* **[Defining Interactive Email Content with AMP](/help/acc/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)**
+    <br>
+    *Learn how to configure the email content Adobe Campaign Classic(ACC) in AMP format.*
 
 ## Staff Picks
 

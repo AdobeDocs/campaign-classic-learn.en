@@ -3,7 +3,7 @@ title: How to set up recurring and continuous email campaigns
 description: This tutorial explains how to set up a recurring and a continuous delivery and the differences between the two approaches in Adobe Campaign Classic (ACC).
 feature: workflows       
 topics: channel activities
-kt: KT-1560
+kt: 1560
 doc-type: feature video
 activity: use
 team: TM

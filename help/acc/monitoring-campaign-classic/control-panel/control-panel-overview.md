@@ -5,7 +5,7 @@ description: The Control Panel allows you to monitor and manage your SFTP storag
 seo-description: The Control Panel allows you to monitor and manage your SFTP storage by instance and whitelist IP addresses.
 feature: Control Panel
 topics: Control Panel
-kt: KT-3262
+kt: 3262
 doc-type: feature video
 activity: use
 team: PM
@@ -15,6 +15,19 @@ team: PM
 
 The Control Panel allows Adobe Campaign administrators to easily monitor key assets as well as perform administrative tasks, like managing the SFTP storage by instance or whitelist IP addresses.
 
+## Accessing Control Panel
+
+To access the Control Panel go to Experience Cloud Home [https://experiencecloud.adobe.com]( https://experiencecloud.adobe.com):
+
+* Experience Cloud Home > Quick Access
+  
+  or
+* [Experience Cloud Home](https://experiencecloud.adobe.com) > Solution picker: Campaign > Control Panel card
+  
+  or
+
+* Directly from the URL: [https://experience.adobe.com/#/controlpanel](https://experience.adobe.com/#/controlpanel)
+  
 ## Prerequisites
 
 ### Confirm IMS Org ID
@@ -26,7 +39,8 @@ Before you get started, you need to know your IMS Org ID. The video below descri
 
 ### Administrator Rights
 
-Administrator rights are required to access to the Control Panel 
+Administrator rights are required to access to the Control Panel.
+
 The video below explains how to add an administrator to a Campaign instance
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
@@ -34,15 +48,26 @@ The video below explains how to add an administrator to a Campaign instance
 
 ## Control Panel Tutorials
 
-*  **[Managing SFTP Servers](/help/acc/monitoring-campaign-classic/control-panel/managing-sftp-servers.md)**
+* **Managing SFTP Servers**
     <br>
     *Learn how to monitor the server capacity, whitelist IP addresses, and add SSH keys*
 
-*   **[Managing SSL Certificates](/help/acc/monitoring-campaign-classic/control-panel/managing-ssl-certificates.md)**
+   * [Monitoring server capacity, whitelisting IP addresses, and adding SSH keys](/help/acc/monitoring-campaign-classic/control-panel/monitoring-server-capacity-whitelisting-adding-ssh-key.md)
+   * [Generating a SSH Key](/help/acc/monitoring-campaign-classic/control-panel/generate-ssh-key.md)
+   * [Connecting to a SFTP Server](/help/acc/monitoring-campaign-classic/control-panel/connect-to-sftp-server.md)
+* **[Delegating Subdomains](/help/acc/monitoring-campaign-classic/control-panel/subdomain-delegation.md)**
+    <br>
+    *Learn how to fully delegate a subdomain to Adobe Campaign*
+
+* **[Adding SSL Certificates](/help/acc/monitoring-campaign-classic/control-panel/adding-ssl-certificates.md)**
+    <br>
+    *Learn how you can add a SSL certificates to secure your subdomains using Control Panel.*
+
+* **[Managing SSL Certificates](/help/acc/monitoring-campaign-classic/control-panel/managing-ssl-certificates.md)**
     <br>
     *Learn how you can view the status of the SSL certificates of your subdomains, as well as request renewals.*
 
-*   **[Add URL Permissions](/help/acc/monitoring-campaign-classic/control-panel/adding-url-permissions.md)**
+* **[Adding URL Permissions](/help/acc/monitoring-campaign-classic/control-panel/adding-url-permissions.md)**
     <br>
     *how to add some outside URLs to the list of authorized URLs, so that your instance can connect to them.*
 
@@ -50,13 +75,19 @@ The video below explains how to add an administrator to a Campaign instance
     <br>
     *Learn how to set up new connections to your instances by whitelisting IP addresses ranges.*
 
+* **[Google TXT record management](/help/acc/monitoring-campaign-classic/control-panel/google-txt-record-management.md)**
+    <br>
+    *Learn how to add Google TXT site verification record to all your subdomains used to send emails to GMAIL addresses through the Campaign Control Panel.*
+    
+* **[Generating and installing GPG keys](/help/acc/monitoring-campaign-classic/control-panel/generating-and-installing-gpg-keys.md)**
+
+    *Learn how to generate and install a new public/private GPG key pair on a specified instance and how to import and install a public key to your Adobe Campaign instance.*
+
+
 * **[Troubleshooting the Control Panel](/help/acc/monitoring-campaign-classic/control-panel/trouble-shooting.md)**
   <br>
     *Understand how to troubleshoot the Control Panel*
 
 ## Additional Resources
 
-* [Discovering Campaign Control Panel (documentation)](https://helpx.adobe.com/campaign/kb/control-panel-overview.html)
-* [Granting access to Control Panel (documentation)](https://helpx.adobe.com/campaign/kb/control-panel-access.html)
-* [SFTP management (documentation)](https://helpx.adobe.com/campaign/kb/control-panel-sftp.html)
-  
+* [Control Panel Help Center)](https://docs.adobe.com/content/help/en/control-panel/using/control-panel-home.html)
