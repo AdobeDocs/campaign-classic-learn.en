@@ -35,7 +35,7 @@ This video explains how to deploy an email delivery template. It explains the di
 
 ## Additional Resources {#additional-resources}
 
-* [About Templates](https://docs.campaign.adobe.com/doc/AC/en/DLV_Using_delivery_templates_About_templates.html)
-* [Creating a Delivery Template](https://docs.campaign.adobe.com/doc/AC/en/DLV_Using_delivery_templates_Creating_a_delivery_template.html)
-* [Selecting a target mapping](https://docs.campaign.adobe.com/doc/AC/en/DLV_Using_delivery_templates_Selecting_a_target_mapping.html)
-* [Creating a delivery from a template](https://docs.campaign.adobe.com/doc/AC/en/DLV_Using_delivery_templates_Creating_a_delivery_from_a_template.html)
+* [About Templates](https://docs.adobe.com/content/help/en/campaign-classic/using/sending-messages/using-delivery-templates/about-templates.html)
+* [Creating a Delivery Template](https://docs.adobe.com/content/help/en/campaign-classic/using/sending-messages/using-delivery-templates/creating-a-delivery-template.html)
+* [Selecting a target mapping](https://docs.adobe.com/content/help/en/campaign-classic/using/sending-messages/using-delivery-templates/selecting-a-target-mapping.html)
+* [Creating a delivery from a template](https://docs.adobe.com/content/help/en/campaign-classic/using/sending-messages/using-delivery-templates/creating-a-delivery-from-a-template.html)

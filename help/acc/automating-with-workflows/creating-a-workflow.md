@@ -21,9 +21,9 @@ Workflows occur within various contexts and stages of the campaign management pr
 
 Adobe Campaign uses workflows to:
 
-* Carry out targeting campaigns. For more on this, refer to [Implementation steps](https://docs.campaign.adobe.com/doc/AC/en/WKF__General_operation_Building_a_workflow.html#Implementation_steps_).
-* Build campaigns: for each campaign, the **Workflow** tab lets you build the target and create the deliveries. For more on this, refer to [Campaign workflows](https://docs.campaign.adobe.com/doc/AC/en/WKF__General_operation_Building_a_workflow.html#Campaign_workflows).
-* Performing Adobe Campaign technical processes: cleanup, collecting tracking information or provisional calculations. For more on this, refer to [Technical workflows](https://docs.campaign.adobe.com/doc/AC/en/WKF__General_operation_Building_a_workflow.html#Technical_workflows).
+* Carry out targeting campaigns. For more on this, refer to [Implementation steps](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/general-operation/building-a-workflow.html#Implementation_steps_).
+* Build campaigns: for each campaign, the **Workflow** tab lets you build the target and create the deliveries. For more on this, refer to [Campaign workflows](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/general-operation/building-a-workflow.html#campaign-workflows).
+* Performing Adobe Campaign technical processes: cleanup, collecting tracking information or provisional calculations. For more on this, refer to [Technical workflows](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/general-operation/building-a-workflow.html#technical-workflows).
 
 This video explains how to create a workflow in Adobe Campaign Classic.
 

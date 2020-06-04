@@ -14,3 +14,7 @@ team: DOC
 This video gives an overview over the Adobe Campaign Classic V7 user interface.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25607?quality=12)
+
+## Additional Resources
+
+* [Adobe Campaign workspace](https://docs.adobe.com/content/help/en/campaign-classic/using/getting-started/starting-with-adobe-campaign/adobe-campaign-workspace.html)
