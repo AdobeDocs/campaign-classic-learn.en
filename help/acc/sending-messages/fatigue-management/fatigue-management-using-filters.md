@@ -19,4 +19,4 @@ This video explains how to implement fatigue management in Adobe Campaign Classi
 
 ## Additional Resources
 
-* [About campaign typologies](https://docs.campaign.adobe.com/doc/AC/en/CMP_Campaign_Optimization_About_campaign_typologies.html)
+* [About campaign typologies](https://docs.adobe.com/content/help/en/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html)

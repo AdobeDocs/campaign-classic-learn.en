@@ -35,5 +35,5 @@ Please note: This video was recorded in Adobe Campaign Classic V6, the functiona
 
 ## Additional Resources {#additional-resources}
 
-* [Targeting Data](https://docs.campaign.adobe.com/doc/AC/en/WKF__General_operation_Targeting_data.html)
-* [Workflow Best Practices](https://docs.campaign.adobe.com/doc/AC/en/WKF__General_operation_Best_practices.html)
+* [Targeting Data](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/general-operation/targeting-data.html)
+* [Workflow Best Practices](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/general-operation/workflow-best-practices.html)
