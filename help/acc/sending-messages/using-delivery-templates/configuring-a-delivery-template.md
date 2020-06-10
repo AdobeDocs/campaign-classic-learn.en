@@ -4,6 +4,7 @@ description: A template can systematically include typologies, sender and reply-
 feature: Delivery Templates
 topics: Templates
 kt: 1980
+thumbnail: 24066.jpg
 doc-type: feature video
 activity: use
 team: TM
