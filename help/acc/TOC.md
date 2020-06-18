@@ -15,8 +15,7 @@ getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with
 
 + [Overview](/help/acc/overview.md)
 + Getting Started {#getting-started}
-  + [Install and setup the Adobe Campaign Client](/help/acc/getting-started/install-and-setup-the-adobe-campaign-client.md)
-  + [The User Interface](/help/acc/getting-started/interface-overview.md)
+  + [Exploring the Adobe Campaign Classic user interface](/help/acc/getting-started/explore-the-adobe-campaign-classic-user-interface.md)
   + [Creating a campaign and an email](/help/acc/getting-started/creating-a-campaign-and-an-email.md)
   + [Creating a list of recipients](/help/acc/getting-started/creating-a-list-of-recipients.md)
   + [Creating a Workflow](/help/acc/automating-with-workflows/creating-a-workflow.md)
