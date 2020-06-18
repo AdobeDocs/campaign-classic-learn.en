@@ -20,4 +20,4 @@ This lesson explains the main Adobe Campaign Classic user interface and shows yo
 
 ## Additional resources
 
-* (Adobe Campaign workspace)[https://docs.adobe.com/content/help/en/campaign-classic/using/getting-started/starting-with-adobe-campaign/adobe-campaign-workspace.html]
+* [Adobe Campaign workspace](https://docs.adobe.com/content/help/en/campaign-classic/using/getting-started/starting-with-adobe-campaign/adobe-campaign-workspace.html)
