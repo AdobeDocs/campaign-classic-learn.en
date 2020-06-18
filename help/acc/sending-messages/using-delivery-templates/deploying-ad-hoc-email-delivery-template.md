@@ -4,6 +4,7 @@ description: This video explains how to deploy an ad-hoc email delivery template
 feature: Delivery Templates
 topics: Templates
 kt: 1565
+thumbnail: 24065.jpg
 doc-type: feature video
 activity: use
 team: TM

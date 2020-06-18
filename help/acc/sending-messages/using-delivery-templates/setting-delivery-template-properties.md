@@ -4,6 +4,7 @@ description: The following video shows how to set the delivery template properti
 feature: Delivery Templates
 topics: Templates
 kt: 1981
+thumbnail: 24067.jpg
 doc-type: feature video
 activity: use
 team: TM
