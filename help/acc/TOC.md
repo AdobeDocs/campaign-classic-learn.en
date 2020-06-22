@@ -62,7 +62,8 @@ getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with
     + [Adding URL Permissions](/help/acc/monitoring-campaign-classic/control-panel/adding-url-permissions.md)
     + [IP allow listing for Instance Access](/help/acc/monitoring-campaign-classic/control-panel/ip-allow-listing.md)
     + [Google TXT record management](/help/acc/monitoring-campaign-classic/control-panel/google-txt-record-management.md)
-    + [Generating and installing GPG keys](/help/acc/monitoring-campaign-classic/control-panel/generating-and-installing-gpg-keys.md)
+    + [Working with GPG keys]{#gpg-keys}
+      + [Generating and installing GPG keys](/help/acc/monitoring-campaign-classic/control-panel/gpg-keys/generating-and-installing-gpg-keys.md)
     + [Troubleshooting the Control Panel](/help/acc/monitoring-campaign-classic/control-panel/trouble-shooting.md)
   + Accessing an external database (FDA) {#fda}
     + [Big data management on Snowflake](/help/acc/administrating/snowflake/big-data-segmentation-on-snowflake.md)
