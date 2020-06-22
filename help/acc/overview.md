@@ -19,7 +19,7 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
     <br>
     *Learn how to fully delegate a subdomain to Adobe Campaign*
 
-* **[Defining Interactive Email Content with AMP](/help/acc/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)**
+* **[Defining Interactive email content with AMP](/help/acc/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)**
     <br>
     *Learn how to configure the email content Adobe Campaign Classic(ACC) in AMP format.*
 
