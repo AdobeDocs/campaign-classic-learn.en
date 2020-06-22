@@ -1,7 +1,7 @@
 ---
 title: Connecting to a SFTP Server
 description: This video explains how to connect to your SFTP Server using a client SFTP application, using the keys you have stored in the Control Panel.
-feature: SFTP Server Whitelisting
+feature: SFTP Server allow listing
 topics: Control Panel
 kt: 2924
 doc-type: feature video
@@ -24,7 +24,7 @@ To access the SFTP Management in Control Panel, go to:
 
 Connecting to SFTP servers requires:
 
-* Whitelisting the IP address from which you are connecting to the SFTP server  
+* allow listing the IP address from which you are connecting to the SFTP server  
 * Private/public key pair that needs to be registered with Adobe Campaign
 * If connecting to the SFTP server directly you will also need SFTP client software
 
