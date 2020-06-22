@@ -1,5 +1,5 @@
 ---
-title: Adding SSL Certificates
+title: Adding SSL certificates
 description: Adobe Campaign Control Panel allows you to add SSL certificates to secure your subdomains.
 feature: SSL Certificates
 topics: Control Panel
@@ -9,7 +9,7 @@ activity: use
 team: PM
 ---
 
-# Adding SSL Certificates
+# Adding SSL certificates
 
 Adobe Campaign Control Panel allows you to add SSL certificates to secure your subdomains.
 

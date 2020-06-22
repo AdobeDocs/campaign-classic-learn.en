@@ -43,6 +43,6 @@ The logs only include the jobs executed by the administrators of your Org. If th
 * Orange - server is 80% utilized
 * Red - server is 90% utilized
 
-## Additional Resources
+## Additional resources
 
-* [Generating a SSH Key](/help/acc/monitoring-campaign-classic/control-panel/generate-ssh-key.md
+* [Generating a SSH key](/help/acc/monitoring-campaign-classic/control-panel/generate-ssh-key.md)

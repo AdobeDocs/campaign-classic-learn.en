@@ -9,31 +9,31 @@ activity: use
 team: PM
 ---
 
-# Delegating Subdomains
+# Delegating subdomains
 
 >[!NOTE]
-> Subdomain delegation from the Control Panel will be available in beta by the end of January, and subject to
+> Subdomain delegation from the [!UICONTROL Control Panel] will be available in beta by the end of January, and subject to
 > frequent updates and modifications without notice.
 
-Adobe Campaign Control Panel allows you to fully delegate a subdomain to Adobe Campaign.
+Adobe Campaign [!UICONTROL Control Panel] allows you to fully delegate a subdomain to Adobe Campaign.
 
-## Accessing Control Panel Subdomain Management
+## Accessing [!UICONTROL Control Panel] Subdomain Management
 
-To access the Subdomain Management in Control Panel, go to:
+To access the Subdomain Management in [!UICONTROL Control Panel], go to:
 
-* [Experience Cloud Home](https://experience.adobe.com/#/home) > Solution picker: Campaign > **Control Panel** card > **Subdomains & Certificates** card
+* [Experience Cloud Home](https://experience.adobe.com/#/home) > Solution picker: Campaign > **[!UICONTROL Control Panel]** card > **Subdomains & Certificates** card
   
   or
 * Directly from the URL: [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
 
-## How to delegate Subdomains
+## How to delegate subdomains
 
-The video below demonstrates how to do this.
+The video below demonstrates how to delegate subdomains.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31390?quality=12)
 *Subdomain Delegation (05:07 min)*
 
-## Additional Resources
+## Additional resources
 
 * [Adding SSL certificated](/help/acc/monitoring-campaign-classic/control-panel/adding-ssl-certificates.md)
 * [Subdomains and certificates](https://docs.adobe.com/content/help/en/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)
