@@ -60,36 +60,37 @@ The following video explains how to add an administrator to a Campaign instance
   * [Monitoring server capacity, allow listing IP addresses, and adding SSH keys](/help/acc/monitoring-campaign-classic/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
    * [Generating a SSH key](/help/acc/monitoring-campaign-classic/control-panel/generate-ssh-key.md)
    * [Connecting to a SFTP server](/help/acc/monitoring-campaign-classic/control-panel/connect-to-sftp-server.md)
+  
 * **[Delegating subdomains](/help/acc/monitoring-campaign-classic/control-panel/subdomain-delegation.md)**
-    <br>
+
     *Learn how to fully delegate a subdomain to [!UICONTROL Adobe Campaign]*
 
 * **[Adding SSL certificates](/help/acc/monitoring-campaign-classic/control-panel/adding-ssl-certificates.md)**
-    <br>
+
     *Learn how you can add a SSL certificates to secure your subdomains using Control Panel.*
 
 * **[Managing SSL certificates](/help/acc/monitoring-campaign-classic/control-panel/managing-ssl-certificates.md)**
-    <br>
+
     *Learn how you can view the status of the SSL certificates of your subdomains, as well as request renewals.*
 
 * **[Adding URL permissions](/help/acc/monitoring-campaign-classic/control-panel/adding-url-permissions.md)**
-    <br>
+
     *how to add some outside URLs to the list of authorized URLs, so that your instance can connect to them.*
 
 * **[IP allow listing for instance access](/help/acc/monitoring-campaign-classic/control-panel/ip-allow-listing.md)**
-    <br>
+
     *Learn how to set up new connections to your instances by [!UICONTROL allow listing] IP addresses ranges.*
 
 * **[Google TXT record management](/help/acc/monitoring-campaign-classic/control-panel/google-txt-record-management.md)**
-    <br>
+
     *Learn how to add [!DNL Google TXT] site verification record to all your subdomains used to send emails to [!DNL GMAIL] addresses through the [!UICONTROL Campaign Control Panel].*
-    
+
 * **[Generating and installing GPG keys](/help/acc/monitoring-campaign-classic/control-panel/generating-and-installing-gpg-keys.md)**
 
     *Learn how to generate and install a new public/private GPG key pair on a specified instance and how to import and install a public key to your Adobe Campaign instance.*
 
 * **[Troubleshooting the control panel](/help/acc/monitoring-campaign-classic/control-panel/trouble-shooting.md)**
-  <br>
+
     *Understand how to troubleshoot the [!UICONTROL Control Panel]*
 
 ## Additional resources

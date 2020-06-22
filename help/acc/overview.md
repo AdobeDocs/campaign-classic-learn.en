@@ -12,14 +12,14 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 ## What's New
 
 **[Control Panel - Generating and installing GPG keys](/help/acc/monitoring-campaign-classic/control-panel/generating-and-installing-gpg-keys.md)**
-
+    <br>
     *Learn how to generate and install a new public/private GPG key pair on a specified instance and how to import and install a public key to your Adobe Campaign instance.*
 
 * **[Delegating Subdomains (BETA)](/help/acc/monitoring-campaign-classic/control-panel/subdomain-delegation.md)**
     <br>
     *Learn how to fully delegate a subdomain to Adobe Campaign*
 
-* **[Defining Interactive Email Content with AMP](/help/acc/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)**
+* **[Defining Interactive email content with AMP](/help/acc/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)**
     <br>
     *Learn how to configure the email content Adobe Campaign Classic(ACC) in AMP format.*
 
