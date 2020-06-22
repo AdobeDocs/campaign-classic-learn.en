@@ -1,8 +1,8 @@
 ---
 title: Control Panel
 seo-title: Control Panel
-description: The Control Panel allows you to monitor and manage your SFTP storage by instance and whitelist IP addresses.
-seo-description: The Control Panel allows you to monitor and manage your SFTP storage by instance and whitelist IP addresses.
+description: The Control Panel allows you to monitor and manage your SFTP storage by instance and allow list IP addresses.
+seo-description: The Control Panel allows you to monitor and manage your SFTP storage by instance and allow list IP addresses.
 feature: Control Panel
 topics: Control Panel
 kt: 3262
@@ -11,48 +11,53 @@ activity: use
 team: PM
 ---
 
-# Control Panel
+# [!UICONTROL Control Panel] {#control-panel}
 
-The Control Panel allows Adobe Campaign administrators to easily monitor key assets as well as perform administrative tasks, like managing the SFTP storage by instance or whitelist IP addresses.
+>[!NOTE]
+>
+>The terms ‘[!UICONTROL whitelist]’ and ‘[!UICONTROL blacklist]’ have been replaced by ‘[!UICONTROL allow list]’ and ‘[!UICONTROL block list]’in the Adobe Campaign documentation. Some occurrences of these terms may still exist in the product UI, option names, internal code, as well as the tutorial videos. They will be replaced in upcoming Control Panel releases.
 
-## Accessing Control Panel
+The [!UICONTROL Control Panel] allows Adobe Campaign administrators to monitor key assets and perform administrative tasks, such as managing the SFTP storage by instance or [!UICONTROL allow list] IP addresses.
 
-To access the Control Panel go to Experience Cloud Home [https://experiencecloud.adobe.com]( https://experiencecloud.adobe.com):
+## Accessing [!UICONTROL Control Panel]
 
-* Experience Cloud Home > Quick Access
+To access the Control Panel go to Experience Cloud Home: [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com):
+
+* **[!UICONTROL Experience Cloud Home]** > **[!UICONTROL Quick Access]**
   
   or
-* [Experience Cloud Home](https://experiencecloud.adobe.com) > Solution picker: Campaign > Control Panel card
+* **[!UICONTROL Experience Cloud Home]**  > [!UICONTROL Solution picker]: **Campaign** > **[!UICONTROL Control Panel] card**
   
   or
 
 * Directly from the URL: [https://experience.adobe.com/#/controlpanel](https://experience.adobe.com/#/controlpanel)
-  
+
 ## Prerequisites
 
-### Confirm IMS Org ID
+Before you get started, complete the following prerequisites:
 
-Before you get started, you need to know your IMS Org ID. The video below describes where you can lookup your instance's IMS org ID.
+### Confirm [!DNL IMS Org ID]
+
+You need to know your [!DNL IMS org ID]. The following video describes where you can lookup your instance's [!DNL IMS org ID].
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
-*Check IMS Org ID (00:26 min)*
+*Check [!DNL IMS Org ID] (00:26 min)*
 
 ### Administrator Rights
 
-Administrator rights are required to access to the Control Panel.
-
-The video below explains how to add an administrator to a Campaign instance
+Administrator rights are required to access to the [!UICONTROL Control Panel].
+The following video explains how to add an administrator to a Campaign instance
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
-*How to add an administrator to the product profile "administrators" to be able to use the Control panel (01:03 min)*
+*How to add an administrator to the product profile "[!UICONTROL Administrators]" to be able to use [!UICONTROL Control Panel] (01:03 min)*
 
 ## Control Panel Tutorials
 
 * **Managing SFTP Servers**
-    <br>
-    *Learn how to monitor the server capacity, whitelist IP addresses, and add SSH keys*
 
-   * [Monitoring server capacity, whitelisting IP addresses, and adding SSH keys](/help/acc/monitoring-campaign-classic/control-panel/monitoring-server-capacity-whitelisting-adding-ssh-key.md)
+    *Learn how to monitor the server capacity, allow list IP addresses, and add SSH keys*
+
+  * [Monitoring server capacity, allow listing IP addresses, and adding SSH keys](/help/acc/monitoring-campaign-classic/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
    * [Generating a SSH Key](/help/acc/monitoring-campaign-classic/control-panel/generate-ssh-key.md)
    * [Connecting to a SFTP Server](/help/acc/monitoring-campaign-classic/control-panel/connect-to-sftp-server.md)
 * **[Delegating Subdomains](/help/acc/monitoring-campaign-classic/control-panel/subdomain-delegation.md)**
@@ -71,9 +76,9 @@ The video below explains how to add an administrator to a Campaign instance
     <br>
     *how to add some outside URLs to the list of authorized URLs, so that your instance can connect to them.*
 
-* **[IP Whitelisting for Instance Access](/help/acc/monitoring-campaign-classic/control-panel/ip-whitelisting.md)**
+* **[IP allow listing for Instance Access](/help/acc/monitoring-campaign-classic/control-panel/ip-allow listing.md)**
     <br>
-    *Learn how to set up new connections to your instances by whitelisting IP addresses ranges.*
+    *Learn how to set up new connections to your instances by allow listing IP addresses ranges.*
 
 * **[Google TXT record management](/help/acc/monitoring-campaign-classic/control-panel/google-txt-record-management.md)**
     <br>
@@ -90,4 +95,4 @@ The video below explains how to add an administrator to a Campaign instance
 
 ## Additional Resources
 
-* [Control Panel Help Center)](https://docs.adobe.com/content/help/en/control-panel/using/control-panel-home.html)
+* [Control Panel Help Center](https://docs.adobe.com/content/help/en/control-panel/using/control-panel-home.html)
