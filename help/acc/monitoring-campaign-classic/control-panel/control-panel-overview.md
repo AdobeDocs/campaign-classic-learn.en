@@ -43,7 +43,7 @@ You need to know your [!DNL IMS org ID]. The following video describes where you
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
 *Check [!DNL IMS Org ID] (00:26 min)*
 
-### Administrator Rights
+### Administrator rights
 
 Administrator rights are required to access to the [!UICONTROL Control Panel].
 The following video explains how to add an administrator to a Campaign instance
@@ -51,48 +51,47 @@ The following video explains how to add an administrator to a Campaign instance
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
 *How to add an administrator to the product profile "[!UICONTROL Administrators]" to be able to use [!UICONTROL Control Panel] (01:03 min)*
 
-## Control Panel Tutorials
+## [!UICONTROL Control Panel] tutorials
 
-* **Managing SFTP Servers**
+* **Managing SFTP servers**
 
-    *Learn how to monitor the server capacity, allow list IP addresses, and add SSH keys*
+    *Learn how to monitor the server capacity, [!UICONTROL allow list] IP addresses, and add SSH keys*
 
   * [Monitoring server capacity, allow listing IP addresses, and adding SSH keys](/help/acc/monitoring-campaign-classic/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
-   * [Generating a SSH Key](/help/acc/monitoring-campaign-classic/control-panel/generate-ssh-key.md)
-   * [Connecting to a SFTP Server](/help/acc/monitoring-campaign-classic/control-panel/connect-to-sftp-server.md)
-* **[Delegating Subdomains](/help/acc/monitoring-campaign-classic/control-panel/subdomain-delegation.md)**
+   * [Generating a SSH key](/help/acc/monitoring-campaign-classic/control-panel/generate-ssh-key.md)
+   * [Connecting to a SFTP server](/help/acc/monitoring-campaign-classic/control-panel/connect-to-sftp-server.md)
+* **[Delegating subdomains](/help/acc/monitoring-campaign-classic/control-panel/subdomain-delegation.md)**
     <br>
-    *Learn how to fully delegate a subdomain to Adobe Campaign*
+    *Learn how to fully delegate a subdomain to [!UICONTROL Adobe Campaign]*
 
-* **[Adding SSL Certificates](/help/acc/monitoring-campaign-classic/control-panel/adding-ssl-certificates.md)**
+* **[Adding SSL certificates](/help/acc/monitoring-campaign-classic/control-panel/adding-ssl-certificates.md)**
     <br>
     *Learn how you can add a SSL certificates to secure your subdomains using Control Panel.*
 
-* **[Managing SSL Certificates](/help/acc/monitoring-campaign-classic/control-panel/managing-ssl-certificates.md)**
+* **[Managing SSL certificates](/help/acc/monitoring-campaign-classic/control-panel/managing-ssl-certificates.md)**
     <br>
     *Learn how you can view the status of the SSL certificates of your subdomains, as well as request renewals.*
 
-* **[Adding URL Permissions](/help/acc/monitoring-campaign-classic/control-panel/adding-url-permissions.md)**
+* **[Adding URL permissions](/help/acc/monitoring-campaign-classic/control-panel/adding-url-permissions.md)**
     <br>
     *how to add some outside URLs to the list of authorized URLs, so that your instance can connect to them.*
 
-* **[IP allow listing for Instance Access](/help/acc/monitoring-campaign-classic/control-panel/ip-allow listing.md)**
+* **[IP allow listing for instance access](/help/acc/monitoring-campaign-classic/control-panel/ip-allow-listing.md)**
     <br>
-    *Learn how to set up new connections to your instances by allow listing IP addresses ranges.*
+    *Learn how to set up new connections to your instances by [!UICONTROL allow listing] IP addresses ranges.*
 
 * **[Google TXT record management](/help/acc/monitoring-campaign-classic/control-panel/google-txt-record-management.md)**
     <br>
-    *Learn how to add Google TXT site verification record to all your subdomains used to send emails to GMAIL addresses through the Campaign Control Panel.*
+    *Learn how to add [!DNL Google TXT] site verification record to all your subdomains used to send emails to [!DNL GMAIL] addresses through the [!UICONTROL Campaign Control Panel].*
     
 * **[Generating and installing GPG keys](/help/acc/monitoring-campaign-classic/control-panel/generating-and-installing-gpg-keys.md)**
 
     *Learn how to generate and install a new public/private GPG key pair on a specified instance and how to import and install a public key to your Adobe Campaign instance.*
 
-
-* **[Troubleshooting the Control Panel](/help/acc/monitoring-campaign-classic/control-panel/trouble-shooting.md)**
+* **[Troubleshooting the control panel](/help/acc/monitoring-campaign-classic/control-panel/trouble-shooting.md)**
   <br>
-    *Understand how to troubleshoot the Control Panel*
+    *Understand how to troubleshoot the [!UICONTROL Control Panel]*
 
-## Additional Resources
+## Additional resources
 
 * [Control Panel Help Center](https://docs.adobe.com/content/help/en/control-panel/using/control-panel-home.html)

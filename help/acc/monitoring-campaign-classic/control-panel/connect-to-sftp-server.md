@@ -9,7 +9,7 @@ activity: use
 team: PM
 ---
 
-# Connecting to a SFTP Server
+# Connecting to a SFTP server
 
 ## Accessing Control Panel SFTP Management
 
@@ -20,7 +20,7 @@ To access the SFTP Management in Control Panel, go to:
   or
 * Directly from the URL: [http://experience.adobe.com/#/controlpanel/sftp](http://experience.adobe.com/#/controlpanel/sftp)
 
-## How to connect to a SFTP Server
+## How to connect to a SFTP server
 
 Connecting to SFTP servers requires:
 
