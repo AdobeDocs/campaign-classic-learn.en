@@ -1,5 +1,5 @@
 ---
-title: Adding URL Permissions
+title: Adding URL permissions
 seo-title: Adding URL Permissions
 description: The video below explains how to add some outside URLs to the list of authorized URLs, so that your instance can connect to them.  
 seo-description: TThe video below explains how to add some outside URLs to the list of authorized URLs, so that your instance can connect to them. 
@@ -11,7 +11,7 @@ activity: use
 team: PM
 ---
 
-# Adding URL Permissions 
+# Adding URL permissions 
 
 The video below explains how to add some outside URLs to the list of authorized URLs, so that your instance can connect to them.  For more information please see About URL permissions. For more information please see [About URL permissions](https://helpx.adobe.com/campaign/kb/control-panel-instance-settings.html).
 
