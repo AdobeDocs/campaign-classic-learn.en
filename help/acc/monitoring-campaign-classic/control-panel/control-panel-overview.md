@@ -11,11 +11,12 @@ activity: use
 team: PM
 ---
 
-# [!UICONTROL Control Panel] {#control-panel}
+# [!UICONTROL Control Panel]
 
 >[!NOTE]
 >
->The terms ‘[!UICONTROL whitelist]’ and ‘[!UICONTROL blacklist]’ have been replaced by ‘[!UICONTROL allow list]’ and ‘[!UICONTROL block list]’in the Adobe Campaign documentation. Some occurrences of these terms may still exist in the product UI, option names, internal code, as well as the tutorial videos. They will be replaced in upcoming Control Panel releases.
+>The terms ‘[!UICONTROL whitelist]’ and ‘[!UICONTROL blacklist]’ have been replaced by ‘[!UICONTROL allow list]’ and ‘[!UICONTROL block list]’in the Adobe Campaign documentation. 
+>Some occurrences of these terms may still exist in the product UI, option names, internal code, as well as the tutorial videos. They will be replaced in upcoming Control Panel releases.
 
 The [!UICONTROL Control Panel] allows Adobe Campaign administrators to monitor key assets and perform administrative tasks, such as managing the SFTP storage by instance or [!UICONTROL allow list] IP addresses.
 
@@ -85,7 +86,7 @@ The following video explains how to add an administrator to a Campaign instance
 
     *Learn how to add [!DNL Google TXT] site verification record to all your subdomains used to send emails to [!DNL GMAIL] addresses through the [!UICONTROL Campaign Control Panel].*
 
-* **[Control Panel - Generating and installing GPG keys](/help/acc/monitoring-campaign-classic/control-panel/generating-and-installing-gpg-keys.md)**
+* **[Generating and installing GPG keys](/help/acc/monitoring-campaign-classic/control-panel/generating-and-installing-gpg-keys.md)**
 
     *Learn how to generate and install a new public/private GPG key pair on a specified instance and how to import and install a public key to your Adobe Campaign instance.*
 

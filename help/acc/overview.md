@@ -17,7 +17,7 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 
 * **[Delegating Subdomains (BETA)](/help/acc/monitoring-campaign-classic/control-panel/subdomain-delegation.md)**
 
-    *Learn how to fully delegate a subdomain to Adobe Campaign*
+    *Learn how to fully delegate a subdomain to Adobe Campaign.*
 
 * **[Defining Interactive email content with AMP](/help/acc/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)**
 
