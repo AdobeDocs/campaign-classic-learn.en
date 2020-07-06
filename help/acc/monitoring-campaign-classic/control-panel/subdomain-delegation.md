@@ -12,8 +12,8 @@ team: PM
 # Delegating subdomains
 
 >[!NOTE]
-> Subdomain delegation from the [!UICONTROL Control Panel] will be available in beta by the end of January, and subject to
-> frequent updates and modifications without notice.
+>
+>Subdomain delegation from the [!UICONTROL Control Panel] will be available in beta by the end of January, and subject to frequent updates and modifications without notice.
 
 Adobe Campaign [!UICONTROL Control Panel] allows you to fully delegate a subdomain to Adobe Campaign.
 
