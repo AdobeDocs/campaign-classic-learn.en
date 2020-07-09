@@ -38,6 +38,6 @@ By configuring conditional content fields, you can create advanced personalizati
 
 >[!VIDEO](https://video.tv.adobe.com/v/24926?quality=12)
 
-## Additional Resources
+## Additional resources
 
 * [About Personalization](https://docs.adobe.com/content/help/en/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html)

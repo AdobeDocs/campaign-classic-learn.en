@@ -23,7 +23,7 @@ The video below explains how to activate AMP in Adobe Campaign Classic and showc
 
 >[!VIDEO](https://video.tv.adobe.com/v/29940?quality=12&learn=on)
 
-## Additional Resources
+## Additional resources
 
 * [Documentation](https://docs.adobe.com/content/help/en/campaign-classic/using/sending-messages/sending-emails/defining-the-email-content.html)
 * [AMP editor](https://playground.amp.dev/)
