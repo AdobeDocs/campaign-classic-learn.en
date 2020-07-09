@@ -21,6 +21,6 @@ This video explains how to configure an enrichment activity based on delivery lo
 
 >[!VIDEO](https://video.tv.adobe.com/v/25193?quality=12)
 
-## Additional Resources
+## Additional resources
 
 - [Enriching data](http://docs.campaign.adobe.com/doc/AC/en/WKF_Use_cases_Enriching_data.html)

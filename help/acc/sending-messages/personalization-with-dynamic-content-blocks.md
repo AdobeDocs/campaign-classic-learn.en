@@ -38,6 +38,6 @@ By configuring conditional content fields, you can create advanced personalizati
 
 >[!VIDEO](https://video.tv.adobe.com/v/24926?quality=12)
 
-## Additional Resources
+## Additional resources
 
 * [About Personalization](https://docs.campaign.adobe.com/doc/AC/en/DLV_Personalizing_deliveries_About_personalization.html)

@@ -33,7 +33,7 @@ This video explains how to deploy an email delivery template. It explains the di
 
 >[!VIDEO](https://video.tv.adobe.com/v/24065?qualit=12)
 
-## Additional Resources {#additional-resources}
+## Additional resources {#additional-resources}
 
 * [About Templates](https://docs.campaign.adobe.com/doc/AC/en/DLV_Using_delivery_templates_About_templates.html)
 * [Creating a Delivery Template](https://docs.campaign.adobe.com/doc/AC/en/DLV_Using_delivery_templates_Creating_a_delivery_template.html)
