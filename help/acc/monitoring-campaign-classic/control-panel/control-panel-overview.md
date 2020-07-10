@@ -86,9 +86,13 @@ The following video explains how to add an administrator to a Campaign instance
 
     *Learn how to add [!DNL Google TXT] site verification record to all your subdomains used to send emails to [!DNL GMAIL] addresses through the [!UICONTROL Campaign Control Panel].*
 
-* **[Generating and installing GPG keys](/help/acc/monitoring-campaign-classic/control-panel/generating-and-installing-gpg-keys.md)**
+* **GPG key management**
 
-    *Learn how to generate and install a new public/private GPG key pair on a specified instance and how to import and install a public key to your Adobe Campaign instance.*
+    *Learn how to generate and install a public/private key pair on a specified Campaign instance for the encryption of outbound data, as well as import and install a public key on a Campaign instance for the decryption of inbound data:*
+
+  * [Generating and installing GPG keys for data encryption](./gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
+  * [Using a GPG key to encrypt data](./gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
+  * [Decrypting data](./gpg-key-management/decrypting-data.md)
 
 * **[Troubleshooting the control panel](/help/acc/monitoring-campaign-classic/control-panel/trouble-shooting.md)**
 
