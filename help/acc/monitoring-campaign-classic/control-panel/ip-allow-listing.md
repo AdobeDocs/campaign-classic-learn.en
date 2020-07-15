@@ -15,14 +15,14 @@ team: PM
 
 The Control Panel allows you to set up new connections to your instances by allow listing IP address ranges. By default, an Adobe Campaign Classic instance is not accessible from various IP addresses. Therefore, an IP address needs to be allow listed:
 
-* To allow access to the Campaign instance from this IP address
+* To allow access to the [!DNL Campaign] instance from this IP address
 * To connect an API to your Message Center or marketing instance
 
 ## Accessing Control Panel Instance Settings
 
 To access the Subdomain Management in Control Panel, go to:
 
-* [Experience Cloud Home](https://experience.adobe.com/#/home) > Solution picker: Campaign > **Control Panel** card > **Instances Settings** card
+* [Experience Cloud Home](https://experience.adobe.com/#/home) > Solution picker: **[!DNL Campaign]** > **[!UICONTROL Control Panel]** card > **Instances Settings** card
   
   or
 * Directly from the URL: [https://experience.adobe.com/#/controlpanel/instances](https://experience.adobe.com/#/controlpanel/instances)

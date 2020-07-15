@@ -11,7 +11,7 @@ team: PM
 
 # Big data management on Snowflake
 
-This tutorial explains how to leverage the Snowflake connector in Adobe Campaign Classic.
+This tutorial explains how to leverage the [!DNL Snowflake] connector in Adobe Campaign Classic.
 You will learn how to
 
 * Connect to Snowflake

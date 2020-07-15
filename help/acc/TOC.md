@@ -73,5 +73,5 @@ getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with
       + [Decrypting data](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/decrypting-data.md)
     + [Troubleshooting the Control Panel](/help/acc/monitoring-campaign-classic/control-panel/trouble-shooting.md)
   + Accessing an external database (FDA) {#fda}
-    + [Big data management on Snowflake](/help/acc/administrating/snowflake/big-data-segmentation-on-snowflake.md)
+    + [Big data management on [!DNL Snowflake]](/help/acc/administrating/snowflake/big-data-segmentation-on-snowflake.md)
   
