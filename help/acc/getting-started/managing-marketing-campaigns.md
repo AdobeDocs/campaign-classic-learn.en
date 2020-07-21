@@ -14,6 +14,6 @@ skill level: beginner
 
 # Managing Marketing Campaigns
 
-Understand the key concepts of Adobe Campaign that help effectively plan, execute, and measure cross-channel marketing campaigns.
+Understand the key concepts of [!UICONTROL Adobe Campaign] that help effectively plan, execute, and measure cross-channel marketing campaigns.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35131?quality=12)
