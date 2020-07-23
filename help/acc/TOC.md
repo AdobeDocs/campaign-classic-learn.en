@@ -23,8 +23,10 @@ getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with
   + [Creating a list of recipients](/help/acc/getting-started/creating-a-list-of-recipients.md)
   + [Creating a Workflow](/help/acc/automating-with-workflows/creating-a-workflow.md)
   + [Creating a targeting workflow](/help/acc/automating-with-workflows/creating-a-targeting-workflow.md)
-  + [How to import profiles](/help/acc/data-management/importing-profiles.md)
   + [Manage seed and proofs in an email](/help/acc/sending-messages/managing-seed-and-proofs.md)
++ Profile Management {#profile-management}
+  + [Create and manage profiles](/help/acc/profile-management/create-and-manage-profiles.md)
+  + [Importing profiles](/help/acc/data-management/importing-profiles.md)
 + Sending Messages{#sending-messages}
   + Email Channel{#email-channel}
     + [Creating a campaign and an email](/help/acc/getting-started/creating-a-campaign-and-an-email.md)
