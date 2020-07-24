@@ -12,7 +12,7 @@ team: WWFRE
 
 # Targeting profiles in a workflow
 
-Understand the use of campaign workflows and learn how to target profiles in a workflow
+Understand the use of campaign workflows and learn how to create a workflow and target profiles in a workflow using filtering conditions.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35614?quality=12)
 
