@@ -21,7 +21,7 @@ getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with
   + [Creating a marketing plan, programs, and campaigns](/help/acc/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
   + [Creating a campaign and an email](/help/acc/getting-started/creating-a-campaign-and-an-email.md)
   + [Creating a list of recipients](/help/acc/getting-started/creating-a-list-of-recipients.md)
-  + [Creating a Workflow](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/getting-started/creating-a-workflow.html))
+  + [Creating a Workflow](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/getting-started/creating-a-workflow.html)
   + [Targeting profiles in a workflow](/help/acc/getting-started/targeting-profiles-in-a-workflow.md)
 + Profile Management {#profile-management}
   + [Create and manage profiles](/help/acc/profile-management/create-and-manage-profiles.md)
