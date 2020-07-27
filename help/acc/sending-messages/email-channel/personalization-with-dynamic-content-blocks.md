@@ -25,7 +25,7 @@ Learn how created dynamic content blocks and how use them to personalize the con
 Documentation:
 
 * [About Personalization](https://docs.adobe.com/content/help/en/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html)
-* ([Personalization blocks](https://docs.adobe.com/content/help/en/campaign-classic/using/sending-messages/personalizing-deliveries/personalization-blocks.html))
+* ([Personalization blocks](https://docs.adobe.com/content/help/en/campaign-classic/using/sending-messages/personalizing-deliveries/personalization-blocks.html)
 
 Video Tutorials:
 
