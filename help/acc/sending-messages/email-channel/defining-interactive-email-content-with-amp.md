@@ -17,13 +17,13 @@ Currently it is supported by two email providers: Gmail and Outlook.
 
 >[!NOTE]
 >
-> To be able to deliver AMP emails you will need to register the email address you are sending from with [Google](https://developers.google.com/gmail/ampemail/register) and [Microsoft](https://docs.microsoft.com/en-us/outlook/amphtml/register-outlook).
+>To be able to deliver AMP emails you will need to register the email address you are sending from with [Google](https://developers.google.com/gmail/ampemail/register) and [Microsoft](https://docs.microsoft.com/en-us/outlook/amphtml/register-outlook).
 
 The video below explains how to activate AMP in Adobe Campaign Classic and showcases the usage.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29940?quality=12&learn=on)
 
-## Additional Resources
+## Additional resources
 
 * [Documentation](https://docs.adobe.com/content/help/en/campaign-classic/using/sending-messages/sending-emails/defining-the-email-content.html)
 * [AMP editor](https://playground.amp.dev/)

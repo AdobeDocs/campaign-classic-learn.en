@@ -4,6 +4,7 @@ description: The video below explains how to generate and install a public/priva
 feature: Control Panel
 topics: 
 kt: 5240
+thumbnail: 
 doc-type: feature video
 activity: use
 team: TM

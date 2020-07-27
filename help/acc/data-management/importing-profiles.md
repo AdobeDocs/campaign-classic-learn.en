@@ -15,6 +15,6 @@ This video explains how to import profiles in Adobe Campaign Classic.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25608?quality=12)
 
-## Additional Resources
+## Additional resources
 
 - [Exporting and Importing Profiles](https://docs.adobe.com/content/help/en/campaign-classic/using/getting-started/profile-management/exporting-and-importing-profiles.html)
