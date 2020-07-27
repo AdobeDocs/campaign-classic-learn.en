@@ -1,21 +1,22 @@
 ---
-title: Creating Multi Channel Campaigns in Adobe Campaign Classic (ACC)
-description: This video demonstrates how to create a multichannel campaign in Adobe Campaign Classic. You will also learn how to  configure an email, a SMS, and a direct mail delivery.
+title: Creating multi-channel campaigns in Adobe Campaign Classic (ACC)
+description: Learn how to create a multi-channel campaign utilizing email, SMS, and a direct mail deliveries.
 feature: Workflows
-topics: Multi Channel
+topics: 
 kt: 1563
+thumbnail: 24981.jpg
 doc-type: feature video
 activity: use
 team: TM
 ---
 
-# Creating Multi Channel Campaigns
+# Creating multi-channel campaigns
 
-In a multichannel campaign, a single marketing communication utilizes multiple channels to reach a wider target audience based on the preferred recipient channel.
+In a multi-channel campaign, a single marketing communication utilizes multiple channels to reach a wider target audience based on the preferred recipient channel.
 
-Multichannel deliveries are designed and executed in a single workflow.
+Multi-channel deliveries are designed and executed in a single workflow.
 
-This video demonstrates how to create a multichannel campaign in Adobe Campaign Classic. You will also learn how to  configure an email, a SMS, and a direct mail delivery.
+Learn how to create a multi-channel campaign utilizing email, SMS, and a direct mail deliveries.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24981?quality=12)
 
