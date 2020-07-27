@@ -32,7 +32,7 @@ getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with
     + [Manage seed and proofs in an email](/help/acc/sending-messages/managing-seed-and-proofs.md)
     + [Personalizing emails using dynamic content blocks](personalization-with-dynamic-content-blocks.md)
     + [Personalizing emails using personalization field](personalizing-emails-using-personalization-fields.md)
-    + [Personalizing emails - Create a multi lingual newsletter using conditional content](personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content)
+    + [Personalizing emails - Create a multi lingual newsletter using conditional content](personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
     + [Configure recurring and continuous email campaigns](/help/acc/sending-messages/recurring-deliveries.md)
     + [Defining Interactive Email Content with AMP](/help/acc/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)
   + Push Channel {#push-channel}

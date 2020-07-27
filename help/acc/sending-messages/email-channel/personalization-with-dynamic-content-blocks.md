@@ -30,4 +30,4 @@ Documentation:
 Video Tutorials:
 
 * [Personalizing emails using personalization field](personalizing-emails-using-personalization-fields.md)
-* [Personalizing emails - Create a multi lingual newsletter using conditional content](personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content)
+* [Personalizing emails - Create a multi lingual newsletter using conditional content](personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)

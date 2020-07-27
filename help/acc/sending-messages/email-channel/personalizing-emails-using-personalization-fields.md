@@ -26,4 +26,4 @@ Documentation:
 * [Personalization fields](https://docs.adobe.com/content/help/en/campaign-classic/using/sending-messages/personalizing-deliveries/personalization-fields.html)
 
 * [Personalizing emails using dynamic content blocks](personalization-with-dynamic-content-blocks.md)
-* [Personalizing emails - Create a multi lingual newsletter using conditional content](personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content)
+* [Personalizing emails - Create a multi lingual newsletter using conditional content](personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
