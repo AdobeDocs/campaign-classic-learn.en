@@ -27,6 +27,6 @@ Please note: This feature is only available as of Adobe Campaign Classic V7 (bui
 
 >[!VIDEO](https://video.tv.adobe.com/v/25558?quality=12)
 
-## Additional Resources
+## Additional resources
 
 * [Monitoring Processes](https://docs.adobe.com/content/help/en/campaign-classic/using/monitoring-campaign-classic/production-procedures/monitoring-processes.html#Workflow_monitoring)

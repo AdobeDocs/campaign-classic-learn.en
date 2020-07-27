@@ -17,7 +17,7 @@ This video explains how to Configure and install the Adobe Experience Platform M
 
 *Configure and install the Adobe Experience Platform Mobile SDK (07:04 min)*
 
-## Additional Resources
+## Additional resources
 
 * [Campaign Classic extension for Adobe Experience Platform SDK](https://helpx-internal.corp.adobe.com/content/help/en/campaign/kb/acc-aep-extension.html)
 

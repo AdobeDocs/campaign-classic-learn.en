@@ -62,16 +62,20 @@ getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with
 + Administrating {#administrating}
   + Control Panel {#control-panel-acc}
     + [Control Panel Overview](/help/acc/monitoring-campaign-classic/control-panel/control-panel-overview.md)
-    + [Monitoring server capacity, whitelisting IP addresses, and adding SSH keys](/help/acc/monitoring-campaign-classic/control-panel/monitoring-server-capacity-whitelisting-adding-ssh-key.md)
+    + [Monitoring server capacity, allow listing IP addresses, and adding SSH keys](/help/acc/monitoring-campaign-classic/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
     + [Generating a SSH Key](/help/acc/monitoring-campaign-classic/control-panel/generate-ssh-key.md)
     + [Connecting to a SFTP Server](/help/acc/monitoring-campaign-classic/control-panel/connect-to-sftp-server.md)  
     + [Delegating Subdomains](/help/acc/monitoring-campaign-classic/control-panel/subdomain-delegation.md)
     + [Adding SSL Certificates](/help/acc/monitoring-campaign-classic/control-panel/adding-ssl-certificates.md)
     + [Managing SSL Certificates](/help/acc/monitoring-campaign-classic/control-panel/managing-ssl-certificates.md)
     + [Adding URL Permissions](/help/acc/monitoring-campaign-classic/control-panel/adding-url-permissions.md)
-    + [IP Whitelisting for Instance Access](/help/acc/monitoring-campaign-classic/control-panel/ip-whitelisting.md)
+    + [IP allow listing for Instance Access](/help/acc/monitoring-campaign-classic/control-panel/ip-allow-listing.md)
     + [Google TXT record management](/help/acc/monitoring-campaign-classic/control-panel/google-txt-record-management.md)
-    + [Generating and installing GPG keys](/help/acc/monitoring-campaign-classic/control-panel/generating-and-installing-gpg-keys.md)
+    + GPG key management {#gpg-key-management}
+      + [GPG key management - overview](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/gpg-key-management-overview.md)
+      + [Generating and installing GPG keys for data encryption](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
+      + [Using a GPG key to encrypt data](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
+      + [Decrypting data](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/decrypting-data.md)
     + [Troubleshooting the Control Panel](/help/acc/monitoring-campaign-classic/control-panel/trouble-shooting.md)
   + Accessing an external database (FDA) {#fda}
     + [Big data management on Snowflake](/help/acc/administrating/snowflake/big-data-segmentation-on-snowflake.md)
