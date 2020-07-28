@@ -1,13 +1,9 @@
 ---
 title: Creating a Workflow
-seo-title: Creating a workflow 
-description: This video explains how to create a workflow in Adobe Campaign Classic.
-seo-description: This video explains how to create a workflow in Adobe Campaign Classic.
-uuid: 2b6be688-0569-45e7-93fe-fbfac4819198
-discoiquuid: 09f3dd78-8ef4-46d8-a9dc-5bd54cc1b60d
+description: This video explains how to create a workflow in 
 feature: Workflow
-topics: Building a workflow
-kt: KT-2175
+topics: 
+kt: 2175
 doc-type: feature video
 activity: use
 team: DOC
