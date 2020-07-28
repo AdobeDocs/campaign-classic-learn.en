@@ -1,6 +1,6 @@
 ---
 title: Targeting profiles in a workflow
-description: Adobe Campaign Classic uses workflows to carry out targeting campaigns, build campaigns or execute Adobe Campaign technical processes. In this video we will focus on targeting workflows. Targeting workflows enable you to build several delivery targets.
+description: Understand the use of campaign workflows and learn how to create a workflow and target profiles in a workflow using filtering conditions.
 feature: Workflows
 topics: Targeting Activities
 kt: 5080
@@ -26,4 +26,7 @@ Documentation:
 
 Tutorials:
 
-* [Creating a targeting workflow](/help/acc/automating-with-workflows/creating-a-targeting-workflow.md)
+* [Create and manage profiles](/help/acc/profile-management/create-and-manage-profiles.md)
+* [Importing profiles](/help/acc/data-management/importing-profiles.md)
+* [Creating a list of recipients](/help/acc/profile-management/creating-a-list-of-recipients.md)
+* [Creating a list of recipients with a workflow](/help/acc/profile-management/creating-a-list-of-recipients-with-a-workflow.md)
