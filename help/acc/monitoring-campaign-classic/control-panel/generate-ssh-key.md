@@ -17,7 +17,7 @@ You need to be able to generate a SSH key in order to be able to add it to the C
 
 To access the SFTP Management in Control Panel, go to:
 
-* [Experience Cloud Home](https://experience.adobe.com/#/home) > Solution picker: Campaign > **Control Panel** card > **SFTP** card
+* [Experience Cloud Home](https://experience.adobe.com/#/home) > Solution picker: **[!DNL Campaign]** > **Control Panel** card > **SFTP** card
   
   or
 * Directly from the URL: [http://experience.adobe.com/#/controlpanel/sftp](http://experience.adobe.com/#/controlpanel/sftp)

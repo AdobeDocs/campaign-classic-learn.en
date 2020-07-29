@@ -21,18 +21,18 @@ The user needs to locate their IMS Org ID (xxx). The Administrator needs to add 
 ### Symptom: Links in the Experience Cloud Home to access [!UICONTROL Control Panel] do not appear for a user 
 
 **Cause:**
-Users won’t see the links until they are added as users to Product Profile “Campaign-xxx-Administrators/Admin”
+Users won’t see the links until they are added as users to Product Profile _Campaign-xxx-Administrators/Admin_.
 
 **What to do:**
-The Administrator needs to add the user to the Product Profile “Campaign-xxx-Admins”  for each instance that they would like to manage. If the user is an admin of all instances they still might need to add themselves as “users. 
+The Administrator needs to add the user to the Product Profile _Campaign-xxx-Admins_  for each instance that they would like to manage. If the user is an admin of all instances they still might need to add themselves as “users. 
 
 ### Symptom: An Instance is not listed in the [!UICONTROL Control Panel]
 
 **Cause:**
-Most likely user needs to be added as a “user” Product Profile “Campaign-xxx-Administrators/Admin” for the instance that is missing
+Most likely user needs to be added as a “user” Product Profile _Campaign-xxx-Administrators/Admin_ for the instance that is missing
 
 **What to do:**
-The Administrator needs to add the user to the Product Profile “Campaign-xxx-Admins”  for each instance that they would like to manage. If the user is an admin of all instances they still might need to add themselves as “users”.
+The Administrator needs to add the user to the Product Profile _Campaign-xxx-Admins_  for each instance that they would like to manage. If the user is an admin of all instances they still might need to add themselves as “users”.
 
 ### Helpful videos
 
