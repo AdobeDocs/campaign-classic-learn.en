@@ -19,19 +19,20 @@ getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with
   + [Exploring the Adobe Campaign Classic user interface](/help/acc/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
   + [Managing Marketing Campaigns](/help/acc/getting-started/managing-marketing-campaigns.md)
   + [Creating a marketing plan, programs, and campaigns](/help/acc/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
-  + [Creating a campaign and an email](/help/acc/getting-started/creating-a-campaign-and-an-email.md)
-  + [Creating a list of recipients](/help/acc/getting-started/creating-a-list-of-recipients.md)
-  + [Creating a Workflow](/help/acc/automating-with-workflows/creating-a-workflow.md)
-  + [Creating a targeting workflow](/help/acc/automating-with-workflows/creating-a-targeting-workflow.md)
-  + [Manage seed and proofs in an email](/help/acc/sending-messages/managing-seed-and-proofs.md)
+  + [Creating a campaign and an email](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/getting-started/creating-a-campaign-and-an-email.html)
+  + [Targeting profiles in a workflow](/help/acc/getting-started/targeting-profiles-in-a-workflow.md)
 + Profile Management {#profile-management}
   + [Create and manage profiles](/help/acc/profile-management/create-and-manage-profiles.md)
   + [Importing profiles](/help/acc/data-management/importing-profiles.md)
+  + [Creating a list of recipients](/help/acc/profile-management/creating-a-list-of-recipients.md)
+  + [Creating a list of recipients with a workflow](/help/acc/profile-management/creating-a-list-of-recipients-with-a-workflow.md)
 + Sending Messages{#sending-messages}
   + Email Channel{#email-channel}
     + [Creating a campaign and an email](/help/acc/getting-started/creating-a-campaign-and-an-email.md)
     + [Manage seed and proofs in an email](/help/acc/sending-messages/managing-seed-and-proofs.md)
-    + [Personalize emails using dynamic content blocks](/help/acc/sending-messages/personalization-with-dynamic-content-blocks.md)
+    + [Personalizing emails using dynamic content blocks](/help/acc/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
+    + [Personalizing emails using personalization field](/help/acc/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
+    + [Personalizing emails - Create a multi lingual newsletter using conditional content](/help/acc/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
     + [Configure recurring and continuous email campaigns](/help/acc/sending-messages/recurring-deliveries.md)
     + [Defining Interactive Email Content with AMP](/help/acc/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)
   + Push Channel {#push-channel}

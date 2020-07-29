@@ -54,11 +54,11 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
     <p>
   </td>
   <td>
-    <a href="./sending-messages/personalization-with-dynamic-content-blocks.md">
+    <a href="./sending-messages/email-channel/personalization-with-dynamic-content-blocks.md">
       <img alt="Personalize emails using dynamic content blocks (video)" src="./assets/ACC-Personalization.png" />
     </a>
     <div>
-      <a href="./sending-messages/personalization-with-dynamic-content-blocks.md">
+      <a href="./sending-messages/email-channel/personalization-with-dynamic-content-blocks.md">
     <strong>Personalize emails using dynamic content blocks</strong>
     </a>
     </div>

@@ -12,7 +12,8 @@ team: PM
 # Delegating subdomains
 
 >[!NOTE]
-> Subdomain delegation from the [!UICONTROL Control Panel] will be available in beta by the end of January, and subject to
+
+> Subdomain delegation from the [!UICONTROL Control Panel] is in beta and subject to
 > frequent updates and modifications without notice.
 
 Adobe Campaign [!UICONTROL Control Panel] allows you to fully delegate a subdomain to Adobe Campaign.
@@ -22,7 +23,6 @@ Adobe Campaign [!UICONTROL Control Panel] allows you to fully delegate a subdoma
 To access the Subdomain Management in [!UICONTROL Control Panel], go to:
 
 * [Experience Cloud Home](https://experience.adobe.com/#/home) > Solution picker: **[!DNL Campaign]** > **[!UICONTROL Control Panel]** card > **Subdomains & Certificates** card
-  
   or
 * Directly from the URL: [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
 
