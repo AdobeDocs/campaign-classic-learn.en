@@ -46,7 +46,7 @@ getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with
     + [Using pre defined filters](/help/acc/sending-messages/fatigue-management/fatigue-management-using-filters.md)
 + Orchestrating Campaigns {#orchestration}
   + [Creating multi-channel campaigns](/help/acc/orchestrating-campaigns/multi-channel-campaigns.md)
-+ Reporting
++ Reporting {#reporting}
   + [Generating a descriptive analysis report](/help/acc/reporting/generating-a-descriptive-analysis-report.md)
 + Automating with workflow{#automating-with-workflows}
   + [Creating a Workflow](/help/acc/automating-with-workflows/creating-a-workflow.md)
