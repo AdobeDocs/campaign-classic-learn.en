@@ -28,3 +28,4 @@ Tutorials:
 
 * [Creating a workflow](/help/acc/automating-with-workflows/creating-a-workflow.md)
 * [Creating a targeting workflow](/help/acc/automating-with-workflows/creating-a-targeting-workflow.md)
+* [Refining targets by excluding query results](/help/acc/automating-with-workflows/refining-targets-by-excluding-query-results.md)
