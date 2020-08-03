@@ -14,7 +14,7 @@ team: WWFRE
 
 Learn how to refine your target by combining query results in a workflow using the **[!UICONTROL intersection]** or the **[!UICONTROL union]** activities.
 
->[!VIDEO](https://video.tv.adobe.com/v/25605?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/36832?quality=12)
 
 ## Additional resources
 
