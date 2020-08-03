@@ -4,6 +4,7 @@ description: This video, explains how to configure the email content Adobe Campa
 feature: Email Channel
 topics: Create and Send Email Deliveries
 kt: 3475
+thumbnail: 29940.jpg
 doc-type: feature video
 activity: set-up
 team: TM

@@ -11,13 +11,13 @@ team: PM
 
 # Adding SSL certificates
 
-Adobe Campaign Control Panel allows you to add SSL certificates to secure your subdomains.
+Adobe Campaign [!UICONTROL Control Panel] allows you to add SSL certificates to secure your subdomains.
 
 ## Accessing Control Panel Subdomain Management
 
 To access the Subdomain Management in Control Panel, go to:
 
-* [Experience Cloud Home](https://experience.adobe.com/#/home) > Solution picker: Campaign > **Control Panel** card > **Subdomains & Certificates** card
+* [Experience Cloud Home](https://experience.adobe.com/#/home) > Solution picker: **[!DNL Campaign]** > **[!UICONTROL Control Panel]** card > **[!UICONTROL Subdomains & Certificates]** card
   
   or
 * Directly from the URL: [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
@@ -43,7 +43,7 @@ After obtaining the CSR, you will need to purchase the SSL certificate from a Ce
 
 Once you have obtained the SSL certificate it will need to be installed for the subdomains you are planning on securing.
 
-The video below explains how to install SSL certificates in Control Panel.  
+The video below explains how to install SSL certificates in [!UICONTROL Control Panel].  
 
 >[!VIDEO](https://video.tv.adobe.com/v/31166?quality=12)
 *Install SSL Certificates (01:25 min)*

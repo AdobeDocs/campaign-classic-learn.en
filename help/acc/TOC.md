@@ -46,9 +46,12 @@ getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with
     + [Using pre defined filters](/help/acc/sending-messages/fatigue-management/fatigue-management-using-filters.md)
 + Orchestrating Campaigns {#orchestration}
   + [Creating multi-channel campaigns](/help/acc/orchestrating-campaigns/multi-channel-campaigns.md)
++ Reporting {#reporting}
+  + [Generating a descriptive analysis report](/help/acc/reporting/generating-a-descriptive-analysis-report.md)
 + Automating with workflow{#automating-with-workflows}
   + [Creating a Workflow](/help/acc/automating-with-workflows/creating-a-workflow.md)
   + [Creating a targeting workflow](/help/acc/automating-with-workflows/creating-a-targeting-workflow.md)
+  + [Refining targets by combining query results](/help/acc/automating-with-workflows/refining-targets-by-combining-query-results.md)
   + [Configuring validation workflows](/help/acc/automating-with-workflows/validation-flow-configuration.md)
   + [Configure Enrichment activities](/help/acc/automating-with-workflows/enrichment-activity.md)
   + [Data Segmentation](/help/acc/data-management/data-segmentation.md)
@@ -78,5 +81,5 @@ getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with
       + [Decrypting data](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/decrypting-data.md)
     + [Troubleshooting the Control Panel](/help/acc/monitoring-campaign-classic/control-panel/trouble-shooting.md)
   + Accessing an external database (FDA) {#fda}
-    + [Big data management on Snowflake](/help/acc/administrating/snowflake/big-data-segmentation-on-snowflake.md)
+    + [Big data management on [!DNL Snowflake]](/help/acc/administrating/snowflake/big-data-segmentation-on-snowflake.md)
   
