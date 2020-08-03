@@ -26,6 +26,6 @@ Documentation:
 
 Tutorials:
 
-* [Creating a workflow](/help/acc/automating-with-workflows/creating-a-workflow.md)
-* [Creating a targeting workflow](/help/acc/automating-with-workflows/creating-a-targeting-workflow.md)
+* [Targeting profiles in a workflow](/help/acc/getting-started/targeting-profiles-in-a-workflow.md)
 * [Refining targets by excluding query results](/help/acc/automating-with-workflows/refining-targets-by-excluding-query-results.md)
+* [Creating lists with a workflow](/help/acc/automating-with-workflows/creating-lists-with-a-workflow.md)

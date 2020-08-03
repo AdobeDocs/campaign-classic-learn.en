@@ -16,6 +16,12 @@ Understand the use of campaign workflows and learn how to create a workflow and 
 
 >[!VIDEO](https://video.tv.adobe.com/v/35614?quality=12)
 
+## Next Tutorials to watch
+
+* [Refining targets by combining query results](/help/acc/automating-with-workflows/refining-targets-by-combining-query-results.md)
+* [Refining targets by excluding query results](/help/acc/automating-with-workflows/refining-targets-by-excluding-query-results.md)
+* [Creating lists with a workflow](/help/acc/automating-with-workflows/creating-lists-with-a-workflow.md)
+
 ## Additional resources
 
 Documentation:
@@ -28,5 +34,3 @@ Tutorials:
 
 * [Create and manage profiles](/help/acc/profile-management/create-and-manage-profiles.md)
 * [Importing profiles](/help/acc/data-management/importing-profiles.md)
-* [Creating a list of recipients](/help/acc/profile-management/creating-a-list-of-recipients.md)
-* [Creating a list of recipients with a workflow](/help/acc/profile-management/creating-a-list-of-recipients-with-a-workflow.md)
