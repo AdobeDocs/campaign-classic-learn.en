@@ -42,28 +42,28 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
   </td>
    <td>
     <a href="./monitoring-campaign-classic/audit-trail.md">
-      <img alt="Audit Trail (video)" src="./assets/acc-audit-trail.png" />
+      <img alt="Audit Trail (video)" src="./assets/acc-audit-trail-thumb.png" />
     </a>
     <div>
       <a href="./monitoring-campaign-classic/audit-trail.md">
     <strong>Audit Trail</strong>
     </a>
-    </div>
+    </div> 
     <p>
     <em>Capture a comprehensive list of actions and events occurring within Adobe Campaign.</em>
     <p>
   </td>
   <td>
-    <a href="./sending-messages/email-channel/personalization-with-dynamic-content-blocks.md">
-      <img alt="Personalize emails using dynamic content blocks (video)" src="./assets/ACC-Personalization.png" />
+    <a href="./sending-messages/email-channel/defining-interactive-email-content-with-amp.md">
+      <img alt="Defining Interactive Email Content with AMP (video)" src="./assets/29940.png" />
     </a>
     <div>
-      <a href="./sending-messages/email-channel/personalization-with-dynamic-content-blocks.md">
-    <strong>Personalize emails using dynamic content blocks</strong>
+      <a href="./sending-messages/email-channel/defining-interactive-email-content-with-amp.md">
+    <strong>Defining Interactive Email Content with AMP</strong>
     </a>
     </div>
     <p>
-    <em>Personalize messages using criteria from recipient profiles. </em>
+    <em>Learn how to activate and use AMP in Adobe Campaign Classic </em>
     <p>
   </td>
 </tr>
