@@ -53,7 +53,7 @@ getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with
   + [Creating a targeting workflow](/help/acc/automating-with-workflows/creating-a-targeting-workflow.md)
   + [Refining targets by combining query results](/help/acc/automating-with-workflows/refining-targets-by-combining-query-results.md)
   + [Refining targets by excluding query results](/help/acc/automating-with-workflows/refining-targets-by-excluding-query-results.md)
-  + [Creating lists with a workflow](/help/acc/automating-with-workflows/creating-lists-with-a-workflow.md)
+  + [Creating lists with a workflow](/help/acc/automating-with-workflows/using -the-update-list-activity.md)
   + [Configuring validation workflows](/help/acc/automating-with-workflows/validation-flow-configuration.md)
   + [Configure Enrichment activities](/help/acc/automating-with-workflows/enrichment-activity.md)
   + [Data Segmentation](/help/acc/data-management/data-segmentation.md)

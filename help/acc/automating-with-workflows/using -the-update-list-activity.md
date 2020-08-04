@@ -1,5 +1,5 @@
 ---
-title: Creating lists with a workflow
+title: Using the update list activity to create a list with a workflow
 description: Learn how to refine your target by applying a standard exclusion to a workflow. You will also learn how to create predefined filters and how to trouble shoot your workflow.
 feature: Workflows
 topics: Targeting Activities
@@ -10,9 +10,9 @@ activity: use
 team: WWFRE
 ---
 
-# Creating lists with a workflow
+# Using the update list activity to create a list with a workflow
 
-Learn how to refine your target by applying a **[!UICONTROL standard exclusion]** to a workflow. You will also learn how to create predefined filters and how to trouble shoot your workflow.
+Understand the concept of lists in Adobe Campaign Classic and learn how to create a list using the update list activity in a workflow.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35620?quality=12)
 
