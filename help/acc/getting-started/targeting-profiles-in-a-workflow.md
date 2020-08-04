@@ -20,7 +20,7 @@ Understand the use of campaign workflows and learn how to create a workflow and 
 
 * [Refining targets by combining query results](/help/acc/automating-with-workflows/refining-targets-by-combining-query-results.md)
 * [Refining targets by excluding query results](/help/acc/automating-with-workflows/refining-targets-by-excluding-query-results.md)
-* [Creating lists with a workflow](/help/acc/automating-with-workflows/creating-lists-with-a-workflow.md)
+* [Creating lists with a workflow](/help/acc/automating-with-workflows/using -the-update-list-activity.md)
 
 ## Additional resources
 
