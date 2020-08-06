@@ -1,9 +1,10 @@
 ---
 title: How to manage seed and proofs in an email
-description: In this video you will learn how to add seeds and proofs to an existing email and how to send it.
-feature: Seed address management
-topics: Email Channel
+description: Learn how to add seeds and proofs to an existing email and how to send it.
+feature: Email
+topics:
 kt: 2178
+thumbnail: 25606.jpg
 doc-type: feature video
 activity: use
 team: DOC
@@ -11,7 +12,7 @@ team: DOC
 
 # How to manage seed and proofs in an email
 
-In this video you will learn how to add seeds and proofs to an existing email and how to send it.
+Learn how to add seeds and proofs to an existing email and how to send it.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25606?quality=12)
 
