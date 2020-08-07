@@ -70,10 +70,6 @@ The following video explains how to add an administrator to a Campaign instance
 
     *Learn how you can add a SSL certificates to secure your subdomains using Control Panel.*
 
-* **[Managing SSL certificates](/help/acc/monitoring-campaign-classic/control-panel/managing-ssl-certificates.md)**
-
-    *Learn how you can view the status of the SSL certificates of your subdomains, as well as request renewals.*
-
 * **[Adding URL permissions](/help/acc/monitoring-campaign-classic/control-panel/adding-url-permissions.md)**
 
     *how to add some outside URLs to the list of authorized URLs, so that your instance can connect to them.*
