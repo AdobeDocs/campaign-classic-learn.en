@@ -72,7 +72,6 @@ getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with
     + [Connecting to a SFTP Server](/help/acc/monitoring-campaign-classic/control-panel/connect-to-sftp-server.md)  
     + [Delegating Subdomains](/help/acc/monitoring-campaign-classic/control-panel/subdomain-delegation.md)
     + [Adding SSL Certificates](/help/acc/monitoring-campaign-classic/control-panel/adding-ssl-certificates.md)
-    + [Managing SSL Certificates](/help/acc/monitoring-campaign-classic/control-panel/managing-ssl-certificates.md)
     + [Adding URL Permissions](/help/acc/monitoring-campaign-classic/control-panel/adding-url-permissions.md)
     + [IP allow listing for Instance Access](/help/acc/monitoring-campaign-classic/control-panel/ip-allow-listing.md)
     + [Google TXT record management](/help/acc/monitoring-campaign-classic/control-panel/google-txt-record-management.md)
