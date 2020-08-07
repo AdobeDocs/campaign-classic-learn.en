@@ -13,7 +13,7 @@ team: PM
 # Decrypting data
 
 Control Panel allows you to decrypt external data coming into your Adobe Campaign instances using a public/private key pair.
-Learn how to create a public key and import and install it on a Campaign instance for the decryption of inbound data.
+Learn how to create a public key and import and install it on a [!DNL Campaign] instance for the decryption of inbound data.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36482?quality=12)
 

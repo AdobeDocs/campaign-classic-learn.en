@@ -11,7 +11,7 @@ team: PM
 
 # How to use the Audit Trail
 
-Audit Trail captures, in real-time, a comprehensive list of actions and events occurring within Adobe Campaign. The Audit Trail features includes a self-serve way to access a history of data to help answer questions such as:
+[!UICONTROL Audit Trail] captures, in real-time, a comprehensive list of actions and events occurring within Adobe Campaign. The [!UICONTROL Audit Trail] features includes a self-serve way to access a history of data to help answer questions such as:
 
 * What happened to an object?
 * Who modified it  last and when?
@@ -21,7 +21,7 @@ Audit Trail captures, in real-time, a comprehensive list of actions and events o
 >
 >Audit Trails requires Campaign Classic version 19.1 or newer
 
-The Audit Trail will log and list operator actions, such as creation, modification, and deletion for workflows, options, and source schema. In addition the following actions are logged specifically for workflows:
+The [!UICONTROL Audit Trail] will log and list operator actions, such as creation, modification, and deletion for workflows, options, and source schema. In addition the following actions are logged specifically for workflows:
 
 * Start
 * Pause
@@ -36,4 +36,4 @@ The video below describes where to access the Audit Trail logs and which setting
 
 >[!VIDEO](https://video.tv.adobe.com/v/27425?quality=12)
 
-For more information can be found in the  [Audit Trail Documentation](http://docs.campaign.adobe.com/doc/AC/en/PRO_Production_procedures_Audit_trail.html).
+For more information can be found in the  [Audit Trail Documentation](https://docs.adobe.com/content/help/en/campaign-classic/using/monitoring-campaign-classic/production-procedures/audit-trail.html).

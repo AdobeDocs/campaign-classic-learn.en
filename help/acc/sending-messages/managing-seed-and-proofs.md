@@ -17,5 +17,5 @@ In this video you will learn how to add seeds and proofs to an existing email an
 
 ## Additional resources
 
-- [Sending a proof](https://docs.campaign.adobe.com/doc/AC/en/MCE_Message_templates_Sending_a_proof.html)
-- [Seed addresses](https://docs.campaign.adobe.com/doc/AC/en/CFG_Use_a_custom_recipient_table_Seed_addresses.html)
+- [Sending a proof](https://docs.adobe.com/content/help/en/campaign-classic/using/transactional-messaging/message-templates/sending-a-proof.html)
+- [Seed addresses](https://docs.adobe.com/content/help/en/campaign-classic/using/configuring-campaign-classic/use-a-custom-recipient-table/seed-addresses.html)

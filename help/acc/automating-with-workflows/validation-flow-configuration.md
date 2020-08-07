@@ -28,7 +28,7 @@ Prior to enabling approval steps, the marketing team must define individual revi
 
 ## Configuring approvals for campaigns  {#configuring-approvals-for-campaigns}
 
-If you have the same set of reviewers for all deliveries in your campaign workflow, then you would leverage the Campaign approval functionalities. By setting up approvals and reviewers at the campaign level, the approval tasks and reviewers will be pushed down to each delivery activity of your workflow once the workflow is executed.
+If you have the same set of reviewers for all deliveries in your campaign workflow, then you would leverage the [!DNL Campaign] approval functionalities. By setting up approvals and reviewers at the campaign level, the approval tasks and reviewers will be pushed down to each delivery activity of your workflow once the workflow is executed.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25175?quality=12)
 
@@ -43,3 +43,5 @@ You can also set up approvals at a delivery level. If delivery approvals steps a
 Unlike the delivery or campaign approvals, the approval activity allows one to create an approval process within a workflow. This way, the targeting selection logic can be approved before the delivery is launched. It also allows approval at multiple levels within the workflow, if needed.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25174?quality=12)
+
+For more information, refer to the [Approval Documentation](https://docs.adobe.com/help/en/campaign-classic/using/automating-with-workflows/flow-control-activities/approval.html)

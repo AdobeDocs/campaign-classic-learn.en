@@ -25,6 +25,6 @@ This video explains how to implement fatigue management in Adobe Campaign Classi
 
 ## Additional resources
 
-* [About campaign typologies](https://docs.campaign.adobe.com/doc/AC/en/CMP_Campaign_Optimization_About_campaign_typologies.html)
-* [Managing marketing fatigue with pressure rules](https://docs.campaign.adobe.com/doc/AC/en/CMP_Campaign_Optimization_Managing_marketing_fatigue_with_pressure_rules.html)
+* [About campaign typologies](https://docs.adobe.com/content/help/en/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html)
+* [Managing marketing fatigue with pressure rules](https://docs.adobe.com/content/help/en/campaign-classic/using/orchestrating-campaigns/campaign-optimization/pressure-rules.html)
   
