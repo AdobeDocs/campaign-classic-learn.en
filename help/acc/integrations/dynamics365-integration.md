@@ -5,7 +5,7 @@ description: This video demonstrates how to integrate Dynamics 365 with Adobe Ca
 targetaudience: target-audience new;target-audience ongoing
 feature: Microsoft Dynamics 365 Connector  
 topics: Configure
-kt: 1559
+kt: 1869
 doc-type: feature video
 activity: setup
 team: DOC

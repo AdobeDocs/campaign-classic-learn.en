@@ -40,4 +40,4 @@ By configuring conditional content fields, you can create advanced personalizati
 
 ## Additional resources
 
-* [About Personalization](https://docs.campaign.adobe.com/doc/AC/en/DLV_Personalizing_deliveries_About_personalization.html)
+* [About Personalization](https://docs.adobe.com/content/help/en/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html)

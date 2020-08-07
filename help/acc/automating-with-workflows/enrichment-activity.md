@@ -23,4 +23,4 @@ This video explains how to configure an enrichment activity based on delivery lo
 
 ## Additional resources
 
-- [Enriching data](http://docs.campaign.adobe.com/doc/AC/en/WKF_Use_cases_Enriching_data.html)
+- [Enriching data](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/use-cases/enriching-data.html)
