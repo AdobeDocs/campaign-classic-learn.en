@@ -12,6 +12,6 @@ team: WWFRE
 
 # Creating direct mail deliveries
 
-Understand how direct mail works in Adobe Campaign and learn how to create, format and execute a direct mail delivery.
+Understand how [!UICONTROL direct mail] works in [!UICONTROL Adobe Campaign] and learn how to create, format and execute a [!UICONTROL direct mail ]delivery.
 
 >[!VIDEO](https://video.tv.adobe.com/v/21377?quality=12)
