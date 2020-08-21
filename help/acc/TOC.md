@@ -42,7 +42,7 @@ getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with
     + [Setting delivery template properties](/help/acc/sending-messages/using-delivery-templates/setting-delivery-template-properties.md)
     + [Deploying an ad-hoc email delivery template](/help/acc/sending-messages/using-delivery-templates/deploying-ad-hoc-email-delivery-template.md)
   + Direct mail {#direct-mail}
-    + [Creating direct mail deliveries](help/acc/sending-messages/direct-mail/creating-direct-mail-deliveries.md)
+    + [Creating direct mail deliveries](/help/acc/sending-messages/direct-mail/creating-direct-mail-deliveries.md)
   + Fatigue Management{#fatigue-management}
     + [Using typology rules](/help/acc/sending-messages/fatigue-management/typology-rules-for-fatigue-management.md)
     + [Using pre defined filters](/help/acc/sending-messages/fatigue-management/fatigue-management-using-filters.md)
