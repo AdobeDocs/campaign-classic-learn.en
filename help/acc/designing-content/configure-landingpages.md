@@ -4,6 +4,7 @@ description: Adobe Campaign Classic enables you to design and host a variety of 
 feature: Landing Pages
 topics: Configure
 kt: 1562
+thumbnail: 25041.jpg
 doc-type: feature video
 activity: setup
 team: DOC
