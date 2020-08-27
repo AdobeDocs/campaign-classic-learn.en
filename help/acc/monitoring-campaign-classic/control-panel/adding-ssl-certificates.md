@@ -4,6 +4,7 @@ description: Adobe Campaign Control Panel allows you to add SSL certificates to 
 feature: SSL Certificates
 topics: Control Panel
 kt: 4219
+thumbnail: 31317.jpg
 doc-type: feature video
 activity: use
 team: PM
