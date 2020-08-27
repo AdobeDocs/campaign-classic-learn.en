@@ -1,6 +1,6 @@
 ---
 title: How to configure landing pages in Adobe Campaign Classic
-description: Adobe Campaign Classic enables you to design and host a variety of webpages on its server including online surveys, preference centers, unsubscribe pages. This video demonstrates how to navigate Adobe Campaign’s web application editor by creating a preference center.
+description: Adobe Campaign Classic enables you to design and host a variety of landing pages on its server including online surveys, preference centers, unsubscribe pages. This video demonstrates how to navigate Adobe Campaign’s web application editor by creating a preference center.
 feature: Landing Pages
 topics: Configure
 kt: 1562
@@ -12,7 +12,7 @@ team: DOC
 
 # How to configure landing pages
 
-Adobe Campaign Classic enables you to design and host a variety of webpages on its server including online surveys, preference centers, unsubscribe pages. 
+Adobe Campaign Classic enables you to design and host a variety of landing pages on its server including online surveys, preference centers, unsubscribe pages.
 
 This video demonstrates how to navigate Adobe Campaign’s web application editor by creating a preference center.
 
