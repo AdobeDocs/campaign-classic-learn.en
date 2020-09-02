@@ -1,19 +1,19 @@
 ---
 title: Adding URL permissions
-seo-title: Adding URL Permissions
-description: The video below explains how to add some outside URLs to the list of authorized URLs, so that your instance can connect to them.  
-seo-description: TThe video below explains how to add some outside URLs to the list of authorized URLs, so that your instance can connect to them. 
-feature: URl Permissions
-topics: Control Panel
+description: Learn how to establish a connection from your Adobe Campaign Classic instence to an external URL.
+feature: Control Panel
+topics: Instance Settings
 kt: 3259
+thumbnail: 28149.jpg
 doc-type: feature video
 activity: use
-team: PM
+team: TM
 ---
 
 # Adding URL permissions 
 
-The video below explains how to add some outside URLs to the list of authorized URLs, so that your instance can connect to them.  For more information please see About URL permissions. For more information please see [About URL permissions](https://helpx.adobe.com/campaign/kb/control-panel-instance-settings.html).
+Learn how to establish a connection from your [!UICONTROL Adobe Campaign Classic] instance to an external URL.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28149?quality=12)
-*Adding URL permissions (01:52 min)*
+
+For more information please see [URL permissions](https://docs.adobe.com/content/help/en/control-panel/using/instances-settings/url-permissions.html).
