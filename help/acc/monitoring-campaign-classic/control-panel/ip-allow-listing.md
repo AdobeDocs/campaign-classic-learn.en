@@ -1,17 +1,18 @@
 ---
-title: IP allow listing for Instance Access
-seo-title: IP allow listing for Instance Access
-description: The video below explains how to set up new connections to your instances by allow listing IP addresses ranges.
+title: Adding IP adresses to allow lists
+seo-title: Adding IP adresses to allow lists
+description: Learn how add an IP range to Campaign Classic instances' allow lists and how to remove them from the allow list using the control panel.
 seo-description: The video below explains how to set up new connections to your instances by allow listing IP addresses ranges.
-feature: IP allow listing
-topics: Control Panel
+feature: instance settings
+topics: 
 kt: 3479
+thumbnail: 28726.jpg
 doc-type: feature video
 activity: use
 team: PM
 ---
 
-# IP allow listing for Instance Access
+# Adding IP adresses to allow lists
 
 The Control Panel allows you to set up new connections to your instances by allow listing IP address ranges. By default, an Adobe Campaign Classic instance is not accessible from various IP addresses. Therefore, an IP address needs to be allow listed:
 
@@ -26,11 +27,10 @@ To access the Subdomain Management in Control Panel, go to:
   or
 * Directly from the URL: [https://experience.adobe.com/#/controlpanel/instances](https://experience.adobe.com/#/controlpanel/instances)
 
-## How to allow list IP addresses
+## Add an IP range to your instance's allow list
 
-The video below describes how to allow list IP addresses using the control panel.
+Learn how add an IP range to Campaign Classic instances' allow lists and how to remove them from the allow list using the control panel.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28726?quality=12)
-*IP allow listing  (03:24 min)*
 
 For more information on IP allow listing please see the [detailed product documentation]( https://helpx.adobe.com/campaign/kb/control-panel-instance-settings.html).
