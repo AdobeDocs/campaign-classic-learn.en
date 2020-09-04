@@ -76,7 +76,7 @@ type: Tutorial
     + [Delegating Subdomains](/help/acc/monitoring-campaign-classic/control-panel/subdomain-delegation.md)
     + [Adding SSL Certificates](/help/acc/monitoring-campaign-classic/control-panel/adding-ssl-certificates.md)
     + [Adding URL Permissions](/help/acc/monitoring-campaign-classic/control-panel/adding-url-permissions.md)
-    + [Adding IP adresses to allow lists](/help/acc/monitoring-campaign-classic/control-panel/ip-allow-listing.md)
+    + [Adding IP addresses to allow lists](/help/acc/monitoring-campaign-classic/control-panel/ip-allow-listing.md)
     + [Google TXT record management](/help/acc/monitoring-campaign-classic/control-panel/google-txt-record-management.md)
     + GPG key management {#gpg-key-management}
       + [GPG key management - overview](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/gpg-key-management-overview.md)

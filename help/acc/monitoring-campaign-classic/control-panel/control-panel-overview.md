@@ -74,7 +74,7 @@ The following video explains how to add an administrator to a Campaign instance
 
     *how to add some outside URLs to the list of authorized URLs, so that your instance can connect to them.*
 
-* **[Adding IP adresses to allow lists](/help/acc/monitoring-campaign-classic/control-panel/ip-allow-listing.md)**
+* **[Adding IP addresses to allow lists](/help/acc/monitoring-campaign-classic/control-panel/ip-allow-listing.md)**
 
     *Learn how to set up new connections to your instances by [!UICONTROL allow listing] IP addresses ranges.*
 

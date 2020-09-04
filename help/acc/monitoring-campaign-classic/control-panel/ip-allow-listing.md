@@ -1,6 +1,6 @@
 ---
-title: Adding IP adresses to allow lists
-seo-title: Adding IP adresses to allow lists
+title: Adding IP addresses to allow lists
+seo-title: Adding IP addresses to allow lists
 description: Learn how add an IP range to Campaign Classic instances' allow lists and how to remove them from the allow list using the control panel.
 seo-description: The video below explains how to set up new connections to your instances by allow listing IP addresses ranges.
 feature: instance settings
@@ -12,7 +12,7 @@ activity: use
 team: PM
 ---
 
-# Adding IP adresses to allow lists
+# Adding IP addresses to allow lists
 
 The Control Panel allows you to set up new connections to your instances by allow listing IP address ranges. By default, an Adobe Campaign Classic instance is not accessible from various IP addresses. Therefore, an IP address needs to be allow listed:
 
