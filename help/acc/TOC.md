@@ -2,6 +2,7 @@
 product: adobe campaign
 sub-product: Campaign Classic
 user-guide-title: Adobe Campaign Classic Tutorials
+breadcrumb-title: Campaign Classic Tutorials
 user-guide-url: https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/overview.html
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Classic#recommended/solutions/campaign
