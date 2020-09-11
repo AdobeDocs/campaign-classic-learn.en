@@ -33,4 +33,4 @@ The video below describes how to allow list IP addresses using the control panel
 >[!VIDEO](https://video.tv.adobe.com/v/28726?quality=12)
 *IP allow listing  (03:24 min)*
 
-For more information on IP allow listing please see the [detailed product documentation]( https://helpx.adobe.com/campaign/kb/control-panel-instance-settings.html).
+For more information on IP allow listing please see the [detailed product documentation](whttps://helpx.adobe.com/campaign/kb/control-panel-instance-settings.html).
