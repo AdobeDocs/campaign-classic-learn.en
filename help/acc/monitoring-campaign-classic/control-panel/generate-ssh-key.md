@@ -3,7 +3,7 @@ title: Generating a SSH Key
 description: You need to be able to generate a SSH key in order to be able to add it to the Adobe Campaign Control Panel. The video below explains how to generate a SSH key using a terminal.
 feature: SSH Key
 topics: Control Panel
-kt: 2923
+kt: 6348
 doc-type: feature video
 activity: use
 team: PM
