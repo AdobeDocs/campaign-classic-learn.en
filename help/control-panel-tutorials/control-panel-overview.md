@@ -1,7 +1,7 @@
 ---
 title: Control Panel
 seo-title: Control Panel
-description: THe Control Panel allows Adobe Campaign administrators to monitor key assets and perform administrative tasks, such as managing the SFTP storage by instance or allow list IP addresses.
+description: The Control Panel allows Adobe Campaign administrators to monitor key assets and perform administrative tasks, such as managing the SFTP storage by instance or allow list IP addresses.
 feature: Control Panel
 topics: Control Panel
 kt: 3262
