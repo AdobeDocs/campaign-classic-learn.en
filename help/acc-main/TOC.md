@@ -89,4 +89,3 @@ type: Tutorial
   + Accessing an external database (FDA) {#fda}
     + [Big data management on [!DNL Snowflake]](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
 + [Control Panel](https://docs-stg.corp.adobe.com/content/help/en/campaign-classic-learn/control-panel/control-panel-overview.html)
-  
