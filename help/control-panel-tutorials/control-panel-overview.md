@@ -1,5 +1,5 @@
 ---
-title: Control Panel
+title: Control Panel - Overview
 seo-title: Control Panel
 description: The Control Panel allows Adobe Campaign administrators to monitor key assets and perform administrative tasks, such as managing the SFTP storage by instance or allow list IP addresses.
 feature: Control Panel
@@ -10,7 +10,7 @@ activity: use
 team: PM
 ---
 
-# [!UICONTROL Control Panel]
+# [!UICONTROL Control Panel] Overview
 
 >[!NOTE]
 >
@@ -46,7 +46,7 @@ You need to know your [!DNL IMS org ID]. The following video describes where you
 ### Administrator rights
 
 Administrator rights are required to access to the [!UICONTROL Control Panel].
-The following video explains how to add an administrator to a Campaign instance
+The following video explains how to add an administrator to a Campaign instance.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
 
