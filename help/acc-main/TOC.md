@@ -87,5 +87,4 @@ type: Tutorial
       + [Decrypting data](/help/monitoring-campaign-classic/control-panel/gpg-key-management/decrypting-data.md)
     + [Troubleshooting the Control Panel](/help/monitoring-campaign-classic/control-panel/trouble-shooting.md)
   + Accessing an external database (FDA) {#fda}
-    + [Big data management on [!DNL Snowflake]](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
-  
+    + [Big data management on [!DNL Snowflake]](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)  
