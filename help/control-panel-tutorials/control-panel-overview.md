@@ -1,7 +1,7 @@
 ---
-title: Control Panel
+title: Control Panel - Overview
 seo-title: Control Panel
-description: The Control Panel allows Adobe Campaign administrators to monitor key assets and perform administrative tasks, such as managing the SFTP storage by instance or allow list IP addresses.
+description: The Control Panel allows Adobe Campaign administrators to monitor key assets and perform administrative tasks, such as managing the SFTP storage by instance, managing GPG keys, or subdomains and certificates.
 feature: Control Panel
 topics: Control Panel
 kt: 3262
@@ -10,14 +10,13 @@ activity: use
 team: PM
 ---
 
-# [!UICONTROL Control Panel]
+# [!UICONTROL Control Panel] Overview
 
 >[!NOTE]
 >
->The terms ‘[!UICONTROL whitelist]’ and ‘[!UICONTROL blacklist]’ have been replaced by ‘[!UICONTROL allow list]’ and ‘[!UICONTROL block list]’in the Adobe Campaign documentation. 
->Some occurrences of these terms may still exist in the product UI, option names, internal code, as well as the tutorial videos. They will be replaced in upcoming Control Panel releases.
+>The terms ‘[!UICONTROL whitelist]’ and ‘[!UICONTROL blacklist]’ have been replaced by ‘[!UICONTROL allowlist]’ and ‘[!UICONTROL denylist]’ in the Adobe Campaign documentation. Some occurrences of these terms may still exist in the product UI, option names, internal code, as well as the tutorial videos. They will be replaced in upcoming Control Panel releases.
 
-The [!UICONTROL Control Panel] allows Adobe Campaign administrators to monitor key assets and perform administrative tasks, such as managing the SFTP storage by instance or [!UICONTROL allow list] IP addresses.
+The [!UICONTROL Control Panel] allows Adobe Campaign administrators to monitor key assets and perform administrative tasks, such as managing the [!DNL SFTP] storage by instance, managing [!DNL GPG] keys, or [!UICONTROL subdomains] and [!UICONTROL certificates].
 
 ## Accessing [!UICONTROL Control Panel]
 
@@ -46,7 +45,7 @@ You need to know your [!DNL IMS org ID]. The following video describes where you
 ### Administrator rights
 
 Administrator rights are required to access to the [!UICONTROL Control Panel].
-The following video explains how to add an administrator to a Campaign instance
+The following video explains how to add an administrator to a Campaign instance.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
 
