@@ -4,6 +4,7 @@ description: This video explains how to connect to your SFTP Server using a clie
 feature: SFTP Server allow listing
 topics: Control Panel
 kt: 2924
+thumbnail: 27263.jpg
 doc-type: feature video
 activity: use
 team: PM
