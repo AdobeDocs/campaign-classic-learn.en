@@ -11,7 +11,7 @@ tutorials-url: https://docs.adobe.com/content/help/en/campaign-classic-learn/tut
 getting-started-title: Documentation
 getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html
 type: Tutorial
-index: no
+index: yes
 ---
 
 # Adobe Campaign Control Panel - Tutorials {#control-panel}
