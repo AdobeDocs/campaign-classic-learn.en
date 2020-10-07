@@ -4,6 +4,7 @@ description: You need to be able to generate a SSH key in order to be able to ad
 feature: SSH Key
 topics: Control Panel
 kt: 6348
+thumbnail: 27259.jpg
 doc-type: feature video
 activity: use
 team: PM
