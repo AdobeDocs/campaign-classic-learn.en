@@ -30,6 +30,7 @@ To access the Subdomain Management in [!UICONTROL Control Panel], go to:
 The video below demonstrates how to delegate subdomains.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31390?quality=12)
+
 *Subdomain Delegation (05:07 min)*
 
 ## Additional resources
