@@ -1,29 +1,32 @@
 ---
-title: Monitoring server capacity, allow listing IP addresses, and adding SSH keys
-description: The Control Panel allows you to monitor and manage your SFTP storage by instance and allow list IP addresses.
-feature: SFTP Server allow listing
+title: Monitoring server capacity
+description: The Control Panel allows you to monitor and manage your SFTP storage by instance and add IP addresses to allow lists.
+feature: SFTP Management
 topics: Control Panel
+audience: administrator
 kt: 3266
+thumbnail: 27270.jpg
 doc-type: feature video
 activity: use
-team: PM
+team: TM
 ---
 
-# Monitoring server capacity, [!UICONTROL allow listing] IP addresses, and adding SSH keys
+# Monitoring server capacity
 
-The Control Panel allows you to monitor and manage your SFTP storage by instance and add [!UICONTROL allow listing]IP addresses.
+The Control Panel allows you to monitor and manage your SFTP storage by instance.
 
 ## Accessing [!UICONTROL Control Panel] Subdomain Management
 
 To access the Subdomain Management in [!UICONTROL Control Panel], go to:
 
-* [Experience Cloud Home](https://experience.adobe.com/#/home) > [!UICONTROL Solution picker]: **[!DNL Campaign]** > **[!UICONTROL Control Panel]** card > **[!UICONTROL Subdomains & Certificates]** card  
+* [Experience Cloud Home](https://experience.adobe.com/#/home) > [!UICONTROL Solution picker]: [!UICONTROL Campaign] > **[!UICONTROL Control Panel]** card > **[!UICONTROL Subdomains & Certificates]** card
+  
   or
 * Directly from the URL: [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
 
 ## Monitor server capacity, [!UICONTROL allow list] IP addresses,and add SSH keys
 
-This video explains how to access the [!UICONTROL Adobe Campaign Control Panel], monitor the storage of SFTP servers, [!UICONTROL allow list] an IP address, as well as add a SSH Key.
+This video explains how to access the [!UICONTROL Adobe Campaign Control Panel] and where you can  monitor the storage of SFTP servers.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27270?quality=12)
 
@@ -44,4 +47,4 @@ The logs only include the jobs executed by the administrators of your Org. If th
 
 ## Additional resources
 
-* [Generating a SSH key](/help/monitoring-campaign-classic/control-panel/generate-ssh-key.md)
+* [Generating a SSH Key](./generate-ssh-key.md)
