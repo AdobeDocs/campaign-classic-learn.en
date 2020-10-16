@@ -11,17 +11,9 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 
 ## What's New
 
-* **[GPG key management](/help/monitoring-campaign-classic/control-panel/gpg-key-management/gpg-key-management-overview.md)**
+* **[Delegating subdomains using CNAME (beta)](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
 
-    *Learn how to generate and install a public/private key pair on a specified [!UICONTROL Campaign] instance for the encryption of outbound data, as well as import and install a public key on a Campaign instance for the decryption of inbound data.*
-
-* **[Delegating Subdomains (BETA)](/help/monitoring-campaign-classic/control-panel/subdomain-delegation.md)**
-
-    *Learn how to fully delegate a subdomain to Adobe Campaign.*
-
-* **[Defining Interactive email content with AMP](/help/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)**
-
-    *Learn how to configure the email content Adobe Campaign Classic(ACC) in AMP format.*
+    *Learn how to set up and submit a subdomain using CNAMEs in the Control Panel.*
 
 ## Staff Picks
 
