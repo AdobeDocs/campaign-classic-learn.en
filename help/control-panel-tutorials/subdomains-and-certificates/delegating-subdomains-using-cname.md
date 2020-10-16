@@ -24,5 +24,5 @@ Learn how to set up and submit a subdomain using CNAMEs in the Control Panel.
 
 ## Additional resources
 
-* [Full subdomain delegation (video)](/help/control-panel-tutorials/subdomains-and-certificates/subdomain-delegation.md)
+* [Full subdomain delegation (video)](./subdomain-delegation.md)
 * [Setting up a new subdomain (documentation)](https://docs.adobe.com/content/help/en/control-panel/using/subdomains-and-certificates/setting-up-new-subdomain.html)
