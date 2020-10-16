@@ -1,5 +1,5 @@
 ---
-title: Delegating Subdomains
+title: Full subdomain delegation
 description: Learn how to fully delegate a subdomain to Adobe Campaign.
 feature: Subdomain Delegation
 topics: Control Panel
@@ -9,9 +9,9 @@ activity: use
 team: PM
 ---
 
-# Delegating subdomains
+# Full subdomain delegation
 
->[!NOTE]
+>[!IMPORTANT]
 >
 > Subdomain delegation from the [!UICONTROL Control Panel] is in beta and subject to frequent updates and modifications without notice.
 
@@ -30,9 +30,10 @@ To access the Subdomain Management in [!UICONTROL Control Panel], go to:
 The video below demonstrates how to delegate subdomains.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31390?quality=12)
+
 *Subdomain Delegation (05:07 min)*
 
 ## Additional resources
 
-* [Adding SSL certificated](/help/monitoring-campaign-classic/control-panel/adding-ssl-certificates.md)
+* [Adding SSL certificated](/help/control-panel-tutorials/subdomains-and-certificates/adding-ssl-certificates.md)
 * [Subdomains and certificates](https://docs.adobe.com/content/help/en/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)

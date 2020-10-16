@@ -70,21 +70,6 @@ type: Tutorial
 + Integrating {#integrating}
   + [How to Integrate Dynamics 365 with Adobe Campaign Classic](/help/integrations/dynamics365-integration.md)
 + Administrating {#administrating}
-  + Control Panel {#control-panel-acc}
-    + [Control Panel Overview](/help/monitoring-campaign-classic/control-panel/control-panel-overview.md)
-    + [Monitoring server capacity, allow listing IP addresses, and adding SSH keys](/help/monitoring-campaign-classic/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
-    + [Generating a SSH Key](/help/monitoring-campaign-classic/control-panel/generate-ssh-key.md)
-    + [Connecting to a SFTP Server](/help/monitoring-campaign-classic/control-panel/connect-to-sftp-server.md)  
-    + [Delegating Subdomains](/help/monitoring-campaign-classic/control-panel/subdomain-delegation.md)
-    + [Adding SSL Certificates](/help/monitoring-campaign-classic/control-panel/adding-ssl-certificates.md)
-    + [Adding URL Permissions](/help/monitoring-campaign-classic/control-panel/adding-url-permissions.md)
-    + [Adding IP addresses to allow lists](/help/monitoring-campaign-classic/control-panel/ip-allow-listing.md)
-    + [Google TXT record management](/help/monitoring-campaign-classic/control-panel/google-txt-record-management.md)
-    + GPG key management {#gpg-key-management}
-      + [GPG key management - overview](/help/monitoring-campaign-classic/control-panel/gpg-key-management/gpg-key-management-overview.md)
-      + [Generating and installing GPG keys for data encryption](/help/monitoring-campaign-classic/control-panel/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
-      + [Using a GPG key to encrypt data](/help/monitoring-campaign-classic/control-panel/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
-      + [Decrypting data](/help/monitoring-campaign-classic/control-panel/gpg-key-management/decrypting-data.md)
-    + [Troubleshooting the Control Panel](/help/monitoring-campaign-classic/control-panel/trouble-shooting.md)
+  + [Control Panel](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/control-panel-overview.html)
   + Accessing an external database (FDA) {#fda}
     + [Big data management on [!DNL Snowflake]](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)

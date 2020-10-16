@@ -19,13 +19,13 @@ index: yes
 + [Control Panel Overview](/help/control-panel-tutorials/control-panel-overview.md)
 + [Getting started with the Control Panel](/help/control-panel-tutorials/getting-started-with-the-control-panel.md)
 + SFTP management {#sftp-management}
-    + SFTP management {#sftp-management}
     + [Monitoring server capacity](/help/control-panel-tutorials/sftp-management/monitoring-server-capacity.md)
     + [Adding an IP range to the allow list](/help/control-panel-tutorials/sftp-management/adding-ip-range-to-allow-list.md)
     + [Generating a SSH Key](/help/control-panel-tutorials/sftp-management/generate-ssh-key.md)  
     + [Connecting to a SFTP Server](/help/control-panel-tutorials/sftp-management/connect-to-sftp-server.md)
 + Subdomains and certificates {#subdomains-and-certificates}
-    + [Delegating Subdomains](/help/control-panel-tutorials/subdomains-and-certificates/subdomain-delegation.md)
+    + [Full subdomain delegation (beta)](/help/control-panel-tutorials/subdomains-and-certificates/subdomain-delegation.md)
+    + [Delegating Subdomains using CNAME (beta)](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)
     + [Adding SSL Certificates](/help/control-panel-tutorials/subdomains-and-certificates/adding-ssl-certificates.md)
     + [Google TXT record management](/help/control-panel-tutorials/subdomains-and-certificates/google-txt-record-management.md)
 + Instance settings {#instance-settings}
