@@ -14,8 +14,12 @@ The Adobe Campaign Control Panel allows Adobe Campaign administrators to monitor
 
 ## What's new
 
-* **[Delegating subdomains using CNAME](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
+* **[Monitoring databases](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)**
+  
+    *Learn how to monitor the database usage of your instances.*
 
+* **[Delegating subdomains using CNAME](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
+    
     *Learn how to set up and submit a subdomain using CNAMEs in the Control Panel.*
 
 ## Staff Picks
