@@ -15,6 +15,10 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 
     *Learn how to set up and submit a subdomain using CNAMEs in the Control Panel.*
 
+* **[Monitoring databases](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)**
+  
+    *Learn how to monitor the database usage of your instances.*
+
 ## Staff Picks
 
 <table>
