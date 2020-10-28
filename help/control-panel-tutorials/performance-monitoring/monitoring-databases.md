@@ -13,9 +13,9 @@ team: TM
 
 # Monitoring databases
 
-The Adobe Campaign instances' databases include all assets, workflows, and data that is stored in Adobe Campaign. Monitoring your instances' databases it therefore essential to ensure optimal performance.
+The [!DNL Adobe Campaign] instances' databases include all assets, workflows, and data that is stored in [!DNL Adobe Campaign]. Monitoring your instances' databases it therefore essential to ensure optimal performance.
 
-Learn how to monitor your instances's database usage with the Control Panel.
+Learn how to monitor your instances's database usage with the [!DNL Control Panel].
 
 >[!VIDEO](https://video.tv.adobe.com/v/327175?quality=12)
 
