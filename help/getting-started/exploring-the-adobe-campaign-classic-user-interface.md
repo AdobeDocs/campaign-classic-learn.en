@@ -4,7 +4,7 @@ description: This lesson explains the main Adobe Campaign Classic user interface
 feature: User Interface
 topics: Getting started
 kt: 5009
-thumbnail: 35310.jpg
+thumbnail: 35130.jpg
 doc-type: feature video
 activity: understand
 team: WWFRE
