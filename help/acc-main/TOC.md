@@ -18,6 +18,7 @@ getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with
 + [Overview](/help/overview.md)
 + Getting Started {#getting-started}
   + [Introduction to Adobe Campaign Classic](/help/getting-started/introduction-to-adobe-campaign-classic.md)
+  + [Install and setup the Adobe Campaign client](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
   + [Exploring the Adobe Campaign Classic user interface](/help/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
   + [Managing Marketing Campaigns](/help/getting-started/managing-marketing-campaigns.md)
   + [Creating a marketing plan, programs, and campaigns](/help/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
