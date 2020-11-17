@@ -30,7 +30,7 @@ This tutorial does not cover the detailed steps required to set up the mobile ap
 
     You will need to have the mobile app channel package installed on your instance. The following video explains how to check if the Mobile App channel is installed on your instance and if not, how to install it.
 
-    [!VIDEO](https://video.tv.adobe.com/v/326544?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/326544?quality=12)
 
 ## Tutorial
 

@@ -14,7 +14,7 @@ team: TM
 
 Learn how to configure and send a push notification to android app users.
 
-[!VIDEO](https://video.tv.adobe.com/v/328154?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/328154?quality=12)
 
 ## Additional resources
 
