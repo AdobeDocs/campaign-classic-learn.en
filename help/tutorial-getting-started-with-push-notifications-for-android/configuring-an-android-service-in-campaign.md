@@ -14,7 +14,7 @@ team: TM
 
 Learn how to configure an Android Services and create a Android mobile application in Campaign. This step is required in order to be able to define the target app for a push notification.
 
-[!VIDEO](https://video.tv.adobe.com/v/327788?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/327788?quality=12)
 
 ## What to watch next
 

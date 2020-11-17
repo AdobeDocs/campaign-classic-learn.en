@@ -14,7 +14,7 @@ team: TM
 
 Learn how to extend the app subscription schema to be able to store personalization values Campaign receives from a mobile app.
 
-[!VIDEO](https://video.tv.adobe.com/v/327306?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/327306?quality=12)
 
 ## What to watch next
 
