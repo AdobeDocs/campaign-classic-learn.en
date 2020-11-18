@@ -12,7 +12,7 @@ team: TM
 
 # Configuring and sending Push notifications 
 
-Learn how to configure and send a push notification to android app users.
+Learn how to configure and send a [!DNL push] notification to [!DNL Android] app users.
 
 >[!VIDEO](https://video.tv.adobe.com/v/328154?quality=12)
 
