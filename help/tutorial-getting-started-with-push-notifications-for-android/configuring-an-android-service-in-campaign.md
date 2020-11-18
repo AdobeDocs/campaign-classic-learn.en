@@ -12,13 +12,17 @@ team: TM
 
 # Configuring an [!DNL Android] service and creating an [!DNL Android] mobile application in Campaign
 
-Learn how to configure an [!DNL Android] Services and create a [!DNL Android] mobile application in Campaign. This step is required in order to be able to define the target mobile application for a push notification.
+Learn how to configure an [!DNL Android] service and create an [!DNL Android] mobile application in Campaign. This step is required so that you can define the target mobile application for the push notification.
 
 >[!VIDEO](https://video.tv.adobe.com/v/327788?quality=12)
 
-## What to watch next
+### Previous Step
 
-**[Configuring and sending push notifications](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-and-sending-push-notifications.md)**
+Step 1: [Extending the app subscription schema to personalize push notifications](/help/tutorial-getting-started-with-push-notifications-for-android/extending-the-app-subscription-schema.md)
+
+### Next Step
+Step 3: [Configuring and sending push notifications](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-and-sending-push-notifications.md)
+
 
 ## Additional resources
 

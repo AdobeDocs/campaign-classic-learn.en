@@ -16,9 +16,9 @@ Learn how to extend the [!UICONTROL app subscription] schema to be able to store
 
 >[!VIDEO](https://video.tv.adobe.com/v/327306?quality=12)
 
-## What to watch next
+## Next step
 
-**[Configuring an Android service in Campaign](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-an-android-service-in-campaign.md)** 
+Step 2: [Configuring an Android service and creating an Android mobile application in Campaign](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-an-android-service-in-campaign.md)
 
 ## Additional resources
 
