@@ -9,7 +9,7 @@ solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Classic#recom
 index: yes
 ---
 
-# Getting started with push notifications for Android (#getting-started-with-push-notifications-for-android)
+# Getting started with push notifications for Android {#getting-started-with-push-notifications-for-android}
 
 + [Introduction](/help/tutorial-getting-started-with-push-notifications-for-android/introduction.md)
 + [Step 1: Ext the app subscription schema](/help/tutorial-getting-started-with-push-notifications-for-android/extending-the-app-subscription-schema.md)
