@@ -4,7 +4,7 @@ description: Learn how to extend the app subscription schema to be able to store
 feature: push, data management
 topics: mobile channels
 kt: 6451
-thumbnail: 327306
+thumbnail: 327306.jpg
 doc-type: feature video
 activity: setup
 team: TM
