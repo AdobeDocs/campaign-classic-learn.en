@@ -41,6 +41,7 @@ getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with
   + Push Channel {#push-channel}
     + [Installing the Mobile App Channel](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
     + [Configure Push Channel using the Experience Platform Mobile SDK](/help/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk.md)
+    + [Getting started with push notifications for Android (tutorial)] (https://experienceleague.adobe.com/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/introduction.html)
   + Using delivery templates{#using-delivery-templates}
     + [Configuring a delivery template](/help/sending-messages/using-delivery-templates/configuring-a-delivery-template.md)
     + [Setting delivery template properties](/help/sending-messages/using-delivery-templates/setting-delivery-template-properties.md)
