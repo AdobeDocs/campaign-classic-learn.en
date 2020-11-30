@@ -8,7 +8,7 @@ breadcrumb-url: /docs/campaign-classic-learn/tutorials/overview.html
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Classic#recommended/solutions/campaign
 tutorials-title: Tutorials
-tutorials-url: https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/overview.html
+tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html
 getting-started-title: Documentation
 getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html
 ---
@@ -22,7 +22,7 @@ getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with
   + [Exploring the Adobe Campaign Classic user interface](/help/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
   + [Managing Marketing Campaigns](/help/getting-started/managing-marketing-campaigns.md)
   + [Creating a marketing plan, programs, and campaigns](/help/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
-  + [Creating a campaign and an email](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/getting-started/creating-a-campaign-and-an-email.html)
+  + [Creating a campaign and an email](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/creating-a-campaign-and-an-email.html)
   + [Targeting profiles in a workflow](/help/getting-started/targeting-profiles-in-a-workflow.md)
 + Profile Management {#profile-management}
   + [Create and manage profiles](/help/profile-management/create-and-manage-profiles.md)
@@ -72,6 +72,6 @@ getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with
 + Integrating {#integrating}
   + [How to Integrate Dynamics 365 with Adobe Campaign Classic](/help/integrations/dynamics365-integration.md)
 + Administrating {#administrating}
-  + [Control Panel](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/control-panel-overview.html)
+  + [Control Panel](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html)
   + Accessing an external database (FDA) {#fda}
     + [Big data management on [!DNL Snowflake]](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
