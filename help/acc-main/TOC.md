@@ -52,6 +52,7 @@ getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with
     + [Using typology rules](/help/sending-messages/fatigue-management/typology-rules-for-fatigue-management.md)
     + [Using pre defined filters](/help/sending-messages/fatigue-management/fatigue-management-using-filters.md)
 + Orchestrating Campaigns {#orchestration}
+  + [Executing a campaign](/help/orchestrating-campaigns/executing-a-campaign.md)
   + [Creating multi-channel campaigns](/help/orchestrating-campaigns/multi-channel-campaigns.md)
 + Reporting {#reporting}
   + [Generating a descriptive analysis report](/help/reporting/generating-a-descriptive-analysis-report.md)
@@ -64,6 +65,7 @@ getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with
   + [Configuring validation workflows](/help/automating-with-workflows/validation-flow-configuration.md)
   + [Configure Enrichment activities](/help/automating-with-workflows/enrichment-activity.md)
   + [Data Segmentation](/help/data-management/data-segmentation.md)
+  + [Managing approvals](/help/automating-with-workflows/managing-approvals.md)
 + Designing Content{#designing-content}
   + [Configure Landing Pages](/help/designing-content/configure-landingpages.md)
 + Monitoring {#monitoring}
