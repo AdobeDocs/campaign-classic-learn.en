@@ -4,6 +4,7 @@ description: You can add Google TXT site verification record to all your subdoma
 feature: Google TXT record management
 topics: Control Panel
 kt: 4744
+thumbnail: 32369.jpg
 doc-type: feature video
 activity: use
 team: PM

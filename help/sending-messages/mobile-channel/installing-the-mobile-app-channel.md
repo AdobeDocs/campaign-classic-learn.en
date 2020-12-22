@@ -4,7 +4,7 @@ description: Learn how to check if the Mobile App channel is installed on your i
 feature: push
 topics: mobile channels
 kt: 6438
-thumbnail: 6438.jpg
+thumbnail: 326544.jpg
 doc-type: feature video
 activity: setup
 team: TM

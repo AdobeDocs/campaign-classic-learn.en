@@ -4,7 +4,7 @@ description: Control Panel allows you to encrypt data coming out from your Adobe
 feature: Control Panel
 topics: 
 kt: 5240
-thumbnail: 33686.jpg
+thumbnail: 36386.jpg
 doc-type: feature video
 activity: use
 team: PM

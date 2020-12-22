@@ -4,7 +4,7 @@ description: Learn how to configure and send a push notification to android app 
 feature: push
 topics: mobile channels
 kt: 6579
-thumbnail: 328154
+thumbnail: 328154.jpg
 doc-type: feature video
 activity: setup
 team: TM

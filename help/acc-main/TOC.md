@@ -8,7 +8,7 @@ breadcrumb-url: /docs/campaign-classic-learn/tutorials/overview.html
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Classic#recommended/solutions/campaign
 tutorials-title: Tutorials
-tutorials-url: https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/overview.html
+tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html
 getting-started-title: Documentation
 getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html
 ---
@@ -22,7 +22,7 @@ getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with
   + [Exploring the Adobe Campaign Classic user interface](/help/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
   + [Managing Marketing Campaigns](/help/getting-started/managing-marketing-campaigns.md)
   + [Creating a marketing plan, programs, and campaigns](/help/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
-  + [Creating a campaign and an email](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/getting-started/creating-a-campaign-and-an-email.html)
+  + [Creating a campaign and an email](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/creating-a-campaign-and-an-email.html)
   + [Targeting profiles in a workflow](/help/getting-started/targeting-profiles-in-a-workflow.md)
 + Profile Management {#profile-management}
   + [Create and manage profiles](/help/profile-management/create-and-manage-profiles.md)
@@ -38,9 +38,11 @@ getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with
     + [Personalizing emails - Create a multi lingual newsletter using conditional content](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
     + [Configure recurring and continuous email campaigns](/help/sending-messages/recurring-deliveries.md)
     + [Defining Interactive Email Content with AMP](/help/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)
+    + [Troubleshooting email delivery issues](/help/sending-messages/email-channel/troubleshooting-email-delivery-issues.md)
   + Push Channel {#push-channel}
     + [Installing the Mobile App Channel](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
     + [Configure Push Channel using the Experience Platform Mobile SDK](/help/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk.md)
+    + [Getting started with push notifications for Android (tutorial)](https://experienceleague.adobe.com/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/introduction.html)
   + Using delivery templates{#using-delivery-templates}
     + [Configuring a delivery template](/help/sending-messages/using-delivery-templates/configuring-a-delivery-template.md)
     + [Setting delivery template properties](/help/sending-messages/using-delivery-templates/setting-delivery-template-properties.md)
@@ -51,6 +53,7 @@ getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with
     + [Using typology rules](/help/sending-messages/fatigue-management/typology-rules-for-fatigue-management.md)
     + [Using pre defined filters](/help/sending-messages/fatigue-management/fatigue-management-using-filters.md)
 + Orchestrating Campaigns {#orchestration}
+  + [Executing a campaign](/help/orchestrating-campaigns/executing-a-campaign.md)
   + [Creating multi-channel campaigns](/help/orchestrating-campaigns/multi-channel-campaigns.md)
 + Reporting {#reporting}
   + [Generating a descriptive analysis report](/help/reporting/generating-a-descriptive-analysis-report.md)
@@ -63,6 +66,7 @@ getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with
   + [Configuring validation workflows](/help/automating-with-workflows/validation-flow-configuration.md)
   + [Configure Enrichment activities](/help/automating-with-workflows/enrichment-activity.md)
   + [Data Segmentation](/help/data-management/data-segmentation.md)
+  + [Managing approvals](/help/automating-with-workflows/managing-approvals.md)
 + Designing Content{#designing-content}
   + [Configure Landing Pages](/help/designing-content/configure-landingpages.md)
 + Monitoring {#monitoring}
@@ -71,6 +75,6 @@ getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with
 + Integrating {#integrating}
   + [How to Integrate Dynamics 365 with Adobe Campaign Classic](/help/integrations/dynamics365-integration.md)
 + Administrating {#administrating}
-  + [Control Panel](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/control-panel-overview.html)
+  + [Control Panel](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html)
   + Accessing an external database (FDA) {#fda}
     + [Big data management on [!DNL Snowflake]](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
