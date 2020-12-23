@@ -32,7 +32,7 @@ getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with
 + Sending Messages{#sending-messages}
   + Email Channel{#email-channel}
     + [Creating a campaign and an email](/help/getting-started/creating-a-campaign-and-an-email.md)
-    + [Manage seed and proofs in an email](/help/sending-messages/managing-seed-and-proofs.md)
+    + [Manage seed and proofs in an email](/help/sending-messages/email-channel/managing-seed-and-proofs.md)
     + [Configuring dynamic content](/help/sending-messages/email-channel/configuring-dynamic-content.md)
     + [Personalizing emails using dynamic content blocks](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
     + [Personalizing emails using personalization field](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
@@ -53,6 +53,7 @@ getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with
   + Fatigue Management{#fatigue-management}
     + [Using typology rules](/help/sending-messages/fatigue-management/typology-rules-for-fatigue-management.md)
     + [Using pre defined filters](/help/sending-messages/fatigue-management/fatigue-management-using-filters.md)
+  + [Configuring and managing subscription services](/help/sending-messages/configuring-and-managing-subscription-services.md)
 + Orchestrating Campaigns {#orchestration}
   + [Executing a campaign](/help/orchestrating-campaigns/executing-a-campaign.md)
   + [Creating multi-channel campaigns](/help/orchestrating-campaigns/multi-channel-campaigns.md)
