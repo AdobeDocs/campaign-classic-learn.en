@@ -33,6 +33,7 @@ getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with
   + Email Channel{#email-channel}
     + [Creating a campaign and an email](/help/getting-started/creating-a-campaign-and-an-email.md)
     + [Manage seed and proofs in an email](/help/sending-messages/managing-seed-and-proofs.md)
+    + [Configuring dynamic content](/help/sending-messages/email-channel/configuring-dynamic-content.md)
     + [Personalizing emails using dynamic content blocks](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
     + [Personalizing emails using personalization field](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
     + [Personalizing emails - Create a multi lingual newsletter using conditional content](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
@@ -56,6 +57,7 @@ getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with
   + [Executing a campaign](/help/orchestrating-campaigns/executing-a-campaign.md)
   + [Creating multi-channel campaigns](/help/orchestrating-campaigns/multi-channel-campaigns.md)
 + Reporting {#reporting}
+  + [Accessing built-in reports](/help/reporting/accessing-built-in-reports.md)
   + [Generating a descriptive analysis report](/help/reporting/generating-a-descriptive-analysis-report.md)
 + Automating with workflow{#automating-with-workflows}
   + [Creating a Workflow](/help/automating-with-workflows/creating-a-workflow.md)
