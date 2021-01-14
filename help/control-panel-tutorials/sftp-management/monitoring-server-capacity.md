@@ -9,6 +9,7 @@ thumbnail: 27270.jpg
 doc-type: feature video
 activity: use
 team: TM
+original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/monitoring-server-capacity-whitelisting-adding-ssh-key.html,https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/monitoring-server-capacity-allow-listing-adding-ssh-key.html
 ---
 
 # Monitoring server capacity

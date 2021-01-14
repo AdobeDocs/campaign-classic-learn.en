@@ -4,6 +4,7 @@ description: The following videos explain how to generate and install a public/p
 feature: Control Panel
 topics: GPG Key Management
 team: TM
+original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/gpg-key-management/gpg-key-management-overview.html
 ---
 
 # GPG key management - Overview

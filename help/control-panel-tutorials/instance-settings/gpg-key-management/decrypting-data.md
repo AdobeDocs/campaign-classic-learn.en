@@ -8,6 +8,7 @@ thumbnail: 36482.jpg
 doc-type: feature video
 activity: use
 team: PM
+original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/gpg-key-management/decrypting-data.html
 ---
 
 # Decrypting data

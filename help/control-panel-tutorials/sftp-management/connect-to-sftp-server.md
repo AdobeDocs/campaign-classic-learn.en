@@ -8,6 +8,7 @@ thumbnail: 27263.jpg
 doc-type: feature video
 activity: use
 team: PM
+original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/connect-to-sftp-server.html
 ---
 
 # Connecting to a SFTP server

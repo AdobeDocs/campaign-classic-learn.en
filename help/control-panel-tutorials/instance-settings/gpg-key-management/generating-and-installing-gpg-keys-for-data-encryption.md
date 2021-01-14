@@ -8,6 +8,7 @@ thumbnail: 36386.jpg
 doc-type: feature video
 activity: use
 team: PM
+original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.html
 ---
 
 # Generating and installing GPG keys for data encryption

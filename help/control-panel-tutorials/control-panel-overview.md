@@ -8,6 +8,7 @@ kt: 3262
 doc-type: feature video
 activity: use
 team: PM
+original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/control-panel-overview.html
 ---
 # Control Panel -  Overview
 

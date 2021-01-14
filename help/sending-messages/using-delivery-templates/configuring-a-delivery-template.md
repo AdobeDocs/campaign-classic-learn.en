@@ -8,6 +8,7 @@ thumbnail: 24066.jpg
 doc-type: feature video
 activity: use
 team: TM
+original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/delivery-template-configuration.html
 ---
 
 # Configuring a delivery template

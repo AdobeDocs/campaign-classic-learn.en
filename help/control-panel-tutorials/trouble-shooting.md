@@ -7,6 +7,7 @@ kt: 2938
 doc-type: article
 activity: use
 team: PM
+original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/trouble-shooting.html
 ---
 
 # Trouble shooting [!UICONTROL Control Panel]
