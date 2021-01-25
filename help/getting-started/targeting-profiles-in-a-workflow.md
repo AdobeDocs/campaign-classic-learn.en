@@ -1,5 +1,5 @@
 ---
-title: Targeting profiles in a workflow
+title: How to target profiles in a workflow
 description: Understand the use of campaign workflows and learn how to create a workflow and target profiles in a workflow using filtering conditions.
 feature: Workflows
 topics: Targeting Activities
@@ -10,7 +10,7 @@ activity: use
 team: WWFRE
 ---
 
-# Targeting profiles in a workflow
+# Targete profiles in a workflow
 
 Understand the use of campaign workflows and learn how to create a workflow and target profiles in a workflow using filtering conditions.
 
