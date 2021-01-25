@@ -1,5 +1,5 @@
 ---
-title: Creating an email from a campaign
+title: Create an email from a campaign
 description: Learn how to create an email delivery directly from a campaign.
 feature: Email
 topics: 

@@ -19,11 +19,12 @@ getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with
 + Getting Started {#getting-started}
   + [Introduction to Adobe Campaign Classic](/help/getting-started/introduction-to-adobe-campaign-classic.md)
   + [Install and setup the Adobe Campaign client](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
-  + [Exploring the Adobe Campaign Classic user interface](/help/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
-  + [Managing Marketing Campaigns](/help/getting-started/managing-marketing-campaigns.md)
-  + [Creating a marketing plan, programs, and campaigns](/help/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
-  + [Creating a campaign and an email](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/creating-a-campaign-and-an-email.html)
-  + [Targeting profiles in a workflow](/help/getting-started/targeting-profiles-in-a-workflow.md)
+  + [Explore the Adobe Campaign Classic user interface](/help/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
+  + [Manage Marketing Campaigns](/help/getting-started/managing-marketing-campaigns.md)
+  + [Create a marketing plan, programs, and campaigns](/help/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
+  + [Create a campaign and an email](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/creating-a-campaign-and-an-email.html)
+  + [Target profiles in a workflow](/help/getting-started/targeting-profiles-in-a-workflow.md)
+  + [Create event triggered campaigns](/help/getting-started/create-event-triggered-campaigns.md)
 + Profile Management {#profile-management}
   + [Create and manage profiles](/help/profile-management/create-and-manage-profiles.md)
   + [Importing profiles](/help/data-management/importing-profiles.md)
