@@ -22,7 +22,7 @@ getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with
   + [Explore the Adobe Campaign Classic user interface](/help/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
   + [Manage Marketing Campaigns](/help/getting-started/managing-marketing-campaigns.md)
   + [Create a marketing plan, programs, and campaigns](/help/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
-  + [Create a campaign and an email](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/creating-a-campaign-and-an-email.html)
+  + [Creating a campaign and an email](/help/getting-started/creating-a-campaign-and-an-email.md)
   + [Target profiles in a workflow](/help/getting-started/targeting-profiles-in-a-workflow.md)
   + [Create event triggered campaigns](/help/getting-started/create-event-triggered-campaigns.md)
 + Profile Management {#profile-management}
@@ -32,7 +32,7 @@ getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with
   + [Creating a list of recipients with a workflow](/help/profile-management/creating-a-list-of-recipients-with-a-workflow.md)
 + Sending Messages{#sending-messages}
   + Email Channel{#email-channel}
-    + [Creating a campaign and an email](/help/getting-started/creating-a-campaign-and-an-email.md)
+    + [Create and design email deliveries](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)
     + [Manage seed and proofs in an email](/help/sending-messages/email-channel/managing-seed-and-proofs.md)
     + [Configuring dynamic content](/help/sending-messages/email-channel/configuring-dynamic-content.md)
     + [Personalizing emails using dynamic content blocks](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
@@ -45,12 +45,12 @@ getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with
     + [Installing the Mobile App Channel](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
     + [Configure Push Channel using the Experience Platform Mobile SDK](/help/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk.md)
     + [Getting started with push notifications for Android (tutorial)](https://experienceleague.adobe.com/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/introduction.html)
+  + Direct mail {#direct-mail}
+    + [Creating direct mail deliveries](/help/sending-messages/direct-mail/creating-direct-mail-deliveries.md)
   + Using delivery templates{#using-delivery-templates}
     + [Configuring a delivery template](/help/sending-messages/using-delivery-templates/configuring-a-delivery-template.md)
     + [Setting delivery template properties](/help/sending-messages/using-delivery-templates/setting-delivery-template-properties.md)
     + [Deploying an ad-hoc email delivery template](/help/sending-messages/using-delivery-templates/deploying-ad-hoc-email-delivery-template.md)
-  + Direct mail {#direct-mail}
-    + [Creating direct mail deliveries](/help/sending-messages/direct-mail/creating-direct-mail-deliveries.md)
   + Fatigue Management{#fatigue-management}
     + [Using typology rules](/help/sending-messages/fatigue-management/typology-rules-for-fatigue-management.md)
     + [Using pre defined filters](/help/sending-messages/fatigue-management/fatigue-management-using-filters.md)
