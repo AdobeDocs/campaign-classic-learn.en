@@ -19,11 +19,12 @@ getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with
 + Getting Started {#getting-started}
   + [Introduction to Adobe Campaign Classic](/help/getting-started/introduction-to-adobe-campaign-classic.md)
   + [Install and setup the Adobe Campaign client](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
-  + [Exploring the Adobe Campaign Classic user interface](/help/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
-  + [Managing Marketing Campaigns](/help/getting-started/managing-marketing-campaigns.md)
-  + [Creating a marketing plan, programs, and campaigns](/help/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
-  + [Creating a campaign and an email](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/creating-a-campaign-and-an-email.html)
-  + [Targeting profiles in a workflow](/help/getting-started/targeting-profiles-in-a-workflow.md)
+  + [Explore the Adobe Campaign Classic user interface](/help/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
+  + [Manage Marketing Campaigns](/help/getting-started/managing-marketing-campaigns.md)
+  + [Create a marketing plan, programs, and campaigns](/help/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
+  + [Creating a campaign and an email](/help/getting-started/creating-a-campaign-and-an-email.md)
+  + [Target profiles in a workflow](/help/getting-started/targeting-profiles-in-a-workflow.md)
+  + [Create event triggered campaigns](/help/getting-started/create-event-triggered-campaigns.md)
 + Profile Management {#profile-management}
   + [Create and manage profiles](/help/profile-management/create-and-manage-profiles.md)
   + [Importing profiles](/help/data-management/importing-profiles.md)
@@ -31,8 +32,8 @@ getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with
   + [Creating a list of recipients with a workflow](/help/profile-management/creating-a-list-of-recipients-with-a-workflow.md)
 + Sending Messages{#sending-messages}
   + Email Channel{#email-channel}
-    + [Creating a campaign and an email](/help/getting-started/creating-a-campaign-and-an-email.md)
-    + [Manage seed and proofs in an email](/help/sending-messages/managing-seed-and-proofs.md)
+    + [Create and design email deliveries](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)
+    + [Manage seed and proofs in an email](/help/sending-messages/email-channel/managing-seed-and-proofs.md)
     + [Configuring dynamic content](/help/sending-messages/email-channel/configuring-dynamic-content.md)
     + [Personalizing emails using dynamic content blocks](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
     + [Personalizing emails using personalization field](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
@@ -44,15 +45,16 @@ getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with
     + [Installing the Mobile App Channel](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
     + [Configure Push Channel using the Experience Platform Mobile SDK](/help/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk.md)
     + [Getting started with push notifications for Android (tutorial)](https://experienceleague.adobe.com/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/introduction.html)
+  + Direct mail {#direct-mail}
+    + [Creating direct mail deliveries](/help/sending-messages/direct-mail/creating-direct-mail-deliveries.md)
   + Using delivery templates{#using-delivery-templates}
     + [Configuring a delivery template](/help/sending-messages/using-delivery-templates/configuring-a-delivery-template.md)
     + [Setting delivery template properties](/help/sending-messages/using-delivery-templates/setting-delivery-template-properties.md)
     + [Deploying an ad-hoc email delivery template](/help/sending-messages/using-delivery-templates/deploying-ad-hoc-email-delivery-template.md)
-  + Direct mail {#direct-mail}
-    + [Creating direct mail deliveries](/help/sending-messages/direct-mail/creating-direct-mail-deliveries.md)
   + Fatigue Management{#fatigue-management}
     + [Using typology rules](/help/sending-messages/fatigue-management/typology-rules-for-fatigue-management.md)
     + [Using pre defined filters](/help/sending-messages/fatigue-management/fatigue-management-using-filters.md)
+  + [Configuring and managing subscription services](/help/sending-messages/configuring-and-managing-subscription-services.md)
 + Orchestrating Campaigns {#orchestration}
   + [Executing a campaign](/help/orchestrating-campaigns/executing-a-campaign.md)
   + [Creating multi-channel campaigns](/help/orchestrating-campaigns/multi-channel-campaigns.md)
