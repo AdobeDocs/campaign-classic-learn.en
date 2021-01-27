@@ -41,6 +41,7 @@ getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with
     + [Configure recurring and continuous email campaigns](/help/sending-messages/recurring-deliveries.md)
     + [Defining Interactive Email Content with AMP](/help/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)
     + [Troubleshooting email delivery issues](/help/sending-messages/email-channel/troubleshooting-email-delivery-issues.md)
+    + [Design emails for deliverability](/help/sending-messages/email-channel/design-emails-for-deliverability.md)
   + Push Channel {#push-channel}
     + [Installing the Mobile App Channel](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
     + [Configure Push Channel using the Experience Platform Mobile SDK](/help/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk.md)
