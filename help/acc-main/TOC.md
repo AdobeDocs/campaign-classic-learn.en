@@ -22,7 +22,7 @@ getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with
   + [Explore the Adobe Campaign Classic user interface](/help/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
   + [Manage Marketing Campaigns](/help/getting-started/managing-marketing-campaigns.md)
   + [Create a marketing plan, programs, and campaigns](/help/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
-  + [Create an email from a campaign](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/creating-a-campaign-and-an-email.html)
+  + [Creating a campaign and an email](/help/getting-started/creating-a-campaign-and-an-email.md)
   + [Target profiles in a workflow](/help/getting-started/targeting-profiles-in-a-workflow.md)
   + [Create event triggered campaigns](/help/getting-started/create-event-triggered-campaigns.md)
 + Profile Management {#profile-management}
@@ -32,7 +32,7 @@ getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with
   + [Creating a list of recipients with a workflow](/help/profile-management/creating-a-list-of-recipients-with-a-workflow.md)
 + Sending Messages{#sending-messages}
   + Email Channel{#email-channel}
-    + [Creating a campaign and an email](/help/getting-started/creating-a-campaign-and-an-email.md)
+    + [Create and design email deliveries](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)
     + [Manage seed and proofs in an email](/help/sending-messages/email-channel/managing-seed-and-proofs.md)
     + [Configuring dynamic content](/help/sending-messages/email-channel/configuring-dynamic-content.md)
     + [Personalizing emails using dynamic content blocks](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
