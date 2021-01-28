@@ -11,7 +11,7 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 
 ## What's New
 
-*  **[Send and validate proofs](/help/sending-messages/email-channel/send-and-validate-proofs)**
+*  **[Send and validate proofs](/help/sending-messages/email-channel/send-and-validate-proofs.md)**
   
   *Learn how to send and validate a proof.*
 
