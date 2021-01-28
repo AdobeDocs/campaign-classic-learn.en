@@ -11,10 +11,10 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 
 ## What's New
 
-* **+ [Design emails for deliverability](/help/sending-messages/email-channel/design-emails-for-deliverability.md)**
+* ** [Design emails for deliverability](/help/sending-messages/email-channel/design-emails-for-deliverability.md)**
 
   *Learn how to apply deliverability best practices.*
-  
+
 * **[Create and design email deliveries](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)**
 
   *Understand the process of creating an email delivery and learn how to design and personalize email content.*
