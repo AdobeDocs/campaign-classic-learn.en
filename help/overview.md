@@ -11,7 +11,15 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 
 ## What's New
 
-* ** [Design emails for deliverability](/help/sending-messages/email-channel/design-emails-for-deliverability.md)**
+* **[Use control groups](/help/sending-messages/email-channel/use-control-groups.md)**
+  
+   *Understand the concept of control groups and learn how to use a control group for your delivery.*
+   
+* **[Send and validate proofs](/help/sending-messages/email-channel/send-and-validate-proofs.md)**
+  
+  *Learn how to send and validate a proof.*
+
+* **[Design emails for deliverability](/help/sending-messages/email-channel/design-emails-for-deliverability.md)**
 
   *Learn how to apply deliverability best practices.*
 
@@ -19,13 +27,6 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 
   *Understand the process of creating an email delivery and learn how to design and personalize email content.*
 
-* **[Getting started with Push notifications for Android](/help/tutorial-getting-started-with-push-notifications-for-android/introduction.md)**
-
-  *This tutorial will walk you through the steps involved in sending push notifications from Adobe Campaign to an Android app.*
-
-* **[Delegating subdomains using CNAME (beta)](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
-
-  *Learn how to set up and submit a subdomain using CNAMEs in the Control Panel.*
 
 ## Staff Picks
 

@@ -34,6 +34,8 @@ getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with
   + Email Channel{#email-channel}
     + [Create and design email deliveries](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)
     + [Manage seed and proofs in an email](/help/sending-messages/email-channel/managing-seed-and-proofs.md)
+    + [Send and validate proofs](/help/sending-messages/email-channel/send-and-validate-proofs.md)
+    + [Use control groups](/help/sending-messages/email-channel/use-control-groups.md)
     + [Configuring dynamic content](/help/sending-messages/email-channel/configuring-dynamic-content.md)
     + [Personalizing emails using dynamic content blocks](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
     + [Personalizing emails using personalization field](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
@@ -42,6 +44,8 @@ getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with
     + [Defining Interactive Email Content with AMP](/help/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)
     + [Troubleshooting email delivery issues](/help/sending-messages/email-channel/troubleshooting-email-delivery-issues.md)
     + [Design emails for deliverability](/help/sending-messages/email-channel/design-emails-for-deliverability.md)
+  + SMS Channel {#sms-channel}
+    + [Create a SMS delivery](/help/sending-messages/mobile-channel/create-a-sms-delivery)
   + Push Channel {#push-channel}
     + [Installing the Mobile App Channel](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
     + [Configure Push Channel using the Experience Platform Mobile SDK](/help/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk.md)
