@@ -11,6 +11,10 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 
 ## What's New
 
+* **[Use control groups](/help/sending-messages/email-channel/use-control-groups.md)**
+  
+   *Understand the concept of control groups and learn how to use a control group for your delivery.*
+   
 * **[Send and validate proofs](/help/sending-messages/email-channel/send-and-validate-proofs.md)**
   
   *Learn how to send and validate a proof.*
@@ -23,9 +27,6 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 
   *Understand the process of creating an email delivery and learn how to design and personalize email content.*
 
-* **[Getting started with Push notifications for Android](/help/tutorial-getting-started-with-push-notifications-for-android/introduction.md)**
-
-  *This tutorial will walk you through the steps involved in sending push notifications from Adobe Campaign to an Android app.*
 
 ## Staff Picks
 
