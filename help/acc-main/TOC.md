@@ -45,7 +45,7 @@ getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with
     + [Troubleshooting email delivery issues](/help/sending-messages/email-channel/troubleshooting-email-delivery-issues.md)
     + [Design emails for deliverability](/help/sending-messages/email-channel/design-emails-for-deliverability.md)
   + SMS Channel {#sms-channel}
-    + [Create a SMS delivery](/help/sending-messages/mobile-channel/create-a-sms-delivery)
+    + [Create a SMS delivery](/help/sending-messages/mobile-channel/create-a-sms-delivery.md)
   + Push Channel {#push-channel}
     + [Installing the Mobile App Channel](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
     + [Configure Push Channel using the Experience Platform Mobile SDK](/help/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk.md)
