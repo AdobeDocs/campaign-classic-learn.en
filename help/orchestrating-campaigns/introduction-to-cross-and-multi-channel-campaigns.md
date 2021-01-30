@@ -17,6 +17,6 @@ Understand the difference between multi-channel and cross-channel campaign and w
 
 ## Additional resources
 
-* [Create cross-channel campaigns](/help/orchestrating-campaigns/cross-channel-campaigns.mdhelp/orchestrating-campaigns/cross-channel-campaigns.md)
-* [Create multi-channel campaigns](help/orchestrating-campaigns/multi-channel-campaigns.md)
+* [Create cross-channel campaigns](/help/orchestrating-campaigns/cross-channel-campaigns.md)
+* [Create multi-channel campaigns](/help/orchestrating-campaigns/multi-channel-campaigns.md)
   

@@ -21,5 +21,5 @@ Learn how to create a multi-channel campaign utilizing email, SMS, and a direct 
 
 ## Additional resources
 
-* [Design and Orchestrate Email Campaigns in Adobe Campaign Classic](https://helpx.adobe.com/campaign/classic/how-to/design-orchestrate-email-campaigns-in-campaign-classic.html)
+* [Introduction to multi-channel and cross-channel campaigns](/help/orchestrating-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
   
