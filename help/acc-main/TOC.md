@@ -62,7 +62,8 @@ getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with
   + [Configuring and managing subscription services](/help/sending-messages/configuring-and-managing-subscription-services.md)
 + Orchestrating Campaigns {#orchestration}
   + [Executing a campaign](/help/orchestrating-campaigns/executing-a-campaign.md)
-  + [Creating multi-channel campaigns](/help/orchestrating-campaigns/multi-channel-campaigns.md)
+  + [Create multi-channel campaigns](/help/orchestrating-campaigns/multi-channel-campaigns.md)
+  + [Create cross-channel campaigns](/help/orchestrating-campaigns/cross-channel-campaigns.md)
 + Reporting {#reporting}
   + [Accessing built-in reports](/help/reporting/accessing-built-in-reports.md)
   + [Generating a descriptive analysis report](/help/reporting/generating-a-descriptive-analysis-report.md)

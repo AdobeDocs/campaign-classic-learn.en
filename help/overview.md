@@ -11,10 +11,14 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 
 ## What's New
 
+* **[Create cross-channel campaigns](/help/orchestrating-campaigns/cross-channel-campaigns.md)**
+
+  *Learn how to create and execute a cross-channel campaign.*
+
 * **[Use control groups](/help/sending-messages/email-channel/use-control-groups.md)**
   
    *Understand the concept of control groups and learn how to use a control group for your delivery.*
-   
+
 * **[Send and validate proofs](/help/sending-messages/email-channel/send-and-validate-proofs.md)**
   
   *Learn how to send and validate a proof.*
