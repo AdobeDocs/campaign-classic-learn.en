@@ -4,7 +4,7 @@ description: Learn how to setup and manage subscriptions and target subscribers.
 feature: Subscriptions     
 topics: 
 kt: 5088
-thumbnail: 329941
+thumbnail: 329941.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
