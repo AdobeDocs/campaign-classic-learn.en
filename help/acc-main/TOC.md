@@ -16,7 +16,7 @@ getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with
 # Adobe Campaign Classic Tutorials {#tutorials}
 
 + [Overview](/help/overview.md)
-+ [Prepare to get started with Adobe Campaign - Deliverability best practices](/https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html)
++ [Prepare to get started with Adobe Campaign - Deliverability best practices](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html)
 + Getting Started {#getting-started}
   + [Introduction to Adobe Campaign Classic](/help/getting-started/introduction-to-adobe-campaign-classic.md)
   + [Install and setup the Adobe Campaign client](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
