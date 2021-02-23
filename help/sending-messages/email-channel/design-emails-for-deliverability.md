@@ -15,3 +15,7 @@ team: WWFRE
 Learn how to apply deliverability best practices to your Campaign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/330943?quality=12)
+
+## Additional resources
+
+[Deliverability best practice guide](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html)

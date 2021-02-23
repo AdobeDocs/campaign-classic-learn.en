@@ -16,7 +16,6 @@ getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with
 # Adobe Campaign Classic Tutorials {#tutorials}
 
 + [Overview](/help/overview.md)
-+ [Prepare to get started with Adobe Campaign - Deliverability best practices](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html)
 + Getting Started {#getting-started}
   + [Introduction to Adobe Campaign Classic](/help/getting-started/introduction-to-adobe-campaign-classic.md)
   + [Install and setup the Adobe Campaign client](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
@@ -45,6 +44,7 @@ getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with
     + [Defining Interactive Email Content with AMP](/help/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)
     + [Troubleshooting email delivery issues](/help/sending-messages/email-channel/troubleshooting-email-delivery-issues.md)
     + [Design emails for deliverability](/help/sending-messages/email-channel/design-emails-for-deliverability.md)
+    + [Deliverability best practice guide](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html)
   + SMS Channel {#sms-channel}
     + [Create a SMS delivery](/help/sending-messages/mobile-channel/create-a-sms-delivery.md)
   + Push Channel {#push-channel}
