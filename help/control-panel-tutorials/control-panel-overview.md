@@ -59,7 +59,7 @@ The Adobe Campaign Control Panel allows Adobe Campaign administrators to monitor
     </a>
     <div>
       <a href="./sftp-management/connect-to-sftp-server.md">
-    <strong>Connecting to a SFTP Server</strong>
+    <strong>Connecting to an SFTP Server</strong>
     </a>
     </div>
     <p>
