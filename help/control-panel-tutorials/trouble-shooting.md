@@ -7,6 +7,8 @@ kt: 2938
 doc-type: article
 activity: use
 team: PM
+role: Administrator
+level: Experienced
 ---
 
 # Trouble shooting [!UICONTROL Control Panel]

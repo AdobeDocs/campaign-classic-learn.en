@@ -1,13 +1,15 @@
 ---
 title: Full subdomain delegation
 description: Learn how to fully delegate a subdomain to Adobe Campaign.
-feature: Subdomain Delegation
+feature: Control Panel
 topics: Control Panel
 kt: 4115
 thumbnail: 31390.jpg
 doc-type: feature video
 activity: use
 team: PM
+role: Administrator
+level: Experienced
 ---
 
 # Full subdomain delegation

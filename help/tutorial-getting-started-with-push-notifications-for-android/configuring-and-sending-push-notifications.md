@@ -1,13 +1,15 @@
 ---
 title:  Configuring and sending push notifications 
 description: Learn how to configure and send a push notification to android app users.
-feature: push
+feature: Push
 topics: mobile channels
 kt: 6579
 thumbnail: 328154.jpg
 doc-type: feature video
 activity: setup
 team: TM
+role: "Administrator, Developer, Business Practitioner"
+level: "Beginner, Intermediate, Experienced"
 ---
 
 # Configuring and sending push notifications 

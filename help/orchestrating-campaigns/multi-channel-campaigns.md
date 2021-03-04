@@ -8,6 +8,8 @@ thumbnail: 24981.jpg
 doc-type: feature video
 activity: use
 team: TM
+role: Business Practitioner
+level: Beginner
 ---
 
 # Creating multi-channel campaigns

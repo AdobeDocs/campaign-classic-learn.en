@@ -1,12 +1,14 @@
 ---
 title: Creating a targeting workflow
-description: Adobe Campaign Classic uses workflows to carry out targeting campaigns, build campaigns or execute Adobe Campaign technical processes. In this video we will focus on targeting workflows. Targeting workflows enable you to build several delivery targets.
-feature: Workflows
+description: Learn how to define  several delivery targets using a  targeting workflows.
+feature: "Workflows, Targeting Activity, Query Editor"
 topics: Targeting Activities
 kt: 2174
 doc-type: feature video
 activity: use
 team: DOC
+role: Business Practitioner
+level: Beginner
 ---
 
 # Creating a targeting workflow

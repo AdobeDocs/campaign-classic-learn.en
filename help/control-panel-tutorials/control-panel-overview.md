@@ -8,6 +8,8 @@ kt: 3262
 doc-type: feature video
 activity: use
 team: PM
+role: Administrator
+level: Experienced
 ---
 # Control Panel -  Overview
 

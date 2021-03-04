@@ -1,13 +1,15 @@
 ---
 title: Configuring an Android service and creating an Android mobile application in Campaign
 description: Learn how to configure an Android Services and create a Android mobile application in Campaign. That is required for us to define the Neotrip app as the target for the push notification.
-feature: push
+feature: Push
 topics: mobile channels
 kt: 6554
 thumbnail: 327788.jpg
 doc-type: feature video
 activity: setup
 team: TM
+role: "Administrator, Developer"
+level: Experienced
 ---
 
 # Configuring an [!DNL Android] service and creating an [!DNL Android] mobile application in Campaign

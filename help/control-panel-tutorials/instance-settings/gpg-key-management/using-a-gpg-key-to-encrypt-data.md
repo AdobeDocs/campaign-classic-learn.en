@@ -8,6 +8,8 @@ thumbnail: 36399.jpg
 doc-type: feature video
 activity: use
 team: PM
+role: Administrator
+level: Experienced
 ---
 
 # Using a GPG key to encrypt data 

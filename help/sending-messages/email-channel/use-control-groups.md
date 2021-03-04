@@ -7,6 +7,8 @@ thumbnail: 330955.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
+role: Business Practitioner
+level: Beginner
 ---
 
 # Use control groups

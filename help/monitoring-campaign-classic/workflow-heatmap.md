@@ -1,12 +1,14 @@
 ---
 title: Workflow Heatmap
-description: The Adobe Campaign Workflow HeatMap consists in a color-coded graphical representation of all the workflows that are currently running.  By providing a quick overview on the number of concurrent workflows, it enables the Adobe Campaign platform administrators to monitor the load on the instance and plan workflows accordingly.
-feature: Workflow Heatmap
+description: Learn how to monitor the load on your instance and plan workflows accordingly.
+feature: Heatmap
 topics: Monitoring and Guardrails
 kt: 2093
 doc-type: feature video
 activity: understand
 team: PM
+role: Administrator
+level: Beginner
 ---
 
 # Workflow Heatmap

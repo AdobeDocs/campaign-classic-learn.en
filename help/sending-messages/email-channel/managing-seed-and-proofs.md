@@ -8,6 +8,8 @@ thumbnail: 25606.jpg
 doc-type: feature video
 activity: use
 team: DOC
+role: Business Practitioner
+level: Beginner
 ---
 
 # How to manage seed and proofs in an email

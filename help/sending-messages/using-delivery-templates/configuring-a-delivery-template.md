@@ -1,6 +1,6 @@
 ---
 title: Configuring a delivery template in Adobe Campaign Classic
-description: A template can systematically include typologies, sender and reply-to addresses, and basic personalization blocks such as mirror page and unsubscription links. It can also include content, a company logo or signature, and other delivery properties, such as resource validity, batch quantities, etc.. The following video demonstrates how to configure a template for an ad hoc delivery.
+description: Learn how to configure a template for an ad hoc delivery.
 feature: Delivery Templates
 topics: Templates
 kt: 1980
@@ -8,6 +8,8 @@ thumbnail: 24066.jpg
 doc-type: feature video
 activity: use
 team: TM
+role: Administrator
+level: Beginner
 ---
 
 # Configuring a delivery template

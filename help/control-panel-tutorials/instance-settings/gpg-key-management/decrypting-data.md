@@ -8,6 +8,8 @@ thumbnail: 36482.jpg
 doc-type: feature video
 activity: use
 team: PM
+role: Administrator
+level: Experienced
 ---
 
 # Decrypting data

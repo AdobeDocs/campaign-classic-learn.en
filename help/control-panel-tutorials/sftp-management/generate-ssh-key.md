@@ -1,13 +1,15 @@
 ---
 title: Generating a SSH Key
 description: Learn how to generate a SSH key using a terminal and how to store the public version of the key in the Control Panel.
-feature: SSH Key
+feature: Control Panel
 topics: Control Panel
 kt: 6348
 thumbnail: 27259.jpg
 doc-type: feature video
 activity: use
 team: PM
+role: Administrator
+level: Experienced
 ---
 
 # Generating a SSH Key

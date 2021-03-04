@@ -8,6 +8,8 @@ thumbnail: 25604.jpg
 doc-type: feature video
 activity: use
 team: DOC
+role: Business Practitioner
+level: Beginer
 ---
 
 # Creating an email from a campaign

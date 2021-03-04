@@ -1,13 +1,15 @@
 ---
 title:  Installing the mobile app channel
 description: Learn how to check if the Mobile App channel is installed on your instance and how to install it.
-feature: push
+feature: Push
 topics: mobile channels
 kt: 6438
 thumbnail: 326544.jpg
 doc-type: feature video
 activity: setup
 team: TM
+role: Administrator
+level: Beginner
 ---
 
 # Installing the mobile app channel

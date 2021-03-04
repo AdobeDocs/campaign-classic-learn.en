@@ -8,6 +8,8 @@ thumbnail: 28149.jpg
 doc-type: feature video
 activity: use
 team: TM
+role: Administrator
+level: Experienced
 ---
 
 # Adding URL permissions 

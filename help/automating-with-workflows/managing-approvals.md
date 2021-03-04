@@ -8,6 +8,8 @@ thumbnail: 329605.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
+role: Business Practitioner
+level: Beginner
 ---
 
 # Managing approvals in a campaign

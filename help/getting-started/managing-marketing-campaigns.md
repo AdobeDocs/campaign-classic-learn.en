@@ -1,15 +1,16 @@
 ---
 title: How to manage marketing campaigns
 description: Understand the key concepts of Adobe Campaign that help effectively plan, execute, and measure cross-channel marketing campaigns.
-feature: 
+feature: Campaigns
 topics: Getting started
 kt: 5077
 thumbnail: 35131.jpg
 doc-type: presentation
 activity: understand
 team: WWFRE
-role: user
+role: Business Practitioner
 skill level: beginner
+level: Beginner
 ---
 
 # Manage marketing campaigns

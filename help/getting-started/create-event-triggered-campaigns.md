@@ -7,6 +7,8 @@ thumbnail: 330920.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
+role: Business Practitioner
+level: Intermediate
 ---
 
 # Create event triggered campaigns

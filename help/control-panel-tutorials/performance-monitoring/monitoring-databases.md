@@ -1,7 +1,7 @@
 ---
 title:  Monitoring databases
 description: Learn how to monitor the database usage of your instances.
-feature: Database Monitoring
+feature: Control Panel
 topics: Control Panel
 kt: 6434
 thumbnail: 327175.jpg
@@ -9,6 +9,8 @@ doc-type: feature video
 audience: administrator
 activity: use
 team: TM
+role: Administrator
+level: Experienced
 ---
 
 # Monitoring databases

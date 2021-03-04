@@ -1,13 +1,15 @@
 ---
 title: Install and setup the Adobe Campaign Client
-description: The video explains how to download and install the Adobe Campaign Client console, create and manage your connections to multiple environments, and verify access to the Adobe Campaign Client console.
-feature: Client consol
+description: "Learn how to download and install the Adobe Campaign Client console, create and manage your connections to multiple environments, and to verify access to the Adobe Campaign Client console."
+feature: Client Console
 topics: Getting started
 kt: 5003
 thumbnail: 35124.jpg
 doc-type: feature video
 activity: setup
 team: DOC
+role: "Business Practitioner, Administrator, Developer"
+level: Beginner
 ---
 
 # Install and setup the Adobe Campaign Client

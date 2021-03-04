@@ -4,6 +4,8 @@ description: The following videos explain how to generate and install a public/p
 feature: Control Panel
 topics: GPG Key Management
 team: TM
+role: Administrator
+level: Experienced
 ---
 
 # GPG key management - Overview

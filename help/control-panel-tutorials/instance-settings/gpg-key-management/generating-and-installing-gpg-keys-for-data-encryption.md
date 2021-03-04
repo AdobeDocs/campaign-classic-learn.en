@@ -8,6 +8,8 @@ thumbnail: 36386.jpg
 doc-type: feature video
 activity: use
 team: PM
+role: Administrator
+level: Experienced
 ---
 
 # Generating and installing GPG keys for data encryption
