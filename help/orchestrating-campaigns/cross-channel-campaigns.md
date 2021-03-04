@@ -1,26 +1,23 @@
 ---
 title: Create multi-channel campaigns
-description: Learn how to create a multi-channel campaign utilizing email, SMS, and a direct mail deliveries.
+description: Learn how to create a channel-channel campaign.
 feature: Workflows
-topics: 
-kt: 1563
-thumbnail: 24981.jpg
+kt: 7018
+thumbnail: 330990.jpg
 doc-type: feature video
 activity: use
 team: TM
-role: Business Practitioner
-level: Beginner
 ---
 
 # Create multi-channel campaigns
 
-In a multi-channel campaign, a single marketing communication utilizes multiple channels to reach a wider target audience based on the preferred recipient channel.
+In a cross-channel campaign, a single marketing communication utilizes multiple channels to reach a wider target audience based on the preferred recipient channel.
 
 Multi-channel deliveries are designed and executed in a single workflow.
 
 Learn how to create a multi-channel campaign utilizing email, SMS, and a direct mail deliveries.
 
->[!VIDEO](https://video.tv.adobe.com/v/24981?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/330990?quality=12)
 
 ## Additional resources
 

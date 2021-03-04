@@ -10,6 +10,7 @@ activity: use
 team: PM
 role: Administrator
 level: Experienced
+original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/google-txt-record-management.html
 ---
 
 # [!UICONTROL Google TXT record] management

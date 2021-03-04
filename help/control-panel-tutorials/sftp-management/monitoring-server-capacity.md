@@ -11,6 +11,7 @@ activity: use
 team: TM
 role: Administrator
 level: Experienced
+original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/monitoring-server-capacity-whitelisting-adding-ssh-key.html,https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/monitoring-server-capacity-allow-listing-adding-ssh-key.html
 ---
 
 # Monitoring server capacity

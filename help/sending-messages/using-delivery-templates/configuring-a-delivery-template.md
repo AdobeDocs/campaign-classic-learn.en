@@ -10,6 +10,7 @@ activity: use
 team: TM
 role: Administrator
 level: Beginner
+original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/delivery-template-configuration.html
 ---
 
 # Configuring a delivery template

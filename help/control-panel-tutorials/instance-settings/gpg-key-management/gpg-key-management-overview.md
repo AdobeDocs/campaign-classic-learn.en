@@ -6,6 +6,7 @@ topics: GPG Key Management
 team: TM
 role: Administrator
 level: Experienced
+original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/gpg-key-management/gpg-key-management-overview.html
 ---
 
 # GPG key management - Overview

@@ -10,6 +10,7 @@ activity: use
 team: PM
 role: Administrator
 level: Experienced
+original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/gpg-key-management/using-a-gpg-key-to-encrypt-data.html
 ---
 
 # Using a GPG key to encrypt data 

@@ -10,6 +10,7 @@ activity: use
 team: PM
 role: Administrator
 level: Experienced
+original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.html
 ---
 
 # Generating and installing GPG keys for data encryption

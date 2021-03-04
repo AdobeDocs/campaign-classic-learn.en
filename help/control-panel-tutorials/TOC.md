@@ -1,7 +1,7 @@
 ---
-product: Adobe Cmpaign Classic
+product: Adobe Campaign Classic
 user-guide-title: Adobe Campaign Control Panel Tutorials
-user-guide-description: Control Panel allows Adobe Campaign administrators to monitor key assets and perform administrative tasks, such as managing the SFTP storage by instance or allow list IP addresses.
+user-guide-description: Learn how to monitor your Adobe Campaign instances' key assets and perform administrative tasks in Control Panel.
 breadcrumb-title: Control Panel Tutorials
 breadcrumb-url: /docs/campaign-classic-learn/control-panel/control-panel-overview.html
 solution-title: Experience League
