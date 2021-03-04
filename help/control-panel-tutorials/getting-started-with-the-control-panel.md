@@ -1,6 +1,6 @@
 ---
 title: Getting started with the Control Panel
-description: This article explains how to access the Control Panel and what the prerequisites are to be able to work with the control panel.
+description: Learn how to access the Control Panel and what the prerequisites are to be able to work with the control panel.
 feature: Control Panel
 topics: Control Panel
 kt: 6388
@@ -8,6 +8,9 @@ thumbnail: kt-6385.jpg
 doc-type: feature video
 activity: setup
 team: TM
+topic:  
+role: Administrator
+level: Experienced
 ---
 
 # Getting started with the [!UICONTROL Control Panel] {#control-panel}

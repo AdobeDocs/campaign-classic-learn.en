@@ -1,13 +1,15 @@
 ---
 title: Google TXT record management
 description: You can add Google TXT site verification record to all your subdomains used to send emails to GMAIL addresses through the Campaign Control Panel.
-feature: Google TXT record management
+feature: Control Panel
 topics: Control Panel
 kt: 4744
 thumbnail: 32369.jpg
 doc-type: feature video
 activity: use
 team: PM
+role: Administrator
+level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/google-txt-record-management.html
 ---
 

@@ -8,6 +8,8 @@ thumbnail: 330941.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
+role: Business Practitioner
+level: Beginner
 ---
 
 # Create and design email deliveries 

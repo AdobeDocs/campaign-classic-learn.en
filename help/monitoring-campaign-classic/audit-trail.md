@@ -7,6 +7,8 @@ kt: 2835
 doc-type: feature video
 activity: understand
 team: PM
+role: Administrator
+level: Beginner
 ---
 
 # How to use the Audit Trail

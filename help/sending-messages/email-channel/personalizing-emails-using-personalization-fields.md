@@ -8,6 +8,8 @@ thumbnail: 24925.jpg
 doc-type: feature video
 activity: use
 team: TM
+role: Business Practitioner
+level: Beginner
 ---
 
 # Personalizing emails using personalization fields

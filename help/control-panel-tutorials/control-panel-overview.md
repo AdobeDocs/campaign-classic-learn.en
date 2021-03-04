@@ -8,6 +8,8 @@ kt: 3262
 doc-type: feature video
 activity: use
 team: PM
+role: Administrator
+level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/control-panel-overview.html
 ---
 # Control Panel -  Overview
@@ -60,7 +62,7 @@ The Adobe Campaign Control Panel allows Adobe Campaign administrators to monitor
     </a>
     <div>
       <a href="./sftp-management/connect-to-sftp-server.md">
-    <strong>Connecting to a SFTP Server</strong>
+    <strong>Connecting to an SFTP Server</strong>
     </a>
     </div>
     <p>

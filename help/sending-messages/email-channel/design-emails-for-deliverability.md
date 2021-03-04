@@ -8,6 +8,8 @@ thumbnail: 330943.jpg
 doc-type: feature video
 activity: understand
 team: WWFRE
+role: Business Practitioner
+level: Beginner
 ---
 
 # Design emails for deliverability

@@ -8,6 +8,8 @@ thumbnail: 25602.jpg
 doc-type: feature video
 activity: setup
 team: DOC
+role: Business Practitioner
+level: Beginner
 ---
 
 # Creating a list of recipients

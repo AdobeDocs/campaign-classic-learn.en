@@ -8,6 +8,8 @@ thumbnail: 329936.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
+role: Business Practitioner
+level: Beginner
 ---
 
 # Configuring dynamic content

@@ -1,13 +1,15 @@
 ---
 title: Using the update list activity to create a list with a workflow
 description: Learn how to refine your target by applying a standard exclusion to a workflow. You will also learn how to create predefined filters and how to trouble shoot your workflow.
-feature: Workflows
+feature: Workflows, Targeting Activity, Query Editor
 topics: Targeting Activities
 kt: 5078
 thumbnail: 35620.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
+role: Business Practitioner
+level: Beginner
 ---
 
 # Using the update list activity to create a list with a workflow

@@ -8,6 +8,8 @@ thumbnail: 28149.jpg
 doc-type: feature video
 activity: use
 team: TM
+role: Administrator
+level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/adding-url-permissions.html
 ---
 

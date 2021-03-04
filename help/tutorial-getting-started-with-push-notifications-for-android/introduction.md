@@ -1,12 +1,14 @@
 ---
 title: Getting started with Push notifications for Android - Introduction
 description: This tutorial will walk you through the steps involved in sending push notifications from Adobe Campaign and receiving these notifications in your Android app.
-feature: push
+feature: Push
 topics: mobile channels
 kt: 6438
 doc-type: article
 activity: setup
 team: TM
+role: Administrator, Developer
+level: Experienced
 ---
 
 # Getting started with Push notifications for Android - Introduction

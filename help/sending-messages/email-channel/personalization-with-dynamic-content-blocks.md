@@ -8,6 +8,8 @@ thumbnail: 24924
 doc-type: feature video
 activity: use
 team: TM
+role: Administrator, Developer
+level: Beginner
 ---
 
 # Personalizing emails using dynamic content blocks

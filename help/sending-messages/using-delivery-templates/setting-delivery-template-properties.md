@@ -1,6 +1,6 @@
 ---
 title: Setting delivery template properties in Adobe Campaign Classic
-description: The following video shows how to set the delivery template properties in Adobe Campaign Classic and explains each property in detail.
+description: Learn how to configure the delivery template properties.
 feature: Delivery Templates
 topics: Templates
 kt: 1981
@@ -8,6 +8,8 @@ thumbnail: 24067.jpg
 doc-type: feature video
 activity: use
 team: TM
+role: Administrator
+level: Beginner
 ---
 
 # Setting delivery template properties {#setting-the-delivery-template-properties}

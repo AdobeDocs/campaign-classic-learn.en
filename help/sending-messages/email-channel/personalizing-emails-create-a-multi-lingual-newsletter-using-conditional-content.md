@@ -8,6 +8,8 @@ thumbnail: 24926.jpg
 doc-type: feature video
 activity: use
 team: TM
+role: Business Practitioner
+level: Beginner
 ---
 
 # Personalizing emails - Create a multi lingual newsletter using conditional content

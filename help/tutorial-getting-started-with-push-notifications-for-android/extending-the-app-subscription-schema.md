@@ -1,13 +1,15 @@
 ---
 title: Extending the app subscription schema to personalize push notifications
 description: Learn how to extend the app subscription schema to be able to store personalization values Campaign receives from a mobile app.
-feature: push, data management
+feature: Push, Schema Extension
 topics: mobile channels
 kt: 6451
 thumbnail: 327306.jpg
 doc-type: feature video
 activity: setup
 team: TM
+role: Administrator, Developer
+level: Experienced
 ---
 
 # Extending the [!UICONTROL app subscription] schema to personalize push notifications

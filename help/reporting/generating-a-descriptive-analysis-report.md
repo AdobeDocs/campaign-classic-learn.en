@@ -8,8 +8,9 @@ thumbnail: 35616.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: user
+role: Business Practitioner
 skill level: beginner
+level: Beginner
 ---
 
 # Generating a descriptive analysis report
