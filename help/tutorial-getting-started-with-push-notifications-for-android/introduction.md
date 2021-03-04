@@ -7,7 +7,7 @@ kt: 6438
 doc-type: article
 activity: setup
 team: TM
-role: "Administrator, Developer"
+role: Administrator, Developer
 level: Experienced
 ---
 

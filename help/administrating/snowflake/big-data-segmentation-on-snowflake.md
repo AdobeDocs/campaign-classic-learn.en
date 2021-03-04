@@ -7,7 +7,7 @@ kt: 4405
 doc-type: feature video
 activity: use
 team: PM
-role: "Administrator, Developer"
+role: Administrator, Developer
 level: Advanced
 ---
 

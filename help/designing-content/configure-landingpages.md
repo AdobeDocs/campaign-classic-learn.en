@@ -8,7 +8,7 @@ thumbnail: 25041.jpg
 doc-type: feature video
 activity: setup
 team: DOC
-role: "Developer, Administrator"
+role: Developer, Administrator
 level: Beginner
 ---
 

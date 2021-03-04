@@ -8,7 +8,7 @@ thumbnail: 24924
 doc-type: feature video
 activity: use
 team: TM
-role: "Administrator, Developer"
+role: Administrator, Developer
 level: Beginner
 ---
 

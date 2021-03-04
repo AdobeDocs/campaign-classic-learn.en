@@ -8,7 +8,7 @@ thumbnail: 329941.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: "Business Practitioner, Administrator, Developer"
+role: Business Practitioner, Administrator, Developer
 level: Advanced
 ---
 

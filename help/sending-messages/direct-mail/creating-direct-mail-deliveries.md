@@ -1,6 +1,6 @@
 ---
 title: Creating direct mail deliveries
-description: "Learn how to create, format and execute a direct mail delivery."
+description: Learn how to create, format and execute a direct mail delivery.
 feature: Direct mail
 topics: 
 kt: 3859

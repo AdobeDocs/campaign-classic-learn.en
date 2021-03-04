@@ -8,8 +8,8 @@ thumbnail: 328154.jpg
 doc-type: feature video
 activity: setup
 team: TM
-role: "Administrator, Developer, Business Practitioner"
-level: "Beginner, Intermediate, Experienced"
+role: Administrator, Developer, Business Practitioner
+level: Beginner, Intermediate, Experienced
 ---
 
 # Configuring and sending push notifications 

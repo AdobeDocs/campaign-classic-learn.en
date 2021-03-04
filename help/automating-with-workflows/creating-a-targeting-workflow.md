@@ -1,7 +1,7 @@
 ---
 title: Creating a targeting workflow
 description: Learn how to define  several delivery targets using a  targeting workflows.
-feature: "Workflows, Targeting Activity, Query Editor"
+feature: Workflows, Targeting Activity, Query Editor
 topics: Targeting Activities
 kt: 2174
 doc-type: feature video

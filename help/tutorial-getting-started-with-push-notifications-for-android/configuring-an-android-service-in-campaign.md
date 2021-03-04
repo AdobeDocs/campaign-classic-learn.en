@@ -8,7 +8,7 @@ thumbnail: 327788.jpg
 doc-type: feature video
 activity: setup
 team: TM
-role: "Administrator, Developer"
+role: Administrator, Developer
 level: Experienced
 ---
 

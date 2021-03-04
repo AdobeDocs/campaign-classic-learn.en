@@ -5,7 +5,7 @@ product: Campaign
 sub-product: Campaign Classic
 feature: Overview
 topic:  
-role: "Business Practitioner, Administrator, Developer"
+role: Business Practitioner, Administrator, Developer
 level: Beginner
 ---
 

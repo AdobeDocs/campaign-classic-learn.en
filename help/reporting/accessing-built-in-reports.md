@@ -1,6 +1,6 @@
 ---
 title: Accessing built-in reports
-description: "Understand built-in reporting and analysis and learn how to generate a delivery report."
+description: Understand built-in reporting and analysis and learn how to generate a delivery report.
 feature: Reporting
 topics: 
 kt: 5090

@@ -7,7 +7,7 @@ kt: 2148
 doc-type: feature video
 activity: use
 team: TM
-role: "Business Practitioner, Developer, Administrator"
+role: Business Practitioner, Developer, Administrator
 level: Advanced
 ---
 
