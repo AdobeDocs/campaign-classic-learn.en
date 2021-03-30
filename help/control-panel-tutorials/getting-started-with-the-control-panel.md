@@ -2,13 +2,11 @@
 title: Getting started with the Control Panel
 description: Learn how to access the Control Panel and what the prerequisites are to be able to work with the control panel.
 feature: Control Panel
-topics: Control Panel
 kt: 6388
 thumbnail: kt-6385.jpg
 doc-type: feature video
 activity: setup
 team: TM
-topic:  
 role: Administrator
 level: Experienced
 ---
@@ -17,8 +15,9 @@ level: Experienced
 
 >[!NOTE]
 >
->Control Panel is accessible to all Admin users. The steps to grant Admin access to a user are detailed in the (product documentation)[https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=en#discover-control-panel].
-Note that your instance must be hosted on AWS and upgraded with the latest (Gold Standard)[https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/gs-release/gs-overview.html] build. Learn how to check your version in (this section)[https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/launching-adobe-campaign.html?lang=en#getting-your-campaign-version]. To check if your instance is hosted on AWS, follow the steps detailed in (this page)[https://experienceleague.adobe.com/docs/control-panel/using/faq.html].
+>Control Panel is accessible to all Admin users. The steps to grant Admin access to a user are detailed in the [product documentation](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=en#discover-control-panel).
+Note that your instance must be hosted on AWS and upgraded with the latest [Gold Standard](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/gs-release/gs-overview.html) build. Learn how to check your version in [this section](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/launching-adobe-campaign.html?lang=en#getting-your-campaign-version). To check if your instance is hosted on AWS, follow the steps detailed in [this page](https://experienceleague.adobe.com/docs/control-panel/using/faq.html).
+>
 
 The [!UICONTROL Control Panel] allows Adobe Campaign administrators to monitor key assets and perform administrative tasks, such as managing the [!DNL SFTP] storage by instance, managing [!DNL GPG] keys, or [!UICONTROL subdomains] and [!UICONTROL certificates].
 
