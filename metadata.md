@@ -1,5 +1,5 @@
 ---
-cloud: experience-cloud
+cloud: Experience Cloud
 product: adobe campaign
 type: Tutorial
 solution: Campaign, Campaign Classic
