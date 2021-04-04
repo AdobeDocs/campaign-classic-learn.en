@@ -10,8 +10,8 @@ activity: use
 team: DOC
 role: Business Practitioner
 level: Beginner
+exl-id: a10824f4-c2ea-4c9a-bbf4-3290a96a0de8
 ---
-
 # How to manage seed and proofs in an email
 
 Learn how to add seeds and proofs to an existing email and how to send it.

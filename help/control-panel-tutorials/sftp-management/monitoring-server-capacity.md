@@ -12,8 +12,8 @@ team: TM
 role: Administrator
 level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/monitoring-server-capacity-whitelisting-adding-ssh-key.html,https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/monitoring-server-capacity-allow-listing-adding-ssh-key.html
+exl-id: cad80fc2-cf82-44fd-b192-0ceda90d6745
 ---
-
 # Monitoring server capacity
 
 The Control Panel allows you to monitor and manage your SFTP storage by instance.

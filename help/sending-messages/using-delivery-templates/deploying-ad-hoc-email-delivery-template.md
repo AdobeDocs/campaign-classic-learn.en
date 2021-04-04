@@ -10,8 +10,8 @@ activity: use
 team: TM
 role: Administrator
 level: Beginner
+exl-id: 2e4bb39d-fd03-44f5-8249-dc415b87808a
 ---
-
 # Deploying an ad-hoc email delivery template {#deploying-a-delivery-template}
 
 This video explains how to deploy an ad-hoc email delivery template and it explains the difference between an email delivery and a delivery workflow.

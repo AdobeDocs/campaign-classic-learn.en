@@ -10,8 +10,8 @@ activity: setup
 team: TM
 role: Administrator, Developer
 level: Experienced
+exl-id: 47e66991-fbc4-4cbf-ad36-144a430ea62a
 ---
-
 # Configuring an [!DNL Android] service and creating an [!DNL Android] mobile application in Campaign
 
 Learn how to configure an [!DNL Android] service and create an [!DNL Android] mobile application in Campaign. This step is required so that you can define the target mobile application for the push notification.

@@ -10,8 +10,8 @@ activity: use
 team: TM
 role: Business Practitioner
 level: Beginner
+exl-id: 080f5229-9eae-45b6-b0e0-13b4721ad79c
 ---
-
 # Personalizing emails - Create a multi lingual newsletter using conditional content
 
 By configuring conditional content fields, you can create advanced personalization. Complete text blocks and/or images are replaced when a particular condition is satisfied.

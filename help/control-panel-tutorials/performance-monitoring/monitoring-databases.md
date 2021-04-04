@@ -11,8 +11,8 @@ activity: use
 team: TM
 role: Administrator
 level: Experienced
+exl-id: eefe2adc-d1f2-4d38-b93b-c38069f4acd4
 ---
-
 # Monitoring databases
 
 All your Campaign instance's assets, workflows, and data are stored in the database. The database reaching its maximum capacity can lead to issues with your instance (inability to login, to send emails etc.). It is therefore essential to monitor you instances' databases regularly to ensure optimal performance.

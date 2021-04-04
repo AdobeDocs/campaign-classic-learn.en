@@ -10,8 +10,8 @@ activity: understand
 team: WWFRE
 role: Business Practitioner
 level: Beginner
+exl-id: 2df2986e-00f7-40fb-b37e-09fb3de9d710
 ---
-
 # Design emails for deliverability
 
 Learn how to apply deliverability best practices to your Campaign.

@@ -9,8 +9,8 @@ activity: use
 team: WWFRE
 role: Business Practitioner
 level: Intermediate
+exl-id: da1f498c-b60a-4835-ace0-b99911221bd2
 ---
-
 # Create event triggered campaigns
 
 Learn how to create an event triggered campaign and understand its uses.

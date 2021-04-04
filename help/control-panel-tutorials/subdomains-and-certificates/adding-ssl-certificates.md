@@ -11,8 +11,8 @@ team: PM
 role: Administrator
 level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/adding-ssl-certificates.html
+exl-id: 9ba485fb-be26-4f3c-a9de-844fecaec20d
 ---
-
 # Adding SSL certificates
 
 Adobe Campaign [!UICONTROL Control Panel] allows you to add SSL certificates to secure your subdomains.

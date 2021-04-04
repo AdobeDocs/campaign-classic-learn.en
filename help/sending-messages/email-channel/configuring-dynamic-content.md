@@ -10,8 +10,8 @@ activity: use
 team: WWFRE
 role: Business Practitioner
 level: Beginner
+exl-id: a649e71c-1866-4596-88cf-0ede861c8845
 ---
-
 # Configuring dynamic content
 
 Understand the different types of dynamic content and learn how create and apply personalization blocks and conditional statements to a delivery.

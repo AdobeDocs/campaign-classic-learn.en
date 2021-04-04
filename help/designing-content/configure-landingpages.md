@@ -10,8 +10,8 @@ activity: setup
 team: DOC
 role: Developer, Administrator
 level: Beginner
+exl-id: d14d0b67-dcc7-4cc8-b507-9ce389234c09
 ---
-
 # How to configure landing pages
 
 Adobe Campaign Classic enables you to design and host a variety of landing pages on its server including online surveys, preference centers, unsubscribe pages.

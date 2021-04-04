@@ -9,8 +9,8 @@ activity: use
 team: WWFRE
 role: Business Practitioner
 level: Beginner
+exl-id: 725d5704-631b-4e5e-8910-876275d37646
 ---
-
 # Send and validate proofs
 
 Learn how to send and validate a proof.

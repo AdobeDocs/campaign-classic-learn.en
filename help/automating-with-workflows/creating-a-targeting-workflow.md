@@ -9,8 +9,8 @@ activity: use
 team: DOC
 role: Business Practitioner
 level: Beginner
+exl-id: d54f5cdf-e026-41cb-b5a6-83344bb95125
 ---
-
 # Creating a targeting workflow
 
 Adobe Campaign uses workflows to carry out targeting campaigns, build campaigns or execute Adobe Campaign technical processes. In this video we will focus on targeting workflows. Targeting workflows enable you to build several delivery targets.

@@ -10,8 +10,8 @@ activity: setup
 team: TM
 role: Administrator
 level: Beginner
+exl-id: f1e71f7d-4af1-4122-ae30-14c9f2ff2a19
 ---
-
 # Installing the mobile app channel
 
 Learn how to check if the Mobile App channel is installed on your instance and how to install it.

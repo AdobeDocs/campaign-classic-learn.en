@@ -10,8 +10,8 @@ activity: setup
 team: DOC
 role: Business Practitioner
 level: Beginner
+exl-id: 101e32c1-6a70-49a6-b987-6aa55de3e72a
 ---
-
 # Creating a list of recipients with a workflow
 
 Learn how create a workflow in order to target recipients and how to make it recurring before using the list in an email target.

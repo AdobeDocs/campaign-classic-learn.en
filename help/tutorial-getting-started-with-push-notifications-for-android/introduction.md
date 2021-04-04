@@ -9,8 +9,8 @@ activity: setup
 team: TM
 role: Administrator, Developer
 level: Experienced
+exl-id: 291c2e3a-c126-439d-9753-06a4091bbda0
 ---
-
 # Getting started with Push notifications for Android - Introduction
 
 Adobe Campaign allows you to send personalized and segmented [!DNL push] notifications to [!DNL iOS] and [!DNL Android] mobile devices. This tutorial will walk you through the steps involved in sending [!DNL push] notifications from Adobe Campaign to an [!DNL Android] app.

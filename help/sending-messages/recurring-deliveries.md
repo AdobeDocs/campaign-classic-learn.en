@@ -9,8 +9,8 @@ activity: use
 team: TM
 role: Business Practitioner
 level: Beginner
+exl-id: 42f2a7e6-7d88-473b-b913-fe09b7016b28
 ---
-
 # How to set up recurring and continuous email campaigns
 
 This tutorial explains how to set up a recurring and a continuous delivery and the differences between the two approaches.  

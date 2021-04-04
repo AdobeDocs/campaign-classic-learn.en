@@ -11,8 +11,8 @@ team: PM
 role: Administrator
 level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/generate-ssh-key.html
+exl-id: 6ff9713c-9392-425d-9a13-3c1cc7afe2c2
 ---
-
 # Generating a SSH Key
 
 You need to be able to generate a SSH key in order to be able to add it to the Control Panel.

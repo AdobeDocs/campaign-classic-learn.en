@@ -11,8 +11,8 @@ team: WWFRE
 role: Business Practitioner
 skill level: beginner
 level: Beginner
+exl-id: 521b970a-55eb-498f-9350-3fd7546bf1df
 ---
-
 # Explore the Adobe Campaign Classic user interface
 
 This lesson explains the main Adobe Campaign Classic user interface and shows you how to navigate the main functionality.

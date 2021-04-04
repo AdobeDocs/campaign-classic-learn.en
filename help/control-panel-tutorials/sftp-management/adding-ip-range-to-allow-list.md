@@ -11,8 +11,8 @@ activity: use
 team: PM
 role: Administrator
 level: Experienced
+exl-id: 16e4f5ed-fd1f-400d-8010-2c1612399596
 ---
-
 # Adding an IP range to the allow list 
 
 In order to connect to a server, either through a client application or an API, you must set up a public SSH key and add the IP address that connects to your SFTP server to the allow list.

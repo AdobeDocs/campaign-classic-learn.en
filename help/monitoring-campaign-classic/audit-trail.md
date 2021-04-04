@@ -9,8 +9,8 @@ activity: understand
 team: PM
 role: Administrator
 level: Beginner
+exl-id: 66ce7a21-f0ca-47a5-80f7-ee8596fac7a7
 ---
-
 # How to use the Audit Trail
 
 [!UICONTROL Audit Trail] captures, in real-time, a comprehensive list of actions and events occurring within Adobe Campaign. The [!UICONTROL Audit Trail] features includes a self-serve way to access a history of data to help answer questions such as:

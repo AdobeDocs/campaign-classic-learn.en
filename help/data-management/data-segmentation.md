@@ -9,8 +9,8 @@ activity: use
 team: evangelist
 role: Business Practitioner
 level: Beginner
+exl-id: d31023ca-aa81-4a65-a4c7-ddbf0d0a4a99
 ---
-
 # Data Segmentation
 
  Adobe Campaign allows you to do advanced segmentation through deep queries of the common consumer attributes and other data sources allowing you to create reusable lists, dynamically updating lists based on real-time changes to data, and even do more complex activities such as multi-variate testing on any of those data points. This tutorial explains the integrated customer profile, how to create and update the profiles and how to create customer segments based on these profiles. 

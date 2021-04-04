@@ -11,8 +11,8 @@ team: TM
 role: Administrator
 level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/adding-url-permissions.html
+exl-id: 6fc468d8-7cde-4153-9bc8-56955db8b867
 ---
-
 # Adding URL permissions 
 
 Learn how to establish a connection from your [!UICONTROL Adobe Campaign Classic] instance to an external URL.

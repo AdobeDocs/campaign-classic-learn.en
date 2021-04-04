@@ -7,8 +7,8 @@ thumbnail: 330984.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: e715497a-bd61-458c-ac7d-365f210a2fd9
 ---
-
 # Introduction to multi-channel and cross-channel campaigns
 
 Understand the difference between multi-channel and cross-channel campaign and what the use cases for multi-channel and cross-channel campaigns are.
@@ -19,4 +19,3 @@ Understand the difference between multi-channel and cross-channel campaign and w
 
 * [Create cross-channel campaigns](/help/orchestrating-campaigns/cross-channel-campaigns.md)
 * [Create multi-channel campaigns](/help/orchestrating-campaigns/multi-channel-campaigns.md)
-  

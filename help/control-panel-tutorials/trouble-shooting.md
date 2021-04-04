@@ -10,8 +10,8 @@ team: PM
 role: Administrator
 level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/trouble-shooting.html
+exl-id: 016e8b77-20df-4ca5-b5e7-fe2f3e7ba7a3
 ---
-
 # Trouble shooting [!UICONTROL Control Panel]
 
 ## Login and Homepage
@@ -63,4 +63,3 @@ Connecting to SFTP servers requires:
 ### Helpful documentation {#helpful-docs}
 
 * [Logging into your SFTP server](https://helpx.adobe.com/campaign/kb/control-panel-sftp.html#LoggingintoyourSFTPserver)
-  

@@ -10,8 +10,8 @@ activity: use
 team: WWFRE
 role: Business Practitioner
 level: Beginner
+exl-id: 078bd5d2-e441-4af5-b81c-89a1892601e3
 ---
-
 # Using the update list activity to create a list with a workflow
 
 Understand the concept of lists in Adobe Campaign Classic and learn how to create a list using the update list activity in a workflow.

@@ -11,8 +11,8 @@ team: TM
 role: Administrator
 level: Beginner
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/delivery-template-configuration.html
+exl-id: b4870f22-e7d7-4257-b073-71b92e53361f
 ---
-
 # Configuring a delivery template
 
 Marketing departments produce delivery templates to standardize the creative look and feel, in order to be quicker in executing and launching campaigns.

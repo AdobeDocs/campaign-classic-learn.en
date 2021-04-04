@@ -11,8 +11,8 @@ team: WWFRE
 role: Business Practitioner
 skill level: beginner
 level: Beginner
+exl-id: b63431c6-d09a-49d1-9281-e1f260842b86
 ---
-
 # Create a marketing plan, programs, and campaigns
 
 Learn how to create a marketing plan, program, and campaign, set properties for a campaign, and understand how to use the schedule. 

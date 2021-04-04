@@ -13,8 +13,8 @@ activity: setup
 team: TM
 role: Business Practitioner
 level: Advanced
+exl-id: 34fbb91d-ae99-497c-872e-55ce2e6ea2aa
 ---
-
 # How to configure validation workflows in Adobe Campaign Classic
 
 Adobe Campaign offers several options for marketers to review and provide delivery content, campaign target, data extraction and budget approvals. 

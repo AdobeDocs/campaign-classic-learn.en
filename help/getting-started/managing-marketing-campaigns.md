@@ -11,8 +11,8 @@ team: WWFRE
 role: Business Practitioner
 skill level: beginner
 level: Beginner
+exl-id: 0a8f07b1-e663-4c64-9d6e-34dfc5b05517
 ---
-
 # Manage marketing campaigns
 
 Understand the key concepts of [!UICONTROL Adobe Campaign] that help effectively plan, execute, and measure cross-channel marketing campaigns.

@@ -10,8 +10,8 @@ activity: use
 team: TM
 role: Administrator
 level: Beginner
+exl-id: 1da9b462-7cfe-48e2-9a84-6a070e4d305a
 ---
-
 # Setting delivery template properties {#setting-the-delivery-template-properties}
 
 The following video shows how to set the delivery template properties and explains each property in detail.

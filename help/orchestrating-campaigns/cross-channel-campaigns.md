@@ -7,8 +7,8 @@ thumbnail: 330990.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: adf5eec1-9705-48f0-84a9-57a44bf79d0d
 ---
-
 # Create multi-channel campaigns
 
 In a cross-channel campaign, a single marketing communication utilizes multiple channels to reach a wider target audience based on the preferred recipient channel.
@@ -22,4 +22,3 @@ Learn how to create a multi-channel campaign utilizing email, SMS, and a direct 
 ## Additional resources
 
 * [Introduction to multi-channel and cross-channel campaigns](/help/orchestrating-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
-  

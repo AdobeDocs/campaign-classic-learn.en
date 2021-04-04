@@ -9,8 +9,8 @@ activity: setup
 team: TM
 role: Administrator
 level: Experienced
+exl-id: 797a24fc-cd4d-447e-a8c7-275e57b75716
 ---
-
 # Getting started with the [!UICONTROL Control Panel] {#control-panel}
 
 >[!NOTE]
@@ -56,4 +56,3 @@ The following video explains how to add an administrator to a Campaign instance
 ## Additional resources
 
 * [Control Panel Help Center](https://docs.adobe.com/content/help/en/control-panel/using/control-panel-home.html)
-  

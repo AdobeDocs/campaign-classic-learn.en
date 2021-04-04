@@ -11,8 +11,8 @@ team: PM
 role: Administrator
 level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/connect-to-sftp-server.html
+exl-id: 6b615904-283b-4197-9fd4-d91e20a14657
 ---
-
 # Connecting to a SFTP server
 
 ## Accessing Control Panel SFTP Management

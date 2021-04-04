@@ -11,8 +11,8 @@ team: WWFRE
 role: Business Practitioner, Administrator, Developer
 skill level: beginner
 level: Beginner
+exl-id: 40411fe3-44d8-4c2e-99df-940d17ab9f3e
 ---
-
 # Introduction to Adobe Campaign Classic
 
 Understand how Adobe Campaign Classic fits into the Adobe Digital Experience portfolio and get an overview over its primary features and capabilities.

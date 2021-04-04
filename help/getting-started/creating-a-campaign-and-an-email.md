@@ -10,8 +10,8 @@ activity: use
 team: DOC
 role: Business Practitioner
 level: Beginer
+exl-id: 89765be2-366d-45f8-8e1c-a192ecbb2694
 ---
-
 # Creating an email from a campaign
 
 Learn how to create an email delivery directly from a campaign.

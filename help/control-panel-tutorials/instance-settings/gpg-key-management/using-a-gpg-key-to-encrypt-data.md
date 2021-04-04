@@ -11,8 +11,8 @@ team: PM
 role: Administrator
 level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/gpg-key-management/using-a-gpg-key-to-encrypt-data.html
+exl-id: 678b6d42-3d00-4c45-96fa-5ee73ce05d2c
 ---
-
 # Using a GPG key to encrypt data 
 
 Learn how to export data using a GPG key installed on Control Panel.

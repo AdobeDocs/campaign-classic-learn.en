@@ -9,8 +9,8 @@ activity: setup
 team: PM
 role: Administrator
 level: Beginner
+exl-id: 7d1673ed-19a0-4c68-8bba-281609a16aaf
 ---
-
 # Configure the Push Channel using the Experience Platform Mobile SDK 
 
 This video explains how to Configure and install the Adobe Experience Platform Mobile SDK.

@@ -10,8 +10,8 @@ activity: set-up
 team: WWFRE
 role: Business Practitioner
 level: Beginner
+exl-id: 82119bde-daf1-4233-96dc-d6ce235e0934
 ---
-
 # Creating direct mail deliveries
 
 Understand how [!UICONTROL direct mail] works in [!UICONTROL Adobe Campaign] and learn how to create, format and execute a [!UICONTROL direct mail ]delivery.

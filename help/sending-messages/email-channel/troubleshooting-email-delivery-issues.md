@@ -10,8 +10,8 @@ activity: understand
 team: WWFRE
 role: Business Practitioner
 level: Beginner
+exl-id: a362a627-9812-4753-a5de-8eb97ea1b606
 ---
-
 # Troubleshooting email delivery issues
 
 Learn how to troubleshoot email delivery issues in Campaign.

@@ -10,6 +10,7 @@ activity: use
 team: WWFRE
 role: Business Practitioner
 level: Beginner
+exl-id: a562ea4c-0d11-4491-b18e-bab1305a508f
 ---
 # Executing a campaign
 

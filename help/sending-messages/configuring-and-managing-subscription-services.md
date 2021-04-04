@@ -10,8 +10,8 @@ activity: use
 team: WWFRE
 role: Business Practitioner, Administrator, Developer
 level: Advanced
+exl-id: 99b8acff-0105-4764-82ec-7c2dfe75f0f9
 ---
-
 # Configuring and managing subscription services
 
 Learn how to setup and manage subscriptions and target subscribers.
@@ -21,4 +21,3 @@ Learn how to setup and manage subscriptions and target subscribers.
 ## Additional resources
 
 * [About services and subscriptions (product documentation)](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/subscriptions-and-referrals/about-services-and-subscriptions.html)
-  

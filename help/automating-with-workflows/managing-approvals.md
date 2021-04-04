@@ -10,8 +10,8 @@ activity: use
 team: WWFRE
 role: Business Practitioner
 level: Beginner
+exl-id: 21d542e9-c021-4e05-b570-a55cac196c3a
 ---
-
 # Managing approvals in a campaign
 
 Approvals enable operators to make decisions governing a workflow or to confirm its continued execution.

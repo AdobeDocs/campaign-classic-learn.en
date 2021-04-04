@@ -13,8 +13,8 @@ team: PM
 role: Administrator
 level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/ip-whitelisting.html,https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/ip-allow-listing.html
+exl-id: 9c68543d-af10-4836-951f-7eef5a3515a8
 ---
-
 # Adding IP addresses to allow lists
 
 The Control Panel allows you to set up new connections to your instances by allow listing IP address ranges. By default, an Adobe Campaign Classic instance is not accessible from various IP addresses. Therefore, an IP address needs to be allow listed:

@@ -11,8 +11,8 @@ team: WWFRE
 role: Business Practitioner
 skill level: beginner
 level: Beginner
+exl-id: 7c550413-4375-47ad-8687-e92195c69c7b
 ---
-
 # Accessing built-in reports
 
 Understand  built-in reporting and analysis in Campaign Classic and learn how to generate a delivery report.

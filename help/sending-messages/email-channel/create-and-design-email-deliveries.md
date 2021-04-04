@@ -10,8 +10,8 @@ activity: use
 team: WWFRE
 role: Business Practitioner
 level: Beginner
+exl-id: 018e36bc-1afc-42c0-a459-4d51775ff6f8
 ---
-
 # Create and design email deliveries 
 
 Understand the process of creating an email delivery and learn how to design and personalize email content.

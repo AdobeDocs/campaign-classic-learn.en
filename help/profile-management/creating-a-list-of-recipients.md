@@ -10,8 +10,8 @@ activity: setup
 team: DOC
 role: Business Practitioner
 level: Beginner
+exl-id: 91e3c9ea-9e5f-43bc-8ed4-ab57e6226d2b
 ---
-
 # Creating a list of recipients
 
 A list is a static set of recipients that can be targeted in delivery actions or updated during import operations or during workflow execution. A list of recipients is also referred to as audience.

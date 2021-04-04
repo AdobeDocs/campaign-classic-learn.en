@@ -10,8 +10,8 @@ activity: use
 team: TM
 role: Business Practitioner
 level: Beginner
+exl-id: 7f9d927f-41e8-4f8c-bcd6-5042ae64a433
 ---
-
 # Personalizing emails using personalization fields
 
 Personalization fields are used for first-level personalization of the content of delivered messages. The fields you insert in a main content show the position where to insert the data from a selected data source.

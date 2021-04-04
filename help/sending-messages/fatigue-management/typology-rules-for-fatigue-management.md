@@ -9,8 +9,8 @@ activity: use
 team: TM
 role: Business Practitioner
 level: Beginner
+exl-id: 1bb86ce5-39b1-4081-aa63-72b218a02f28
 ---
-
 # How to set up fatigue management using typology rules
 
 Fatigue management controls frequency and quantity of messaging to avoid over-solicitation of recipients and is often applied using a typology rule.
@@ -29,4 +29,3 @@ This video explains how to implement fatigue management in Adobe Campaign Classi
 
 * [About campaign typologies](https://docs.adobe.com/content/help/en/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html)
 * [Managing marketing fatigue with pressure rules](https://docs.adobe.com/content/help/en/campaign-classic/using/orchestrating-campaigns/campaign-optimization/pressure-rules.html)
-  

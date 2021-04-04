@@ -10,8 +10,8 @@ activity: setup
 team: TM
 role: Administrator, Developer, Business Practitioner
 level: Beginner, Intermediate, Experienced
+exl-id: 42adcaca-248f-4637-88c4-f9d24cd26dd6
 ---
-
 # Configuring and sending push notifications 
 
 Learn how to configure and send a [!DNL push] notification to users of an [!DNL Android] applications.

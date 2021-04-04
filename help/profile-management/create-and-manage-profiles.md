@@ -12,8 +12,8 @@ team: WWFRE
 role: Business Practitioner
 skill level: beginner
 level: Beginner
+exl-id: f5694e76-4694-45f3-b4c1-3478f7543b3f
 ---
-
 # Create and manage profiles
 
 Understand the concept of profiles in Adobe Campaign Classic. Learn how to access profile data, sort and filter profiles and manually create and manage profiles.

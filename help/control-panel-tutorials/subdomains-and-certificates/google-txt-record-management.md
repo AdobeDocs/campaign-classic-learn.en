@@ -11,8 +11,8 @@ team: PM
 role: Administrator
 level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/google-txt-record-management.html
+exl-id: 0a39dfe3-8f89-406e-b7b2-d8a3a5eabfca
 ---
-
 # [!UICONTROL Google TXT record] management
 
 In order to ensure high inbox rates and low spam rates, some services like Google require that you add a TXT record to your domain setting to verify that you own the domain. TXT records are a type of DNS records used to provide text information about a domain, that can be read by external sources.
