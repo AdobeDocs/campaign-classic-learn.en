@@ -1,15 +1,8 @@
 ---
-product: Adobe Campaign Classic
 user-guide-title: Adobe Campaign Control Panel Tutorials
 user-guide-description: Learn how to monitor your Adobe Campaign instances' key assets and perform administrative tasks in Control Panel.
 breadcrumb-title: Control Panel Tutorials
 breadcrumb-url: /docs/campaign-classic-learn/control-panel/control-panel-overview.html
-solution-title: Experience League
-solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Classic#recommended/solutions/campaign
-tutorials-title: Tutorials
-tutorials-url: https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/overview.html
-getting-started-title: Documentation
-getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html
 index: yes
 feature: Control Panel
 role: Administrator
