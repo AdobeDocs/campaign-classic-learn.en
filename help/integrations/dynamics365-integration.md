@@ -10,7 +10,7 @@ doc-type: feature video
 activity: setup
 team: DOC
 role: Administrator, Developer
-level: Advanced
+level: Experienced
 exl-id: d6ce139f-4d03-477f-94a5-9bab2c7b966c
 ---
 # How to Integrate Dynamics 365 with Adobe Campaign Classic

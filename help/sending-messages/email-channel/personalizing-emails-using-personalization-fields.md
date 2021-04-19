@@ -1,7 +1,7 @@
 ---
 title: Personalizing emails using personalization fields
 description: Learn how to add a personalization field to the subject line and the content of an email delivery.
-feature: Dynamic Content Blocks
+feature: Dynamic Content
 topics: Email Channel
 kt: 5921
 thumbnail: 24925.jpg

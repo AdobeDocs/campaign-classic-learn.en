@@ -5,14 +5,14 @@ description: Learn how to configure different approval validation workflows.
 seo-description: This video, explains how to configure and use a delivery template in ACCAdobe Campaign offers several options for marketers to review and provide delivery content, campaign target, data extraction and budget approvals. This tutorial explains how to configure different approval validation workflows.
 uuid: fdeb7aef-95aa-4bc1-9c51-2eb7ce802107
 discoiquuid: 29abc57d-c359-472d-817a-0671818894f0
-feature: Workflows, Apporvals
+feature: Workflows, Approvals
 topics: Validation
 kt: KT-1566
 doc-type: feature video
 activity: setup
 team: TM
 role: Business Practitioner
-level: Advanced
+level: Experienced
 exl-id: 34fbb91d-ae99-497c-872e-55ce2e6ea2aa
 ---
 # How to configure validation workflows in Adobe Campaign Classic

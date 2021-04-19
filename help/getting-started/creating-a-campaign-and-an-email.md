@@ -9,7 +9,7 @@ doc-type: feature video
 activity: use
 team: DOC
 role: Business Practitioner
-level: Beginer
+level: Beginner
 exl-id: 89765be2-366d-45f8-8e1c-a192ecbb2694
 ---
 # Creating an email from a campaign

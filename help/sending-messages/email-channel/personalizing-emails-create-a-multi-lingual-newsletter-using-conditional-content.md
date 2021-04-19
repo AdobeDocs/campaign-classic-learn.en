@@ -1,7 +1,7 @@
 ---
 title: Personalizing emails - Create a multi lingual newsletter using conditional content
 description: Learn how to add conditional content to a delivery on the example of a multi-lingual newsletter.
-feature: Dynamic Content Blocks
+feature: Dynamic Content
 topics: Email Channel
 kt: 5922
 thumbnail: 24926.jpg

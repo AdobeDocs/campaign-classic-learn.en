@@ -8,7 +8,7 @@ doc-type: feature video
 activity: use
 team: PM
 role: Administrator, Developer
-level: Advanced
+level: Experienced
 exl-id: e46560c3-d911-4cd9-8be2-8057c70d7881
 ---
 # Big data management on Snowflake
