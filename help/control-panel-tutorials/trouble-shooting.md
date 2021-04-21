@@ -2,7 +2,6 @@
 title: Trouble Shooting Control Panel
 description: The Control Panel allows you to monitor and manage your SFTP storage by instance and allow list IP addresses.
 feature: Control Panel
-topics: Control Panel
 kt: 2938
 doc-type: article
 activity: use

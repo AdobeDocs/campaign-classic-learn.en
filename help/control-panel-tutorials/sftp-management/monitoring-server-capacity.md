@@ -2,7 +2,6 @@
 title: Monitoring server capacity
 description: Learn how to monitor and manage your SFTP storage by instance and add IP addresses to allow lists.
 feature: Control Panel
-topics: Control Panel
 audience: administrator
 kt: 3266
 thumbnail: 27270.jpg

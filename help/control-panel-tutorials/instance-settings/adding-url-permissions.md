@@ -2,7 +2,6 @@
 title: Adding URL permissions
 description: Learn how to establish a connection from your Adobe Campaign Classic instence to an external URL.
 feature: Control Panel
-topics: Instance Settings
 kt: 3259
 thumbnail: 28149.jpg
 doc-type: feature video

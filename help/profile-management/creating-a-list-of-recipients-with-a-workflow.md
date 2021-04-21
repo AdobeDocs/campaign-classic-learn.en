@@ -2,7 +2,6 @@
 title: Creating a list of recipients with a workflow
 description: Learn how to create an audience by configuring a list of recipients from the Explorer.
 feature: Audiences
-topics: Getting started
 kt: 2173
 thumbnail: 25603.jpg
 doc-type: feature video

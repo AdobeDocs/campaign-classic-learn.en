@@ -2,7 +2,6 @@
 title: Generating a descriptive analysis report
 description: Learn how to generate a descriptive analysis report from a workflow in Adobe Campaign Classic.
 feature: Reporting
-topics: 
 kt: 5079
 thumbnail: 35616.jpg
 doc-type: feature video

@@ -2,7 +2,6 @@
 title: Using a GPG key to encrypt data 
 description: Learn how to export data using a GPG key installed on Control Panel.
 feature: Control Panel
-topics: GPG Key Management
 kt: 5793
 thumbnail: 36399.jpg
 doc-type: feature video

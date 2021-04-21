@@ -2,7 +2,6 @@
 title: Data Segmentation in Adobe Campaign Classic
 description: Understand the integrated customer profile, how to create and update the profiles and how to create customer segments based on these profiles. 
 feature: Profiles, Data Management Activity
-topics: Data Management
 kt: 1656
 doc-type: feature video
 activity: use

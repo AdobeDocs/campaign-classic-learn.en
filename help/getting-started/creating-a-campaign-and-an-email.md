@@ -2,7 +2,6 @@
 title: Create an email from a campaign
 description: Learn how to create an email delivery directly from a campaign.
 feature: Email
-topics: 
 kt: 2172
 thumbnail: 25604.jpg
 doc-type: feature video

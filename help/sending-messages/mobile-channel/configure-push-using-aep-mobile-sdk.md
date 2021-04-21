@@ -2,7 +2,6 @@
 title: Configure the Push Channel using the Experience Platform Mobile SDK 
 description: Learn how to configure the Push channel using the Experience Cloud Mobile SDK. 
 feature: Push
-topics: Mobile Channels
 kt: 2683
 doc-type: feature video
 activity: setup

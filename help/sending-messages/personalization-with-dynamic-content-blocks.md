@@ -2,7 +2,6 @@
 title: How to personalize emails using dynamic content blocks
 description: This tutorial demonstrated how to personalize delivery content, use JavaScript code in delivery templates, standardize and share content blocks in different delivery templates.
 feature: Dynamic Content
-topics: Email Channel
 kt: 1559
 doc-type: feature video
 activity: use

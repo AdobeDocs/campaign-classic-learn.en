@@ -2,7 +2,6 @@
 title: Defining Interactive Email Content with AMP
 description: Learn how to configure the email content in AMP format.
 feature: Email, Email Design
-topics: Create and Send Email Deliveries
 kt: 3475
 thumbnail: 29940.jpg
 doc-type: feature video

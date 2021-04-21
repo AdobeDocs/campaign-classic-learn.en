@@ -2,7 +2,6 @@
 title: Explore the Adobe Campaign Classic user interface
 description: Understand the main Adobe Campaign Classic user interface and shows you how to navigate the main functionality.
 feature: Overview
-topics: Getting started
 kt: 5009
 thumbnail: 35130.jpg
 doc-type: feature video

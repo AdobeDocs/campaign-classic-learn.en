@@ -2,7 +2,6 @@
 title: Extending the app subscription schema to personalize push notifications
 description: Learn how to extend the app subscription schema to be able to store personalization values Campaign receives from a mobile app.
 feature: Push, Schema Extension
-topics: mobile channels
 kt: 6451
 thumbnail: 327306.jpg
 doc-type: feature video

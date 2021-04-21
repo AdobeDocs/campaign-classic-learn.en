@@ -4,7 +4,6 @@ seo-title: Adding IP addresses to allow lists
 description: Learn how add an IP range to Campaign Classic instances' allow lists and how to remove them from the allow list using the control panel.
 seo-description: The video below explains how to set up new connections to your instances by allow listing IP addresses ranges.
 feature: Control Panel
-topics: 
 kt: 3479
 thumbnail: 28726.jpg
 doc-type: feature video

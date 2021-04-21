@@ -2,7 +2,6 @@
 title: Workflow Heatmap
 description: Learn how to monitor the load on your instance and plan workflows accordingly.
 feature: Heatmap
-topics: Monitoring and Guardrails
 kt: 2093
 doc-type: feature video
 activity: understand

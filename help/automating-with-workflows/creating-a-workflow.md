@@ -2,7 +2,6 @@
 title: Creating a workflow
 description: This video explains how to create a workflow.
 feature: Workflows
-topics: 
 kt: 2175
 doc-type: feature video
 activity: use

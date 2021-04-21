@@ -6,7 +6,6 @@ seo-description: An enrichment activity is a workflow object that allows the use
 uuid: 544128b9-9912-4ba7-8910-ad11a26a73ff
 discoiquuid: ff2a1e2f-9df1-4ad0-bdff-5a257df5ff66
 feature: Workflows, Enrichment Activity
-topics: Targeting Activities
 kt: KT-1561
 doc-type: feature video
 activity: use

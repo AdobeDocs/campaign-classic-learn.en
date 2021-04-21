@@ -1,8 +1,7 @@
 ---
 title: Managing approvals in a campaign
 description: Learn how to set up approvals and a campaign and how to differentiate between delivery and workflow approvals.
-feature: Workflows, Approvals
-topics: 
+feature: Workflows, Approvals 
 kt: 5093
 thumbnail: 329605.jpg
 doc-type: feature video

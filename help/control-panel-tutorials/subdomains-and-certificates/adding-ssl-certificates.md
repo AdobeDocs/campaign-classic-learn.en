@@ -2,7 +2,6 @@
 title: Adding SSL certificates
 description: Learn how to add SSL certificates to secure your subdomains.
 feature: Control Panel
-topics: Control Panel
 kt: 4219
 thumbnail: 31317.jpg
 doc-type: feature video

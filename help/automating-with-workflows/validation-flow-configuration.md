@@ -6,7 +6,6 @@ seo-description: This video, explains how to configure and use a delivery templa
 uuid: fdeb7aef-95aa-4bc1-9c51-2eb7ce802107
 discoiquuid: 29abc57d-c359-472d-817a-0671818894f0
 feature: Workflows, Approvals
-topics: Validation
 kt: KT-1566
 doc-type: feature video
 activity: setup

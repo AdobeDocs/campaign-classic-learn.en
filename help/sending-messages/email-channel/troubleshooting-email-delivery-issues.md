@@ -2,7 +2,6 @@
 title: Troubleshooting email delivery issues
 description: Learn how to troubleshoot email delivery issues in Campaign.
 feature: Email, Deliverability
-topics: deliverability
 kt: 5091
 thumbnail: 329920.jpg
 doc-type: feature video

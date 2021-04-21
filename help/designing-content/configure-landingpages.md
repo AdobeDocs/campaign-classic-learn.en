@@ -2,7 +2,6 @@
 title: How to configure landing pages in Adobe Campaign Classic
 description: Learn how to navigate the web application editor by creating a preference center.
 feature: Landing Pages
-topics: Configure
 kt: 1562
 thumbnail: 25041.jpg
 doc-type: feature video
