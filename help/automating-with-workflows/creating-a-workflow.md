@@ -25,3 +25,7 @@ Adobe Campaign uses workflows to:
 This video explains how to create a workflow in Adobe Campaign Classic.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25559?quality=12)
+
+## Additional resources
+
+* [Get started with workflows (documentation)](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html)

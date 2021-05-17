@@ -1,6 +1,6 @@
 ---
 title: Adding URL permissions
-description: Learn how to establish a connection from your Adobe Campaign Classic instence to an external URL.
+description: Learn how to establish a connection from your Adobe Campaign Classic instance to an external URL.
 feature: Control Panel
 kt: 3259
 thumbnail: 28149.jpg
@@ -18,4 +18,4 @@ Learn how to establish a connection from your [!UICONTROL Adobe Campaign Classic
 
 >[!VIDEO](https://video.tv.adobe.com/v/28149?quality=12)
 
-For more information please see [URL permissions](https://docs.adobe.com/content/help/en/control-panel/using/instances-settings/url-permissions.html).
+For more information please see (https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/url-permissions.html).

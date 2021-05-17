@@ -35,4 +35,4 @@ Learn how add an IP range to Campaign Classic instances' allow lists and how to 
 
 >[!VIDEO](https://video.tv.adobe.com/v/28726?quality=12)
 
-For more information on IP allow listing please see the [detailed product documentation](https://helpx.adobe.com/campaign/kb/control-panel-instance-settings.html).
+For more information on IP allow listing please see the [detailed product documentation](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/ip-range-allow-listing.html).

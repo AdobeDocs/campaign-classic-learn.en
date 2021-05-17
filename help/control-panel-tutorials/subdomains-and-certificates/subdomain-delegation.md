@@ -39,4 +39,4 @@ The video below demonstrates how to delegate subdomains.
 ## Additional resources
 
 * [Adding SSL certificated](/help/control-panel-tutorials/subdomains-and-certificates/adding-ssl-certificates.md)
-* [Subdomains and certificates](https://docs.adobe.com/content/help/en/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)
+* [Renewing a subdomain’s SSL certificate (documentation)](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)

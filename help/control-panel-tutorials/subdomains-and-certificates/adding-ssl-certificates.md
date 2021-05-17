@@ -56,4 +56,4 @@ The video below explains how to install SSL certificates in [!UICONTROL Control 
 ## Additional resources
 
 * [Full subdomain delegation (video)](./subdomain-delegation.md)
-* [Subdomains and certificates (documentation)](https://docs.adobe.com/content/help/en/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)
+* [Renewing a subdomain’s SSL certificate (documentation)](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)

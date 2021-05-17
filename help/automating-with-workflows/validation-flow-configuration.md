@@ -45,4 +45,4 @@ Unlike the delivery or campaign approvals, the approval activity allows one to c
 
 >[!VIDEO](https://video.tv.adobe.com/v/25174?quality=12)
 
-For more information, refer to the [Approval Documentation](https://docs.adobe.com/help/en/campaign-classic/using/automating-with-workflows/flow-control-activities/approval.html)
+For more information, refer to the [Approval Documentation](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/flow-control-activities/approval.html)

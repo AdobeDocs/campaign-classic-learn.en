@@ -22,4 +22,4 @@ The video below describes how you can add [!UICONTROL Google TXT] site verificat
 
 ## Additional resources
 
-* [Documentation](https://docs.adobe.com/content/help/en/control-panel/using/subdomains-and-certificates/managing-txt-records.html)
+* [Managing TXT records (documentation)](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/managing-txt-records.html)

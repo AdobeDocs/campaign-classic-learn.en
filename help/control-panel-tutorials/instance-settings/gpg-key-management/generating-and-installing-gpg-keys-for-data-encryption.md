@@ -21,4 +21,4 @@ Control Panel allows you to encrypt data coming out from your Adobe Campaign ins
 ## Additional resources
 
 * [GPG Key management (videos)](./gpg-key-management-overview.md)
-* [GPG key management (documentation)](https://docs.adobe.com/content/help/en/control-panel/using/instances-settings/gpg-keys-management.html)
+* [GPG key management (documentation)](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html)

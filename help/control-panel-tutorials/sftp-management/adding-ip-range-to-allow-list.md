@@ -22,4 +22,4 @@ Learn how you can add an IP address range to the allow list.
 
 ## Additional resources
 
-[Documentation](https://docs.adobe.com/content/help/en/control-panel/using/sftp-management/ip-range-allow-listing.html)
+* [IP range allow listing (documentation)](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/ip-range-allow-listing.html)

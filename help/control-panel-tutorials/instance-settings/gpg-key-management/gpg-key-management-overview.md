@@ -20,4 +20,4 @@ The following videos explain how to generate and install a public/private key pa
 
 ## Additional resources
 
-* [GPG key management (documentation)](https://docs.adobe.com/content/help/en/control-panel/using/instances-settings/gpg-keys-management.html)
+* [GPG key management (documentation)](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html)

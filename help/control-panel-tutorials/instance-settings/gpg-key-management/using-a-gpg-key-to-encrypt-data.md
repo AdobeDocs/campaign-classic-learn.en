@@ -21,4 +21,4 @@ Learn how to export data using a GPG key installed on Control Panel.
 ## Additional resources
 
 * [GPG Key management (videos)](./gpg-key-management-overview.md)
-* [GPG key management (documentation)](https://docs.adobe.com/content/help/en/control-panel/using/instances-settings/gpg-keys-management.html)
+* [GPG key management (documentation)](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html)
