@@ -1,6 +1,6 @@
 ---
 title: Creating direct mail deliveries
-description: Learn how to create, format and execute a direct mail delivery.
+description: Learn how to create, format, and execute a direct mail delivery.
 feature: Direct Mail
 kt: 3859
 thumbnail: 21377.jpg
@@ -13,6 +13,6 @@ exl-id: 82119bde-daf1-4233-96dc-d6ce235e0934
 ---
 # Creating direct mail deliveries
 
-Understand how [!UICONTROL direct mail] works in [!UICONTROL Adobe Campaign] and learn how to create, format and execute a [!UICONTROL direct mail ]delivery.
+Understand how [!UICONTROL direct mail] works in [!UICONTROL Adobe Campaign] and learn how to create, format, and execute a [!UICONTROL direct mail ]delivery.
 
 >[!VIDEO](https://video.tv.adobe.com/v/21377?quality=12)
