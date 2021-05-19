@@ -2,7 +2,7 @@
 title: How to create and design email deliveries
 description: Understand the process of creating an email delivery and learn how to design and personalize email content.
 feature: Email, Email Design, Personalization
-kt: 6824
+kt: 5096
 thumbnail: 330941.jpg
 doc-type: feature video
 activity: use
