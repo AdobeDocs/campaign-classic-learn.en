@@ -19,4 +19,4 @@ Understand the process of creating an email delivery and learn how to design and
 
 ## Additional resources
 
-* [Use case: creating an email delivery](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/use-case)
+* [Defining the email content (documentation)](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-emails/defining-the-email-content.html)
