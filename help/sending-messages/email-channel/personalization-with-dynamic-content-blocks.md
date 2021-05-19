@@ -1,6 +1,6 @@
 ---
 title: Personalizing emails using dynamic content blocks
-description: Learn how created dynamic content blocks and how use them to personalize the content of your email delivery.
+description: Learn how created dynamic content blocks and how to use them to personalize the content of your email delivery.
 feature: Dynamic Content
 kt: 1559
 thumbnail: 24924 
@@ -11,13 +11,11 @@ role: Administrator, Developer
 level: Beginner
 exl-id: 0f49c286-ebb7-419d-98ab-89a8c0772636
 ---
-# Personalizing emails using dynamic content blocks
+# Personalizing emails using personalization fields
 
-In Adobe Campaign, you can personalize content or the appearance of messages and combine them with criteria from recipient profiles.
+Personalization fields are used for first-level personalization of the content of delivered messages. The fields you insert in a main content show the position where to insert the data from a selected data source.
 
-A personalization block is dynamic, personalized and contains specific rendering code that can be added to deliveries. For example, you can add images, email headers, email footers, mirror page links, unsubscription links, and much more.
-
-Learn how created dynamic content blocks and how use them to personalize the content of your email delivery.
+Learn how to add a personalization field to the subject line and the content of an email delivery.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24924?quality=12)
 
@@ -25,8 +23,8 @@ Learn how created dynamic content blocks and how use them to personalize the con
 
 Documentation:
 
-* [About Personalization](https://docs.adobe.com/content/help/en/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html)
-* ([Personalization blocks](https://docs.adobe.com/content/help/en/campaign-classic/using/sending-messages/personalizing-deliveries/personalization-blocks.html)
+* [About Personalization](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html)
+* ([Personalization blocks](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/personalization-blocks.html)
 
 Video Tutorials:
 
