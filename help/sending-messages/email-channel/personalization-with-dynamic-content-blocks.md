@@ -33,4 +33,4 @@ Documentation:
 Video Tutorials:
 
 * [Personalizing emails using personalization field](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
-* [Personalizing emails - Create a multi lingual newsletter using conditional content](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
+* [Personalizing emails - Create a multilingual newsletter using conditional content](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
