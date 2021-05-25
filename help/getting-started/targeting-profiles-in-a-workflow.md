@@ -11,7 +11,7 @@ role: Business Practitioner
 level: Beginner
 exl-id: c078146c-f59c-4de6-90de-4f5c6e31c096
 ---
-# Targete profiles in a workflow
+# Target profiles in a workflow
 
 Understand the use of campaign workflows and learn how to create a workflow and target profiles in a workflow using filtering conditions.
 
