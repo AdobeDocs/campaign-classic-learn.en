@@ -27,9 +27,9 @@ Understand the use of campaign workflows and learn how to create a workflow and 
 
 Documentation:
 
-* [about Workflows](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html)
-* [Creating a workflow](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/getting-started/creating-a-workflow.html)
-* [About targeting activities](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html)
+* [About Workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=en)
+* [Creating a workflow](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/getting-started/creating-a-workflow.html)
+* [About targeting activities](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html)
 
 Tutorials:
 
