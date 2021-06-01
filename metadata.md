@@ -2,7 +2,7 @@
 cloud: Experience Cloud
 product: adobe campaign
 type: Tutorial
-solution: Campaign, Campaign Classic
+solution: Campaign, Campaign Classic, Campaign Classic v7
 version: Classic v7
 feature-set: Campaign
 mini-toc-levels: 3
