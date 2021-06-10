@@ -22,11 +22,11 @@ The recurring and continuous deliveries differ in the way contact data is manage
   
   A continuous delivery will create a SINGLE delivery and delivery logs (broadLog) and tracking logs that reference that one delivery are added each time it executes.
 
-![Continuous Delivery](/help/assets/delivery_continuous.jpg)
+  ![Continuous Delivery](/help/assets/delivery_continuous.jpg)
 
 * A **recurring delivery** will create a new delivery instance each time it executes. For example, if the workflow is scheduled to run once a week, that would result in 52 Deliveries after one year. This also means that the broad log and tracking logs will be separated by each delivery instance.
 
-![Recurring Delivery](/help/assets/delivery_recurring.jpg)
+  ![Recurring Delivery](/help/assets/delivery_recurring.jpg)
 
 ## How to set up a recurring delivery {#how-to-set-up-a-recurring-delivery}
 
@@ -42,4 +42,4 @@ This video shows how to configure a continuous delivery with an incremental quer
 
 ## Additional resources
 
-[Creating a recurring delivery in a targeting workflow](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/use-cases/sending-a-birthday-email.html#creating-a-recurring-delivery-in-a-targeting-workflow)
+[Creating a recurring delivery in a targeting workflow](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/use-cases/deliveries/sending-a-birthday-email.html?lang=en#creating-a-recurring-delivery-in-a-targeting-workflow)
