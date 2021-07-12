@@ -6,7 +6,7 @@ kt: 2148
 doc-type: feature video
 activity: use
 team: TM
-role: Business Practitioner, Developer, Administrator
+role: User, Developer, Admin
 level: Experienced
 exl-id: c6fcdaa9-75ae-4975-9463-ca32a2ae849a
 ---

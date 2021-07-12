@@ -7,7 +7,7 @@ kt: 3262
 doc-type: feature video
 activity: use
 team: PM
-role: Administrator
+role: Admin
 level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/control-panel-overview.html
 exl-id: ae4c0448-ca8a-4599-8aaa-96c8184feff7

@@ -7,7 +7,7 @@ thumbnail: kt-6385.jpg
 doc-type: feature video
 activity: setup
 team: TM
-role: Administrator
+role: Admin
 level: Experienced
 exl-id: 797a24fc-cd4d-447e-a8c7-275e57b75716
 ---

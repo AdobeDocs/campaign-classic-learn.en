@@ -6,7 +6,7 @@ kt: 2093
 doc-type: feature video
 activity: understand
 team: PM
-role: Administrator
+role: Admin
 level: Beginner
 exl-id: b6d0d4b2-3b76-4e14-ba80-c0f370274b04
 ---

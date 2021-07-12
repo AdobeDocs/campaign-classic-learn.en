@@ -7,7 +7,7 @@ thumbnail: 24924
 doc-type: feature video
 activity: use
 team: TM
-role: Administrator, Developer
+role: Admin, Developer
 level: Beginner
 exl-id: 0f49c286-ebb7-419d-98ab-89a8c0772636
 ---

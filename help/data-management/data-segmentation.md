@@ -6,7 +6,7 @@ kt: 1656
 doc-type: feature video
 activity: use
 team: evangelist
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: d31023ca-aa81-4a65-a4c7-ddbf0d0a4a99
 ---

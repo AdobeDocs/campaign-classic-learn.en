@@ -7,7 +7,7 @@ thumbnail: 21377.jpg
 doc-type: feature video
 activity: set-up
 team: WWFRE
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: 82119bde-daf1-4233-96dc-d6ce235e0934
 ---

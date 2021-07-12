@@ -6,7 +6,7 @@ kt: 1566
 doc-type: feature video
 activity: setup
 team: TM
-role: Business Practitioner
+role: User
 level: Experienced
 exl-id: 34fbb91d-ae99-497c-872e-55ce2e6ea2aa
 ---

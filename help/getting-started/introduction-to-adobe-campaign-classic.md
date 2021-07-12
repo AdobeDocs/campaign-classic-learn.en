@@ -7,7 +7,7 @@ thumbnail: 35129.jpg
 doc-type: feature video
 activity: understand
 team: WWFRE
-role: Business Practitioner, Administrator, Developer
+role: User, Admin, Developer
 skill level: beginner
 level: Beginner
 exl-id: 40411fe3-44d8-4c2e-99df-940d17ab9f3e

@@ -7,7 +7,7 @@ thumbnail: 326612.jpg
 doc-type: feature video
 activity: use
 team: PM
-role: Administrator
+role: Admin
 level: Experienced
 exl-id: 5845478e-8e2e-42dd-b8b1-a85687355f3f
 ---

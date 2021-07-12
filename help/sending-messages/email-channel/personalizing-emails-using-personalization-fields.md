@@ -7,7 +7,7 @@ thumbnail: 24925.jpg
 doc-type: feature video
 activity: use
 team: TM
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: 7f9d927f-41e8-4f8c-bcd6-5042ae64a433
 ---

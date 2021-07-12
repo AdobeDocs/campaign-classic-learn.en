@@ -7,7 +7,7 @@ thumbnail: 327306.jpg
 doc-type: feature video
 activity: setup
 team: TM
-role: Administrator, Developer
+role: Admin, Developer
 level: Experienced
 exl-id: 6cc1d83c-58a1-4c83-bb4c-8a6be4a12841
 ---

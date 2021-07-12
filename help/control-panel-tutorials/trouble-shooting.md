@@ -6,7 +6,7 @@ kt: 2938
 doc-type: article
 activity: use
 team: PM
-role: Administrator
+role: Admin
 level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/trouble-shooting.html
 exl-id: 016e8b77-20df-4ca5-b5e7-fe2f3e7ba7a3

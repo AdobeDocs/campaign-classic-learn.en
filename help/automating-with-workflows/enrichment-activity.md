@@ -10,7 +10,7 @@ kt: KT-1561
 doc-type: feature video
 activity: use
 team: TM
-role: Business Practitioner, Developer
+role: User, Developer
 level: Experienced
 exl-id: a8e60b8f-48a6-4ef7-9d4e-994241ff2d97
 ---

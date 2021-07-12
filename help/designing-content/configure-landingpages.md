@@ -7,7 +7,7 @@ thumbnail: 25041.jpg
 doc-type: feature video
 activity: setup
 team: DOC
-role: Developer, Administrator
+role: Developer, Admin
 level: Beginner
 exl-id: d14d0b67-dcc7-4cc8-b507-9ce389234c09
 ---
