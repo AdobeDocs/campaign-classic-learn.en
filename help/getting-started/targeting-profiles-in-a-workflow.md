@@ -28,10 +28,10 @@ Understand the use of campaign workflows and learn how to create a workflow and 
 Documentation:
 
 * [About Workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=en)
-* [Creating a workflow](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/getting-started/creating-a-workflow.html)
 * [About targeting activities](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html)
 
 Tutorials:
 
 * [Create and manage profiles](/help/profile-management/create-and-manage-profiles.md)
 * [Importing profiles](/help/data-management/importing-profiles.md)
+* [Creating a workflow](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/automating-with-workflows/creating-a-workflow.html)
