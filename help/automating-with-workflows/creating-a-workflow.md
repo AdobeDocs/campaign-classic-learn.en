@@ -28,4 +28,4 @@ This video explains how to create a workflow in Adobe Campaign Classic.
 
 ## Additional resources
 
-* [Get started with workflows (documentation)](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html)
+* [About workflows (documentation)](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html)
