@@ -23,7 +23,4 @@ Step 2: [Configuring an Android service and creating an Android mobile applicati
 
 ## Additional resources
 
-* [Get Started with mobile app channel (product documentation)](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/about-mobile-app-channel.html#about-mobile-app-channel)
-* [Create push notifications (product documentation)](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/creating-notifications.html#sending-messages)
-* [Create an Android delivery in Campaign (product documentation)](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/configure-the-mobile-app/configuring-the-mobile-application-android.html#creating-android-delivery) 
-* [Manage Android quarantines (product documentation)](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/understanding-quarantine-management.html#android-quarantine)
+* [Create a push notification for Android (documentation)](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/create-a-push-msg/create-notifications-android.html)
