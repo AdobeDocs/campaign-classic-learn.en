@@ -19,4 +19,4 @@ Learn how to create an email delivery directly from a campaign.
 
 ## Additional resources
 
-* [Use case: creating an email delivery](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/use-case)
+* [Use case: Creating an email delivery (documentation)](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/use-case--creating-an-email-delivery.html)
