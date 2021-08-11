@@ -8,7 +8,7 @@ kt: 1869
 doc-type: feature video
 activity: setup
 team: DOC
-role: Administrator, Developer
+role: Admin, Developer
 level: Experienced
 hide: yes
 hidefromtoc: yes

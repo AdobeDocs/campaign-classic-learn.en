@@ -8,7 +8,7 @@ doc-type: feature video
 audience: administrator
 activity: use
 team: PM
-role: Administrator
+role: Admin
 level: Experienced
 exl-id: 16e4f5ed-fd1f-400d-8010-2c1612399596
 ---

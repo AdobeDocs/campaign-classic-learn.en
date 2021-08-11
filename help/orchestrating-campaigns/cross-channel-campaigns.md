@@ -1,6 +1,6 @@
 ---
-title: Create multi-channel campaigns
-description: Learn how to create a channel-channel campaign.
+title: Create cross-channel campaigns
+description: Learn how to create a cross-channel campaign using email and direct mail deliveries based on the customer's interaction with the first delivery.
 feature: Workflows
 kt: 7018
 thumbnail: 330990.jpg
@@ -9,13 +9,11 @@ activity: use
 team: TM
 exl-id: adf5eec1-9705-48f0-84a9-57a44bf79d0d
 ---
-# Create multi-channel campaigns
+# Create cross-channel campaigns
 
-In a cross-channel campaign, a single marketing communication utilizes multiple channels to reach a wider target audience based on the preferred recipient channel.
+In a cross-channel campaign, a single marketing communication uses different channels. Data is passed between the channels. The customer receives communication through multiple channels based on, for example, their interaction with the previous communication. 
 
-Multi-channel deliveries are designed and executed in a single workflow.
-
-Learn how to create a multi-channel campaign utilizing email, SMS, and a direct mail deliveries.
+Learn how to create a cross-channel campaign using email and direct mail deliveries based on the customer's interaction with the first delivery.
 
 >[!VIDEO](https://video.tv.adobe.com/v/330990?quality=12)
 

@@ -6,7 +6,7 @@ kt: 6438
 doc-type: article
 activity: setup
 team: TM
-role: Administrator, Developer
+role: Admin, Developer
 level: Experienced
 exl-id: 291c2e3a-c126-439d-9753-06a4091bbda0
 ---

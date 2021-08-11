@@ -7,7 +7,7 @@ thumbnail: 35130.jpg
 doc-type: feature video
 activity: understand
 team: WWFRE
-role: Business Practitioner
+role: User
 skill level: beginner
 level: Beginner
 exl-id: 521b970a-55eb-498f-9350-3fd7546bf1df
@@ -20,4 +20,4 @@ This lesson explains the main Adobe Campaign Classic user interface and shows yo
 
 ## Additional resources
 
-* [Adobe Campaign workspace](https://docs.adobe.com/content/help/en/campaign-classic/using/getting-started/starting-with-adobe-campaign/adobe-campaign-workspace.html)
+* [Get started with the Campaign UI (documentation)](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/campaign-workspace/adobe-campaign-workspace.html)

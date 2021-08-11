@@ -5,7 +5,7 @@ breadcrumb-title: Control Panel Tutorials
 breadcrumb-url: /docs/campaign-classic-learn/control-panel/control-panel-overview.html
 index: yes
 feature: Control Panel
-role: Administrator
+role: Admin
 level: Experienced
 ---
 

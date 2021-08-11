@@ -2,12 +2,12 @@
 title: How to create and design email deliveries
 description: Understand the process of creating an email delivery and learn how to design and personalize email content.
 feature: Email, Email Design, Personalization
-kt: 6824
+kt: 5096
 thumbnail: 330941.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: 018e36bc-1afc-42c0-a459-4d51775ff6f8
 ---
@@ -19,4 +19,4 @@ Understand the process of creating an email delivery and learn how to design and
 
 ## Additional resources
 
-* [Use case: creating an email delivery](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/use-case)
+* [Defining the email content (documentation)](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-emails/defining-the-email-content.html)

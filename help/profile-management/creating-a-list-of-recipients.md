@@ -7,7 +7,7 @@ thumbnail: 25602.jpg
 doc-type: feature video
 activity: setup
 team: DOC
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: 91e3c9ea-9e5f-43bc-8ed4-ab57e6226d2b
 ---

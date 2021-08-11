@@ -7,7 +7,7 @@ thumbnail: 329941.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: Business Practitioner, Administrator, Developer
+role: User, Admin, Developer
 level: Experienced
 exl-id: 99b8acff-0105-4764-82ec-7c2dfe75f0f9
 ---

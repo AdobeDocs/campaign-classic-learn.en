@@ -7,7 +7,7 @@ thumbnail: 329936.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: a649e71c-1866-4596-88cf-0ede861c8845
 ---
@@ -26,4 +26,4 @@ Product documentation:
 Video tutorials:
 
 * [Personalizing emails using dynamic content blocks](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
-* [Personalizing emails using personalization field](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
+* [Personalizing emails using personalization fields](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)

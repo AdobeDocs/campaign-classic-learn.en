@@ -7,7 +7,7 @@ thumbnail: 25604.jpg
 doc-type: feature video
 activity: use
 team: DOC
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: 89765be2-366d-45f8-8e1c-a192ecbb2694
 ---
@@ -19,4 +19,4 @@ Learn how to create an email delivery directly from a campaign.
 
 ## Additional resources
 
-* [Use case: creating an email delivery](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/use-case)
+* [Use case: Creating an email delivery (documentation)](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/use-case--creating-an-email-delivery.html)

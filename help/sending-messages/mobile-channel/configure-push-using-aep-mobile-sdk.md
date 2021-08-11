@@ -6,7 +6,7 @@ kt: 2683
 doc-type: feature video
 activity: setup
 team: PM
-role: Administrator
+role: Admin
 level: Beginner
 exl-id: 7d1673ed-19a0-4c68-8bba-281609a16aaf
 ---
