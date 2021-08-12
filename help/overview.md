@@ -1,6 +1,6 @@
 ---
 title: Adobe Campaign Classic Tutorials - Overview
-description: Adobe Campaign provides a platform for designing cross-channel customer experiences and provides an environment for visual campaign orchestration, real time interaction management and cross channel execution. This user guide contains videos and tutorials on the many features and capabilities of Adobe Campaign Standard.
+description: Adobe Campaign provides a platform for designing cross-channel customer experiences and provides an environment for visual campaign orchestration, real time interaction management, and cross channel execution. This user guide contains videos and tutorials on the many features and capabilities of Adobe Campaign Standard.
 sub-product: Campaign Classic
 feature: Overview
 role: User, Admin, Developer
@@ -9,11 +9,11 @@ exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 ---
 # Adobe Campaign Classic V7 Tutorials - Overview
 
-Adobe Campaign provides a platform for designing cross-channel customer experiences and provides an environment for visual campaign orchestration, real time interaction management and cross channel execution. This user guide contains videos and tutorials on the many features and capabilities of Adobe Campaign Classic V7.
+Adobe Campaign provides a platform for designing cross-channel customer experiences and provides an environment for visual campaign orchestration, real time interaction management, and cross channel execution. This user guide contains videos and tutorials on the many features and capabilities of Adobe Campaign Classic V7.
 
 >[!INFO]
 > 
-> Do you have questions?  Would you like to share your experience or exchange thoughts with your peers? Or, do you have feedback on the learning content for the Adobe team? 
+> Do you have questions? Would you like to share your experience or exchange thoughts with your peers? Or, do you have feedback on the learning content for the Adobe team? 
 Join the conversation in the [Adobe Campaign learning community thread](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/join-the-discussion-around-adobe-campaign-learning/td-p/419096)!
 
 ## What's New
@@ -87,4 +87,4 @@ Join the conversation in the [Adobe Campaign learning community thread](https://
 
 ## Additional resources
 
-* [Documentation](https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html)
+* [Documentation](https://final-docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html)
