@@ -11,4 +11,4 @@ level: Experienced
 
 # Troubleshoot Adobe Campaign {#troubleshooting}
 
-+ [Troubleshoot Adobe Campaign - Overview](help/troubleshoot-adobe-campaign/overview.md)
++ [Troubleshoot Adobe Campaign - Overview](/help/troubleshoot-adobe-campaign/overview.md)
