@@ -15,26 +15,26 @@ exl-id: 016e8b77-20df-4ca5-b5e7-fe2f3e7ba7a3
 
 ## Login and Homepage
 
-### Symptom: Unable to login to Experience Cloud
+### Symptom: Unable to log in to Experience Cloud
 
 **What to do:**
-The user needs to locate their IMS Org ID (xxx). The Administrator needs to add the user to the Product Profile “Campaign-xxx-Admins”  for each instance that they would like to manage. If the user is an admin of all instances they still might need to add themselves as users.
+The user must locate their IMS Org ID (xxx). The Administrator must add the user to the Product Profile “Campaign-xxx-Admins”  for each instance that they would like to manage. If the user is an admin of all instances, they must add themselves as users.
 
 ### Symptom: Links in the Experience Cloud Home to access [!UICONTROL Control Panel] do not appear for a user 
 
 **Cause:**
-Users won’t see the links until they are added as users to Product Profile _Campaign-xxx-Administrators/Admin_.
+Users do not see the links until they are added as users to Product Profile _Campaign-xxx-Administrators/Admin_.
 
 **What to do:**
-The Administrator needs to add the user to the Product Profile _Campaign-xxx-Admins_  for each instance that they would like to manage. If the user is an admin of all instances they still might need to add themselves as “users. 
+The Administrator must add the user to the Product Profile _Campaign-xxx-Admins_  for each instance that they would like to manage. If the user is an admin of all instances, they must add themselves as users. 
 
 ### Symptom: An Instance is not listed in the [!UICONTROL Control Panel]
 
 **Cause:**
-Most likely user needs to be added as a “user” Product Profile _Campaign-xxx-Administrators/Admin_ for the instance that is missing
+Most likely user must be added as a *user* Product Profile _Campaign-xxx-Administrators/Admin_ for the instance that is missing
 
 **What to do:**
-The Administrator needs to add the user to the Product Profile _Campaign-xxx-Admins_  for each instance that they would like to manage. If the user is an admin of all instances they still might need to add themselves as “users”.
+The Administrator must add the user to the Product Profile _Campaign-xxx-Admins_  for each instance that they would like to manage. If the user is an admin of all instances, they must add themselves as “users”.
 
 ### Helpful videos
 
@@ -48,17 +48,17 @@ The Administrator needs to add the user to the Product Profile _Campaign-xxx-Adm
 
 ### Helpful Documentation
 
-* [Discover the Control Panel](https://helpx.adobe.com/campaign/kb/control-panel-overview.html)
-* [Managing permissions to the [!UICONTROL Control Panel]](https://helpx.adobe.com/campaign/kb/control-panel-access.html)
+* [Discover the Control Panel](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=en)
+* [Managing permissions to the [!UICONTROL Control Panel]](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=en)
 
 ## Establishing Connection to SFTP Server (Client or API)
 
 Connecting to SFTP servers requires:
 
 * [!UICONTROL Allow listing] the IP address from which you are connecting to the SFTP server  
-* Private/public key pair that needs to be registered with Adobe Campaign
-* If connecting to the SFTP server directly you will also need SFTP client software
+* Private/public key pair that must be registered with Adobe Campaign
+* To connect to the SFTP server directly, you also need SFTP client software
 
 ### Helpful documentation {#helpful-docs}
 
-* [Logging into your SFTP server](https://helpx.adobe.com/campaign/kb/control-panel-sftp.html#LoggingintoyourSFTPserver)
+* [Logging into your SFTP server](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=en)
