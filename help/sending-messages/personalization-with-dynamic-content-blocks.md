@@ -1,6 +1,6 @@
 ---
 title: How to personalize emails using dynamic content blocks
-description: This tutorial demonstrated how to personalize delivery content, use JavaScript code in delivery templates, standardize and share content blocks in different delivery templates.
+description: This tutorial demonstrated how to personalize delivery content, use JavaScript code in delivery templates, and standardize and share content blocks in different delivery templates.
 feature: Dynamic Content
 kt: 1559
 doc-type: feature video
@@ -17,11 +17,11 @@ In Adobe Campaign, you can personalize content or the appearance of messages and
 3 - Insert dynamic personalization fields  
 4 - Create conditional content.
 
-This tutorial demonstrated how to personalize delivery content, use JavaScript code in delivery templates, standardize and share content blocks in different delivery templates.
+This tutorial demonstrated how to personalize delivery content, use JavaScript code in delivery templates, and standardize and share content blocks in different delivery templates.
 
 ## Create and add a personalization block to a delivery
 
-A personalization block is dynamic, personalized and contains specific rendering code that can be added to deliveries. For example, you can add images, email headers, email footers, mirror page links, unsubscription links, and much more.
+A personalization block is dynamic and contains specific rendering code that can be added to deliveries. For example, you can add images, email headers, email footers, mirror page links, unsubscription links, and much more.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24924?quality=12)
 
@@ -39,4 +39,4 @@ By configuring conditional content fields, you can create advanced personalizati
 
 ## Additional resources
 
-* [About Personalization](https://docs.adobe.com/content/help/en/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html)
+* [About Personalization](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=en)

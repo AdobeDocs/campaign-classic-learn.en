@@ -19,5 +19,5 @@ Learn how to add seeds and proofs to an existing email and how to send it.
 
 ## Additional resources
 
-- [Sending a proof](https://docs.adobe.com/content/help/en/campaign-classic/using/transactional-messaging/message-templates/sending-a-proof.html)
-- [Seed addresses](https://docs.adobe.com/content/help/en/campaign-classic/using/configuring-campaign-classic/use-a-custom-recipient-table/seed-addresses.html)
+- [Sending a proof](https://experienceleague.adobe.com/docs/campaign-classic/using/transactional-messaging/message-templates/testing-message-templates.html#sending-a-proof?lang=en)
+- [Seed addresses](https://experienceleague.adobe.com/docs/campaign-classic/using/configuring-campaign-classic/use-a-custom-recipient-table/seed-addresses.html?lang=en)

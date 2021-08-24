@@ -22,5 +22,5 @@ Learn how to generate a [!UICONTROL descriptive analysis report] from a workflow
 
 **Documentation:**
 
-* [Get started with reporting](https://docs.adobe.com/content/help/en/campaign-classic/using/reporting/reporting-in-adobe-campaign/about-adobe-campaign-reporting-tools.html)
-* [About descriptive analysis](https://docs.adobe.com/content/help/en/campaign-classic/using/reporting/analyzing-populations/about-descriptive-analysis.html)
+* [Get started with reporting](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reporting-in-adobe-campaign/about-adobe-campaign-reporting-tools.html?lang=en)
+* [About descriptive analysis](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/analyzing-populations/about-descriptive-analysis.html?lang=en)

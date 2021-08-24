@@ -74,4 +74,4 @@ The Adobe Campaign Control Panel allows Adobe Campaign administrators to monitor
 
 ## Additional resources
 
-* [Control Panel Help Center](https://docs.adobe.com/content/help/en/control-panel/using/control-panel-home.html)
+* [Control Panel Help Center](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=en)

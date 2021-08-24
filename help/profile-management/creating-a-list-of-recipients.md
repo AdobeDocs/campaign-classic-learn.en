@@ -23,7 +23,7 @@ Learn how to create an audience by configuring a list of recipients from the Exp
 
 Documentation:
 
-* [Creating and managing lists](https://docs.adobe.com/content/help/en/campaign-classic/using/getting-started/profile-management/creating-and-managing-lists.html)
+* [Creating and managing lists](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/profile-management/creating-and-managing-lists.html?lang=en)
 
 Tutorials:
 

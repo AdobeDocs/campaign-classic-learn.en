@@ -21,7 +21,7 @@ Understand the different types of dynamic content and learn how create and apply
 
 Product documentation:
 
-* [Conditional content](https://docs.adobe.com/content/help/en/campaign-classic/using/sending-messages/personalizing-deliveries/conditional-content.html)
+* [Conditional content](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/conditional-content.html?lang=en)
 
 Video tutorials:
 

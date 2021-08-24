@@ -1,6 +1,6 @@
 ---
 title: How to use the Audit Trail
-description: Audit Trail captures, in real-time, a comprehensive list of actions and events occurring within Adobe Campaign. 
+description: Audit Trail captures, in real time, a comprehensive list of actions and events occurring within Adobe Campaign. 
 feature: Audit Trail
 kt: 2835
 doc-type: feature video
@@ -12,7 +12,7 @@ exl-id: 66ce7a21-f0ca-47a5-80f7-ee8596fac7a7
 ---
 # How to use the Audit Trail
 
-[!UICONTROL Audit Trail] captures, in real-time, a comprehensive list of actions and events occurring within Adobe Campaign. The [!UICONTROL Audit Trail] features includes a self-serve way to access a history of data to help answer questions such as:
+[!UICONTROL Audit Trail] captures, in real time, a comprehensive list of actions and events occurring within Adobe Campaign. The [!UICONTROL Audit Trail] features include a self-serve way to access a history of data to help answer questions such as:
 
 * What happened to an object?
 * Who modified it  last and when?
@@ -22,7 +22,7 @@ exl-id: 66ce7a21-f0ca-47a5-80f7-ee8596fac7a7
 >
 >Audit Trails requires Campaign Classic version 19.1 or newer
 
-The [!UICONTROL Audit Trail] will log and list operator actions, such as creation, modification, and deletion for workflows, options, and source schema. In addition the following actions are logged specifically for workflows:
+The [!UICONTROL Audit Trail] logs and list operator actions, such as creation, modification, and deletion for workflows, options, and source schema. In addition, the following actions are logged specifically for workflows:
 
 * Start
 * Pause
@@ -37,4 +37,4 @@ The video below describes where to access the Audit Trail logs and which setting
 
 >[!VIDEO](https://video.tv.adobe.com/v/27425?quality=12)
 
-For more information can be found in the  [Audit Trail Documentation](https://docs.adobe.com/content/help/en/campaign-classic/using/monitoring-campaign-classic/production-procedures/audit-trail.html).
+More information can be found in the  [Audit Trail Documentation](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/audit-trail.html?lang=en).

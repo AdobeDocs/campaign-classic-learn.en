@@ -21,7 +21,7 @@ Learn how create a workflow in order to target recipients and how to make it rec
 
 Documentation:
 
-* [Creating and managing lists](https://docs.adobe.com/content/help/en/campaign-classic/using/getting-started/profile-management/creating-and-managing-lists.html)
+* [Creating and managing lists](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/profile-management/creating-and-managing-lists.html?lang=en)
 
 Tutorials:
 
