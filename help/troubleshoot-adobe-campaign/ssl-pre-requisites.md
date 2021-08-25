@@ -1,5 +1,5 @@
 ---
-title: Pre requisites for SSL certificates 
+title: Prerequisites for SSL certificates 
 description: Learn how to confirm the prerequisites when installing an SSL certificate. 
 feature: Subdomains and Certificates
 role: Admin
