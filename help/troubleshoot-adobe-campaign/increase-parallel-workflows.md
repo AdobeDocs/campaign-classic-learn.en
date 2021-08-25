@@ -1,14 +1,15 @@
-```
-title: How to enable more workflows to run in parallel
-description: Run more workflows in parallel in Campaing Classic
-feature:
+---
+title: Increase the number of parallel running workflows
+description: Learn how to increase the number of campaign workflows that can run on the instance in parallel.
+feature: Workflows
 role: Admin
 level: Experienced 
 topic: Development
-kt:8426
+kt: 8426
+---
 
-```
+# Increase the number of parallel running workflows
 
-# Enabling more workflows to run in parallel
+Learn how to increase the number of campaign workflows that can run on the instance in parallel.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335982?quality=12)

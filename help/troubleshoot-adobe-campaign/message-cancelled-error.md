@@ -1,14 +1,15 @@
-```
-title: Debugging message cancelled error
-description: Troubleshooting message cancelled erorr in Campaing Classic
+---
+title: Debugging message cancelled error in a delivery
+description: Learn how to resolve the message cancelled (representation unavailable) error in a delivery.
 feature:
 role: Admin
 level: Experienced 
 topic: Development
-kt:8391
+kt: 8391
+---
 
-```
+# Debugging message cancelled error in a delivery
 
-# Resolving Message Cancelled Error in Campaign Classic
+Learn how to resolve the message cancelled (representation unavailable) error in a delivery.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335895?quality=12)

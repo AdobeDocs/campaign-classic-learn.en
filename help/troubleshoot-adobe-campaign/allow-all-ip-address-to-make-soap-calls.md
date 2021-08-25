@@ -1,13 +1,14 @@
 ---
-title: Provisioning IP address to make SOAP requests
-description: Understand how to enable IP address to make SOAP requests
+title: Allow all IP addresses to make SOAP API calls
+description: Understand how to enable IP addresses to make SOAP requests
 doc-type: technical video
 feature: API
 role: Admin
 level: Experienced 
+kt: 8422
 ---
 
-# Configure IP Address to make SOAP requests
+# Allow all IP addresses to make SOAP API calls
 
 Understand how to enable IP address to make SOAP requests
 
