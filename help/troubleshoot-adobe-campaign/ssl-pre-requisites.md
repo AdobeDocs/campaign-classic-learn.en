@@ -5,7 +5,7 @@ feature: Subdomains and Certificates
 role: Admin
 level: Experienced 
 topic: Development
-kt:8389
+kt: 8389
 ---
 
 # Prerequisites for configuring Adobe Campaign with SSL 
