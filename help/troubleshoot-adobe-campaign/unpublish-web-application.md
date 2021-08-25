@@ -1,14 +1,15 @@
-```
-title: Unpublishing web application
-description: Unpublishing a web application in Campaign Classic
-feature:
+---
+title: Unpublish a web application
+description: Learn how to unpublish a web application in Adobe Campaign.
+feature: Web Apps
 role: Admin
 level: Experienced 
 topic: Development
-kt:8387
+kt: 8387
+---
 
-```
+# Unpublish a web application
 
-# Unpublishing web application
+Learn how to unpublish a web application in Adobe Campaign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335892?quality=12)

@@ -1,7 +1,7 @@
 ---
 title: Debugging message cancelled error in a delivery
 description: Learn how to resolve the message cancelled (representation unavailable) error in a delivery.
-feature:
+feature: Email
 role: Admin
 level: Experienced 
 topic: Development

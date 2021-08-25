@@ -2,7 +2,7 @@
 title: Allow all IP addresses to make SOAP API calls
 description: Understand how to enable IP addresses to make SOAP requests
 doc-type: technical video
-feature: API
+feature: SFTP Management
 role: Admin
 level: Experienced 
 kt: 8422

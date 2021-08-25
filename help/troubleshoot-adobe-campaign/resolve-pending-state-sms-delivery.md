@@ -1,14 +1,15 @@
-```
-title: Resolving pending state of SMS delivery in Adobe Campaign
-description: Resolve SMS delivery status for newly created accounts 
-feature:
+---
+title: SMS delivery going in pending state
+description: Learn how to resolve the issue of an SMS delivery going into the  pending state for newly created external account.
+feature: SMS
 role: Admin
 level: Experienced 
 topic: Development
-kt:8429
+kt: 8429
+---
 
-```
+# SMS delivery going in pending state
 
-# Resolve pending state of SMS delivery
+Learn how to resolve the issue of an SMS delivery going into the  pending state for newly created external account.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335986?quality=12)

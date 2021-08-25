@@ -1,14 +1,15 @@
-```
-title: Resolving session expired while approving an offer 
-description: Resolve the session expired message while approving an offer in Campaing Classic
-feature:
+---
+title: Session expires when approving an offer 
+description: Learn how to resolve the issue of the session expiring when approving an offer.
+feature: Task Management
 role: Admin
 level: Experienced 
 topic: Development
-kt:8394
+kt: 8394
+---
 
-```
+# Session expires when approving an offer 
 
-# Resolve session expired while approving an offer
+Learn how to resolve the issue of the session expiring when approving an offer.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335898?quality=12)

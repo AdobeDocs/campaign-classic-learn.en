@@ -1,14 +1,14 @@
-```
-title: Troubleshooting out of memory errors
-description: Fix out of memory errors in Campaign Classic
-feature:
+---
+title: Out of memory error for on-premise installations
+description: Learn how to troubleshoot out of memory error for on-premise installations.
 role: Admin
 level: Experienced 
 topic: Development
-kt:8386
+kt: 8386
+---
 
-```
+# Out of memory error for on-premise installations
 
-# Troubleshooting memory errors in Campaign Classic
+Learn how to troubleshoot out of memory error for on-premise installations.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335891?quality=12)
