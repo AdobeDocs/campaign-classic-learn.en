@@ -1,5 +1,5 @@
 ---
-title: SMS delivery going in pending state
+title: SMS delivery going into pending state
 description: Learn how to resolve the issue of an SMS delivery going into the  pending state for newly created external account.
 feature: SMS
 role: Admin
@@ -8,7 +8,7 @@ topic: Development
 kt: 8429
 ---
 
-# SMS delivery going in pending state
+# SMS delivery going into pending state
 
 Learn how to resolve the issue of an SMS delivery going into the  pending state for newly created external account.
 

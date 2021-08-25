@@ -19,7 +19,7 @@ level: Experienced
   + [Filter workflows by keep result condition](/help/troubleshoot-adobe-campaign/keep-result-workflow.md)
 + Deliveries and channels {#deliveries-and-channels}
   + [Debugging message cancelled error in a delivery](/help/troubleshoot-adobe-campaign/message-cancelled-error.md)
-  + [SMS delivery going in pending state](/help/troubleshoot-adobe-campaign/resolve-pending-state-sms-delivery.md)
+  + [SMS delivery going into pending state](/help/troubleshoot-adobe-campaign/resolve-pending-state-sms-delivery.md)
   + [Broad log status incorrect when an SMS is sent to an incorrect number](/help/troubleshoot-adobe-campaign/sms-broad-log.md)
 + System Administration {#administration}
   + [Allow all IP addresses to make SOAP API calls](/help/troubleshoot-adobe-campaign/allow-all-ip-address-to-make-soap-calls.md)
