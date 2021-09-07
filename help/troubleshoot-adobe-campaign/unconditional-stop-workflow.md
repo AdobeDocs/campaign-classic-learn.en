@@ -1,7 +1,7 @@
 ---
 title: Unconditional stop in campaign workflow
 description: Learn how to perform an unconditional stop in campaign workflow
-feature: Workflow
+feature: Workflows
 role: Admin
 level: Experienced 
 topic: Development
