@@ -1,7 +1,7 @@
 ---
 title: E-mails being triggered by disabled messages
 description: Learn how to fix disabled messages from triggering e-mails
-feature: 
+feature: Email
 role: Admin
 level: Experienced 
 topic: Development

@@ -1,7 +1,6 @@
 ---
 title: Load balancer issues during instance restart
 description: Learn how to fix load balancer issues encountered during instance restart
-feature: 
 role: Admin
 level: Experienced 
 topic: Development
