@@ -3,11 +3,11 @@ title: Unpublish a web application
 description: Learn how to unpublish a web application in Adobe Campaign.
 feature: Web Apps
 role: Admin
-level: Experienced 
+level: Experienced
 topic: Development
 kt: 8387
+exl-id: a34591be-966f-4b12-834a-a250437f5f4d
 ---
-
 # Unpublish a web application
 
 Learn how to unpublish a web application in Adobe Campaign.
