@@ -1,7 +1,6 @@
 ---
 title: Missing campaign label in Analytics
 description: Learn how to fix missing campaign label in analytics
-feature: 
 role: Admin
 level: Experienced 
 topic: Development
