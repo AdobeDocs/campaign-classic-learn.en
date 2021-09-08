@@ -29,6 +29,8 @@ level: Experienced
   + [SMS delivery going into pending state](/help/troubleshoot-adobe-campaign/resolve-pending-state-sms-delivery.md)
   + [Broad log status incorrect when an SMS is sent to an incorrect number](/help/troubleshoot-adobe-campaign/sms-broad-log.md)
   + [Permissions issues when publishing](/help/troubleshoot-adobe-campaign/publishing-permissions-issues.md)
++ Integrations {#integrations}
+  + [Missing campaign label in Analytics](/help/troubleshoot-adobe-campaign/missing-campaign-label.md)
 + System Administration {#administration}
   + [Allow all IP addresses to make SOAP API calls](/help/troubleshoot-adobe-campaign/allow-all-ip-address-to-make-soap-calls.md)
   + [Pre requisites for SSL certificates](/help/troubleshoot-adobe-campaign/ssl-pre-requisites.md)
