@@ -3,11 +3,11 @@ title: E-mails being triggered by disabled messages
 description: Learn how to fix disabled messages from triggering e-mails
 feature: Email
 role: Admin
-level: Experienced 
+level: Experienced
 topic: Development
 kt: 8425
+exl-id: c21a4521-c207-43ad-9dfc-ea64b377e440
 ---
-
 # Disabled messages triggering e-mails
 
 Learn how to stop e-mails from disabled messaged
