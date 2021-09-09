@@ -4,7 +4,7 @@ description: Learn how to filter for workflows where the "keep result" condition
 feature: Workflows
 role: Admin
 level: Experienced
-topic: Development
+type: Troubleshooting
 kt: 8383
 exl-id: b46a41a5-c439-440d-b492-dc6653ad5011
 ---

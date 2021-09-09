@@ -4,7 +4,7 @@ description: Learn how to debug the issue of the SMS broad log status showing se
 feature: SMS
 role: Admin
 level: Experienced
-topic: Development
+type: Troubleshooting
 kt: 8424
 exl-id: 862ae1f3-4fdc-4ed3-b5c8-edc4f7ab2d90
 ---

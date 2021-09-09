@@ -4,7 +4,7 @@ description: Learn how to fix errors or warnings shown during the process of log
 feature: Client Console
 role: Admin
 level: Experienced
-topic: Development
+type: Troubleshooting
 kt: 8421
 exl-id: 32caed73-2410-4b55-8820-bf9d149250a6
 ---

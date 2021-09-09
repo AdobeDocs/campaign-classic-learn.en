@@ -4,7 +4,7 @@ description: Learn how to confirm the prerequisites when installing an SSL certi
 feature: Subdomains and Certificates
 role: Admin
 level: Experienced
-topic: Development
+type: Troubleshooting
 kt: 8389
 exl-id: 18b996f2-67f9-425f-a41b-baec564fe08f
 ---

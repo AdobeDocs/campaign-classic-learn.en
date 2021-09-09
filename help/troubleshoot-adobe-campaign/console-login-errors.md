@@ -4,7 +4,7 @@ description: Learn how to fix errors encountered during console login
 feature: Client Console
 role: Admin
 level: Experienced
-topic: Development
+type: Troubleshooting
 kt: 8392
 exl-id: 17032587-52c6-48de-89e6-a3ea634d3d63
 ---

@@ -4,7 +4,7 @@ description: Learn how to resolve the issue of an SMS delivery going into the 
 feature: SMS
 role: Admin
 level: Experienced
-topic: Development
+type: Troubleshooting
 kt: 8429
 exl-id: f6030e69-143e-40fa-838d-107e3ca3f4ad
 ---

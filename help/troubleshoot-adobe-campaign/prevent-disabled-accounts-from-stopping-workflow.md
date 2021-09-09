@@ -4,7 +4,7 @@ description: Learn how to resolve the issue when a workflow stops running, when 
 feature: Workflows 
 role: Admin
 level: Experienced
-topic: Development
+type: Troubleshooting
 kt: 8431
 exl-id: 8c38fa38-caea-4f3e-881b-386e9100bc17
 ---

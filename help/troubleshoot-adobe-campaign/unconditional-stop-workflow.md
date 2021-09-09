@@ -4,7 +4,7 @@ description: Learn how to perform an unconditional stop in campaign workflow
 feature: Workflows
 role: Admin
 level: Experienced
-topic: Development
+type: Troubleshooting
 kt: 8382
 exl-id: ba021df4-7dc3-4b3e-a03b-6f748d27cacd
 ---

@@ -4,7 +4,7 @@ description: Learn how to fix publishing issues by non-admin users
 feature: Email
 role: Admin
 level: Experienced
-topic: Development
+type: Troubleshooting
 kt: 8423
 exl-id: 328cdb2a-e889-4bce-ab95-491ad544f060
 ---

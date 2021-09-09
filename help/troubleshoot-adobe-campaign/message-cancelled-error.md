@@ -4,7 +4,7 @@ description: Learn how to resolve the message cancelled (representation unavail
 feature: Email
 role: Admin
 level: Experienced
-topic: Development
+type: Troubleshooting
 kt: 8391
 exl-id: e22d0976-a668-4dfd-99fc-1aa586a8632d
 ---

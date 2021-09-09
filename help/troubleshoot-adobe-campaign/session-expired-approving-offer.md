@@ -4,7 +4,7 @@ description: Learn how to resolve the issue of the session expiring when approvi
 feature: Task Management
 role: Admin
 level: Experienced
-topic: Development
+type: Troubleshooting
 kt: 8394
 exl-id: 58fba53b-c071-4256-94a7-df79f6500e29
 ---
