@@ -2,7 +2,6 @@
 user-guide-title: Adobe Campaign Control Panel Tutorials
 user-guide-description: Learn how to monitor your Adobe Campaign instances' key assets and perform administrative tasks in Control Panel.
 breadcrumb-title: Control Panel Tutorials
-breadcrumb-url: /docs/campaign-classic-learn/control-panel/control-panel-overview.html
 index: yes
 feature: Control Panel
 role: Admin
