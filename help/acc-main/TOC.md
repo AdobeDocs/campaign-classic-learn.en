@@ -4,13 +4,6 @@ sub-product: Campaign Classic
 user-guide-title: Adobe Campaign Classic Tutorials
 user-guide-description: Adobe Campaign Classic allows marketers to design cross-channel customer experiences and provides an environment for visual campaign orchestration, real time interaction management, and cross channel execution.
 breadcrumb-title: Tutorials
-breadcrumb-url: /docs/campaign-classic-learn/tutorials/overview.html
-solution-title: Experience League
-solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Classic#recommended/solutions/campaign
-tutorials-title: Tutorials
-tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html
-getting-started-title: Documentation
-getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html
 ---
 
 # Adobe Campaign Classic Tutorials {#tutorials}
