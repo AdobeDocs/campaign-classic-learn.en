@@ -24,8 +24,3 @@ Step 1: [Extending the app subscription schema to personalize push notifications
 **Next Step**
 
 Step 3: [Configuring and sending push notifications](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-and-sending-push-notifications.md)
-
-## Additional resources
-
-* [Configure the Android service (product documentation)](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/configure-the-mobile-app/configuring-the-mobile-application-android.html#configuring-android-service)
-* [Create an Android mobile application (product documentation)](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/configure-the-mobile-app/configuring-the-mobile-application-android.html#creating-android-app)

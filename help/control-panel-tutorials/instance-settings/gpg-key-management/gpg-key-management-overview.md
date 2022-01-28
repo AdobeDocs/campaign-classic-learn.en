@@ -17,7 +17,3 @@ The following videos explain how to generate and install a public/private key pa
 * [Generating and installing GPG keys for data encryption](./generating-and-installing-gpg-keys-for-data-encryption.md)
 * [Using a GPG key to encrypt data](./using-a-gpg-key-to-encrypt-data.md)
 * [Decrypting data](./decrypting-data.md)
-
-## Additional resources
-
-* [GPG key management (documentation)](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html)

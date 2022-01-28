@@ -9,6 +9,7 @@ activity: setup
 team: TM
 role: Admin
 level: Experienced
+recommendations: noDisplay
 exl-id: 797a24fc-cd4d-447e-a8c7-275e57b75716
 ---
 # Getting started with the [!UICONTROL Control Panel] {#control-panel}

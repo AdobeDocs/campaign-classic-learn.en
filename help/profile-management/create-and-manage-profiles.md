@@ -20,11 +20,3 @@ Understand the concept of profiles in Adobe Campaign Classic. Learn how to acces
 This video also explains the compliance of Adobe Campaign Classic with General Data Protection Regulation (GDPR) and California Consumer Privacy Act (CCPA).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35611?quality=12)
-
-## Additional resources
-
-**Documentation:**
-
-* [About profiles](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/profile-management/about-profiles.html?lang=en)
-* [Editing a profile](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/profile-management/editing-a-profile.html?lang=en)
-* [Managing profiles](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/profile-management/adding-profiles.html?lang=en)

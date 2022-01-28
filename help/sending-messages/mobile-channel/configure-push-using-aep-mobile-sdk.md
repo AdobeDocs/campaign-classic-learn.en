@@ -1,7 +1,7 @@
 ---
 title: Configure the Push Channel using the Experience Platform Mobile SDK 
 description: Learn how to configure the Push channel using the Experience Cloud Mobile SDK. 
-feature: Push
+feature: Push, Mobile SDK Integration
 kt: 2683
 doc-type: feature video
 activity: setup
@@ -16,8 +16,4 @@ This video explains how to Configure and install the Adobe Experience Platform M
 
 >[!VIDEO](https://video.tv.adobe.com/v/27699?quality=12)
 
-*Configure and install the Adobe Experience Platform Mobile SDK (07:04 min)*
-
-## Additional resources
-
-* [Configure Campaign Classic extension in Launch](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-campaignclassic)
+To learn ore on how to configure the Campaign Classic extension in Mobile SDK, see the [product documentation](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-campaignclassic).

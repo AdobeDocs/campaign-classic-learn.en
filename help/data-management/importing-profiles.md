@@ -15,7 +15,3 @@ exl-id: 373c0247-fd72-4c36-b2d6-cb758dc72492
 This video explains how to import profiles in Adobe Campaign Classic.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25608?quality=12)
-
-## Additional resources
-
-- [Exporting and Importing Profiles](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/profile-management/exporting-and-importing-profiles.html?lang=en)

@@ -16,7 +16,3 @@ exl-id: 99b8acff-0105-4764-82ec-7c2dfe75f0f9
 Learn how to setup and manage subscriptions and target subscribers.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329941?quality=12)
-
-## Additional resources
-
-* [About services and subscriptions (product documentation)](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/subscriptions-and-referrals/about-services-and-subscriptions.html)

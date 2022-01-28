@@ -1,7 +1,7 @@
 ---
 title: Creating a list of recipients
 description: Learn how to create an audience by configuring a list of recipients from the Explorer.
-feature: Audiences
+feature: Audiences, Profiles
 kt: 2171
 thumbnail: 25602.jpg
 doc-type: feature video
@@ -18,15 +18,3 @@ A list is a static set of recipients that can be targeted in delivery actions or
 Learn how to create an audience by configuring a list of recipients from the Explorer.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25602/quality=12)
-
-## Additional resources
-
-Documentation:
-
-* [Creating and managing lists](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/profile-management/creating-and-managing-lists.html?lang=en)
-
-Tutorials:
-
-* [Create and manage profiles](/help/profile-management/create-and-manage-profiles.md)
-* [Importing profiles](/help/data-management/importing-profiles.md)
-* [Creating a list of recipients with a workflow](/help/profile-management/creating-a-list-of-recipients-with-a-workflow.md)

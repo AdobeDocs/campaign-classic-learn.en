@@ -17,10 +17,3 @@ exl-id: cc9e256f-67bb-4bb3-aa24-da5de70fc776
 Learn how to generate a [!UICONTROL descriptive analysis report] from a workflow.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35616?quality=12)
-
-## Additional resources
-
-**Documentation:**
-
-* [Get started with reporting](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/reporting-in-adobe-campaign/about-adobe-campaign-reporting-tools.html?lang=en)
-* [About descriptive analysis](https://experienceleague.adobe.com/docs/campaign-classic/using/reporting/analyzing-populations/about-descriptive-analysis.html?lang=en)

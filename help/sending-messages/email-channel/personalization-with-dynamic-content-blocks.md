@@ -1,7 +1,7 @@
 ---
 title: Personalizing emails using dynamic content blocks
 description: Learn how created dynamic content blocks and how to use them to personalize the content of your email delivery.
-feature: Dynamic Content
+feature: Dynamic Content, Personalization
 kt: 1559
 thumbnail: 24924 
 doc-type: feature video
@@ -20,17 +20,6 @@ A personalization block is dynamic, personalized, and contains specific renderin
 
 Learn how created dynamic content blocks and how to use them to personalize the content of your email delivery.
 
-
 >[!VIDEO](https://video.tv.adobe.com/v/24924?quality=12)
 
-## Additional Resources
-
-Documentation:
-
-* [About Personalization](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html)
-* [Personalization blocks](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/personalization-blocks.html)
-
-Video Tutorials:
-
-* [Personalizing emails using personalization field](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
-* [Personalizing emails - Create a multilingual newsletter using conditional content](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
+To learn more about personalization, see the [product documentation](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html).

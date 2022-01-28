@@ -17,6 +17,4 @@ Understand the process of creating an email delivery and learn how to design and
 
 >[!VIDEO](https://video.tv.adobe.com/v/330941?quality=12)
 
-## Additional resources
-
-* [Defining the email content (documentation)](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-emails/defining-the-email-content.html)
+For more information please see the [product documentation](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-emails/defining-the-email-content.html)

@@ -1,7 +1,7 @@
 ---
 title: Managing marketing fatigue with pressure rules
 description: Learn  how to implement fatigue management in Adobe Campaign Classic by using filters.
-feature: Fatigue Management
+feature: Fatigue Managemen, Typology Rules
 kt: 2148
 doc-type: feature video
 activity: use
@@ -18,6 +18,4 @@ This video explains how to implement fatigue management in Adobe Campaign Classi
 
 >[!VIDEO](https://video.tv.adobe.com/v/25091?quality=12)
 
-## Additional resources
-
-* [About campaign typologies](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html?lang=en)
+Visit the product documentation to learn more about [campaign typologies](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html?lang=en).

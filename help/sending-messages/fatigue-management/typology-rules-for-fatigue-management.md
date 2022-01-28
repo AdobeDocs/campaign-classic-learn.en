@@ -1,7 +1,7 @@
 ---
 title: How to set up fatigue management using typology rules in Adobe Campaign Classic
 description: Learn how to implement fatigue management by applying typology rules.
-feature: Fatigue Management
+feature: Fatigue Management, Typology Rules
 kt: 1564
 doc-type: feature video
 activity: use
@@ -20,7 +20,4 @@ This video explains how to implement fatigue management in Adobe Campaign Classi
 
 >[!VIDEO](https://video.tv.adobe.com/v/25090?quality=12)
 
-## Additional resources
-
-* [About campaign typologies](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html?lang=en)
-* [Managing marketing fatigue with pressure rules](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/pressure-rules.html?lang=en)
+Visit the product documentation to learn more about [campaign typologies](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html?lang=en).

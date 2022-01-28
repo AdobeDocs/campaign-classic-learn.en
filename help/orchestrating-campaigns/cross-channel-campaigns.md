@@ -1,7 +1,7 @@
 ---
 title: Create cross-channel campaigns
 description: Learn how to create a cross-channel campaign using email and direct mail deliveries based on the customer's interaction with the first delivery.
-feature: Workflows
+feature: Cross Channel Orchestration
 kt: 7018
 thumbnail: 330990.jpg
 doc-type: feature video
@@ -16,7 +16,3 @@ In a cross-channel campaign, a single marketing communication uses different cha
 Learn how to create a cross-channel campaign using email and direct mail deliveries based on the customer's interaction with the first delivery.
 
 >[!VIDEO](https://video.tv.adobe.com/v/330990?quality=12)
-
-## Additional resources
-
-* [Introduction to multi-channel and cross-channel campaigns](/help/orchestrating-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)

@@ -18,6 +18,4 @@ Learn how to set up approvals and a campaign and how to differentiate between de
 
 >[!VIDEO](https://video.tv.adobe.com/v/329605?quality=12)
 
-## Additional resources
-
-*[Defining approvals (Product Documentation)](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/executing-a-workflow/defining-approvals.html?lang=en#sending-emails)
+To learn more about defining approvals, see the [Product Documentation](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/executing-a-workflow/defining-approvals.html?lang=en#sending-emails).

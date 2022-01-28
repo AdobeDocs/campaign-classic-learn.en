@@ -8,6 +8,7 @@ activity: setup
 team: TM
 role: Admin, Developer
 level: Experienced
+recommendations: noDisplay
 exl-id: 291c2e3a-c126-439d-9753-06a4091bbda0
 ---
 # Getting started with Push notifications for Android - Introduction

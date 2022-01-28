@@ -1,7 +1,7 @@
 ---
 title: Personalizing emails - Create a multilingual newsletter using conditional content
 description: Learn how to add conditional content to a delivery on the example of a multi-lingual newsletter.
-feature: Dynamic Content
+feature: Dynamic Content, Personalization
 kt: 5922
 thumbnail: 24926.jpg
 doc-type: feature video
@@ -19,14 +19,4 @@ Learn how to add conditional content to a delivery on the example of a multi-lin
 
 >[!VIDEO](https://video.tv.adobe.com/v/24926?quality=12)
 
-## Additional Resources
-
-Documentation:
-
-* [About Personalization](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=en)
-* [Conditional content](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/conditional-content.html?lang=en)
-
-Video Tutorials:
-
-* [Personalizing emails using dynamic content blocks](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
-* [Personalizing emails using personalization field](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
+To learn more about personalization, see the [product documentation](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html).

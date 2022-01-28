@@ -22,16 +22,3 @@ Understand the use of campaign workflows and learn how to create a workflow and 
 * [Refining targets by combining query results](/help/automating-with-workflows/refining-targets-by-combining-query-results.md)
 * [Refining targets by excluding query results](/help/automating-with-workflows/refining-targets-by-excluding-query-results.md)
 * [Using the update list activity to create a list with a workflow](/help/automating-with-workflows/using-the-update-list-activity.md)
-
-## Additional resources
-
-Documentation:
-
-* [About Workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=en)
-* [About targeting activities](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html)
-
-Tutorials:
-
-* [Create and manage profiles](/help/profile-management/create-and-manage-profiles.md)
-* [Importing profiles](/help/data-management/importing-profiles.md)
-* [Creating a workflow](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/automating-with-workflows/creating-a-workflow.html)

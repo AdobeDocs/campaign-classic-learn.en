@@ -21,6 +21,3 @@ Learn how to configure and send a [!DNL push] notification to users of an [!DNL 
 
 Step 2: [Configuring an Android service and creating an Android mobile application in Campaign](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-an-android-service-in-campaign.md)
 
-## Additional resources
-
-* [Create a push notification for Android (documentation)](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-push-notifications/create-a-push-msg/create-notifications-android.html)

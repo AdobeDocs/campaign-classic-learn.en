@@ -1,7 +1,7 @@
 ---
 title: How to personalize emails using dynamic content blocks
 description: This tutorial demonstrated how to personalize delivery content, use JavaScript code in delivery templates, and standardize and share content blocks in different delivery templates.
-feature: Dynamic Content
+feature: Dynamic Content, Personalization
 kt: 1559
 doc-type: feature video
 activity: use
@@ -37,6 +37,4 @@ By configuring conditional content fields, you can create advanced personalizati
 
 >[!VIDEO](https://video.tv.adobe.com/v/24926?quality=12)
 
-## Additional resources
-
-* [About Personalization](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=en)
+To learn more about Personalization, see the [product documentation](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=en).

@@ -1,7 +1,7 @@
 ---
 title: Personalizing emails using personalization fields
 description: Learn how to add a personalization field to the subject line and the content of an email delivery.
-feature: Dynamic Content
+feature: Dynamic Content, Personalization
 kt: 5921
 thumbnail: 24925.jpg
 doc-type: feature video
@@ -19,14 +19,4 @@ Learn how to add a personalization field to the subject line and the content of 
 
 >[!VIDEO](https://video.tv.adobe.com/v/24925?quality=12)
 
-## Additional Resources
-
-Documentation:
-
-* [About Personalization](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=en)
-* [Personalization fields](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/personalization-fields.html?lang=en)
-
-Tutorials:
-
-* [Personalizing emails using dynamic content blocks](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
-* [Personalizing emails - Create a multilingual newsletter using conditional content](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
+To learn more about personalization, see the [product documentation](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html).

@@ -1,7 +1,7 @@
 ---
 title: Big data management on Snowflake
 description: Learn how to leverage the Snowflake connector in Adobe Campaign Classic
-feature: Federated Data Access
+feature: Federated Data Access, Data Management
 kt: 4405
 doc-type: feature video
 activity: use
@@ -26,6 +26,4 @@ You will learn how to
 
 >[!VIDEO](https://video.tv.adobe.com/v/31588?quality=12&learn=on)
 
-## Additional resources
-
-* [Configure access to Snowflake](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/accessing-external-database/configure-fda/config-databases/configure-fda-snowflake.html?lang=en#installing-campaign-classic)
+For more information on how to configure access to Snowflake see the [product documentation](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/accessing-external-database/configure-fda/config-databases/configure-fda-snowflake.html?lang=en#installing-campaign-classic).

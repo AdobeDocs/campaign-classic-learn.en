@@ -5,6 +5,7 @@ sub-product: Campaign Classic
 feature: Overview
 role: User, Admin, Developer
 level: Beginner
+recommendations: noCatalog, noDisplay
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 ---
 # Adobe Campaign Classic V7 Tutorials - Overview
@@ -27,14 +28,6 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 * **[Send and validate proofs](/help/sending-messages/email-channel/send-and-validate-proofs.md)**
   
   *Learn how to send and validate a proof.*
-
-* **[Design emails for deliverability](/help/sending-messages/email-channel/design-emails-for-deliverability.md)**
-
-  *Learn how to apply deliverability best practices.*
-
-* **[Create and design email deliveries](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)**
-
-  *Understand the process of creating an email delivery and learn how to design and personalize email content.*
 
 
 ## Staff Picks

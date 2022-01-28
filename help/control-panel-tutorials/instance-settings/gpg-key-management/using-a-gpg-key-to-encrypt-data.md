@@ -17,8 +17,3 @@ exl-id: 678b6d42-3d00-4c45-96fa-5ee73ce05d2c
 Learn how to export data using a GPG key installed on Control Panel.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36399?quality=12)
-
-## Additional resources
-
-* [GPG Key management (videos)](./gpg-key-management-overview.md)
-* [GPG key management (documentation)](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html)

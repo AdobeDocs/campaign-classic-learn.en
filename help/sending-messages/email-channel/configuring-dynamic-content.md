@@ -17,13 +17,4 @@ Understand the different types of dynamic content and learn how create and apply
 
 >[!VIDEO](https://video.tv.adobe.com/v/329936?quality=12)
 
-## Additional Resources
-
-Product documentation:
-
-* [Conditional content](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/conditional-content.html?lang=en)
-
-Video tutorials:
-
-* [Personalizing emails using dynamic content blocks](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
-* [Personalizing emails using personalization fields](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
+For more information please see the [product documentation](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/conditional-content.html?lang=en).

@@ -34,7 +34,3 @@ Please note: This video was recorded in Adobe Campaign Classic V6, the functiona
 
 >[!VIDEO](https://video.tv.adobe.com/v/23635?quality=12)
 
-## Additional resources {#additional-resources}
-
-* [Targeting data(documentation)](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/targeting-data.html)
-* [Workflow best practices](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/workflow-best-practices.html)

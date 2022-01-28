@@ -1,7 +1,7 @@
 ---
 title: How to set up recurring and continuous email campaigns
 description: Learn how to set up a recurring and a continuous delivery and understand the differences between the two approaches.
-feature: Workflows
+feature: Workflows, Campaigns
 kt: 1560
 doc-type: feature video
 activity: use
@@ -39,7 +39,3 @@ This video explains how to configure a recurring delivery and a scheduler activi
 This video shows how to configure a continuous delivery with an incremental query.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25039?quality=12)
-
-## Additional resources
-
-[Creating a recurring delivery in a targeting workflow](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/use-cases/deliveries/sending-a-birthday-email.html?lang=en#creating-a-recurring-delivery-in-a-targeting-workflow)
