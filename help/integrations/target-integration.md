@@ -6,8 +6,8 @@ role: User
 level: Beginner, Intermediate, Experienced
 kt: 9601
 thumbnail: 341030.jpg
+exl-id: 1338427d-d75e-4480-9377-f8e68e067364
 ---
-
 # Integrate with Adobe Target
 
 Learn how to personalize a delivery with dynamic content served from Adobe Target.
