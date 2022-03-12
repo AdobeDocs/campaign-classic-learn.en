@@ -78,7 +78,8 @@ breadcrumb-title: Tutorials
   + [Workflow Heatmap](/help/monitoring-campaign-classic/workflow-heatmap.md)
   + [Audit Trail](/help/monitoring-campaign-classic/audit-trail.md)
 + Integrate {#integrating}
-  + [How to Integrate Dynamics 365 with Adobe Campaign Classic](/help/integrations/dynamics365-integration.md)
+  + [Integrate with Adobe Target](/help/integrations/target-integration.md)
+  + [Integrate with Dynamics 365](/help/integrations/dynamics365-integration.md)
 + Administrate {#administrating}
   + [Control Panel](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html)
   + Accessing an external database (FDA) {#fda}
