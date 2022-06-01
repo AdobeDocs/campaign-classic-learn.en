@@ -13,10 +13,6 @@ exl-id: 5845478e-8e2e-42dd-b8b1-a85687355f3f
 ---
 # Delegating subdomains using CNAME
 
->[!IMPORTANT]
->
-> The use of CNAMEs for subdomain delegation is in beta and subject to frequent updates and modifications without notice.
-
 To be able to start sending emails or publish landing pages with Adobe Campaign you need to setup a new subdomain.
 
 Learn how to set up and submit a subdomain using CNAMEs in the Control Panel.
