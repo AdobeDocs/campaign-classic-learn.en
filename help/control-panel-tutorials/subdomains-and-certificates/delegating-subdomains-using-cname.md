@@ -11,7 +11,7 @@ role: Admin
 level: Experienced
 exl-id: 5845478e-8e2e-42dd-b8b1-a85687355f3f
 ---
-# Delegating subdomains using CNAME (beta)
+# Delegating subdomains using CNAME
 
 >[!IMPORTANT]
 >
