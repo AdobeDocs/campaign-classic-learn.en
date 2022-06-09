@@ -17,17 +17,17 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 
 ## What's New
 
-* **[Integrate with Adobe Target](/help/integrations/target-integration.md)**
+* **[Introduction to SMS](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/introduction-to-sms.html)**:
+ *Learn how SMS works and how Adobe Campaign sends SMS*
 
-  *Learn how to personalize a delivery with dynamic content served from Adobe Target.*
+* **[Set up an SMS account for a standard SMPP provider](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/set-up-account-for-standard-smpp-provider.html)**
+  *Learn how to adapt the SMS connector to your SMPP provider. Fine tune your SMS settings to handle connection limits, set up the maximum throughput, the sending window, and encryption with TLS.*
 
-* **[Create cross-channel campaigns](/help/orchestrating-campaigns/cross-channel-campaigns.md)**
+* **[Adapt SMS connector to your SMPP provider](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/adapt-sms-connector-to-smpp-provider.html)**
+  *Learn how to fine tune your SMS settings to handle connection limits, set up the maximum throughput, the sending window, and encryption with TLS.*
 
-  *Learn how to create and execute a cross-channel campaign.*
-
-* **[Use control groups](/help/sending-messages/email-channel/use-control-groups.md)**
-  
-   *Understand the concept of control groups and learn how to use a control group for your delivery.*
+* **[Maximize your email ROI & learn best practices for subscriber re-engagement](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html)**
+  *Learn how to maximize email ROI and learn best practices for subscriber re-engagement. Discover the strategies to improve your subscribers engagement and understand the overall success of your email campaigns.*
 
 ## Staff Picks
 
