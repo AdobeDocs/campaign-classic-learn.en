@@ -17,6 +17,10 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 
 ## What's New
 
+* **[Control Panel for hybrid hosting models](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-for-hybrid-hosting-models.html)**
+
+  *Learn how to enable Control Panel for Adobe Campaign hybrid hosting models, access Control Panel, and unlock key features.*
+
 * **[Control Panel - Monitor workflows](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-workflows.html){target="_blank"}**
   
   *Learn how to monitor your workflows' temporary storage usage and where to configure workflow settings to avoid database or workflow issues on your instance.*
