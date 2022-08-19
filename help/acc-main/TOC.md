@@ -38,7 +38,6 @@ breadcrumb-title: Tutorials
     + [Troubleshooting email delivery issues](/help/sending-messages/email-channel/troubleshooting-email-delivery-issues.md)
     + [Design emails for deliverability](/help/sending-messages/email-channel/design-emails-for-deliverability.md)
   + SMS Channel {#sms-channel}
-    + [Set up SMS for Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html)
     + [Create a SMS delivery](/help/sending-messages/mobile-channel/create-a-sms-delivery.md)
   + Push Channel {#push-channel}
     + [Installing the Mobile App Channel](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
@@ -82,6 +81,7 @@ breadcrumb-title: Tutorials
   + [Integrate with Dynamics 365](/help/integrations/dynamics365-integration.md)
 + Administrate {#administrating}
   + [Control Panel](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html){target="_blank"}
+  + [Set up SMS for Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html)
   + Accessing an external database (FDA) {#fda}
     + [Big data management on [!DNL Snowflake]](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
 + [Troubleshoot Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html)
