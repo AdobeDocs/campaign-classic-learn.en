@@ -1,5 +1,5 @@
 ---
-title: How to set up recurring and continuous email campaigns
+title: Configure recurring and continuous email campaigns
 description: Learn how to set up a recurring and a continuous delivery and understand the differences between the two approaches.
 feature: Workflows, Campaigns
 kt: 1560
@@ -10,7 +10,7 @@ role: User
 level: Beginner
 exl-id: 42f2a7e6-7d88-473b-b913-fe09b7016b28
 ---
-# How to set up recurring and continuous email campaigns
+# Configure recurring and continuous email campaigns
 
 This tutorial explains how to set up a recurring and a continuous delivery and the differences between the two approaches.  
 
