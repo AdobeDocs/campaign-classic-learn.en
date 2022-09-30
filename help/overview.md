@@ -21,15 +21,15 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 
   *Learn how SMPP connections are established and how SMPP exchanges data through PDUs. Understand how to troubleshoot connections.*
 
-* **[Control Panel for hybrid hosting models](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-for-hybrid-hosting-models.html)**
+* **[Control Panel for hybrid hosting models](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/control-panel-for-hybrid-hosting-models.html?lang=en)**
 
   *Learn how to enable Control Panel for Adobe Campaign hybrid hosting models, access Control Panel, and unlock key features.*
 
-* **[Control Panel - Monitor workflows](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-workflows.html){target="_blank"}**
+* **[Control Panel - Monitor workflows](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-workflows.html?lang=en){target="_blank"}**
   
   *Learn how to monitor your workflows' temporary storage usage and where to configure workflow settings to avoid database or workflow issues on your instance.*
 
-* **[Control Panel - Monitor throughputs and latency](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-throughputs-and-latency.html){target="_blank"}**
+* **[Control Panel - Monitor throughputs and latency](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-throughputs-and-latency.html?lang=en){target="_blank"}**
 
   *Learn how to monitor delivery throughputs and transactional message latencies of your campaign instance.*
 
