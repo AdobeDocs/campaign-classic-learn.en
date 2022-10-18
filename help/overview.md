@@ -15,6 +15,8 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 >[!INFO]
 > Do you have questions? Would you like to share your experience or exchange thoughts with your peers? Or, do you have feedback on the learning content for the Adobe team? Join the conversation in the [Adobe Campaign learning community thread](https://experienceleaguecommunities.adobe.com:443/t5/adobe-campaign-classic/join-the-discussion-on-adobe-campaign-learning/td-p/419096)!
 
+<div id="whats-new-section">
+ 
 ## What's New
 
 * **[SMPP protocol deep dive and troubleshooting](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/smpp-deep-dive-and-troubleshooting.html)**
@@ -41,6 +43,17 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
   
   *Learn how to adapt the SMS connector to your SMPP provider. Fine tune your SMS settings to handle connection limits, set up the maximum throughput, the sending window, and encryption with TLS.*
 
+</div>
+
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
+
+<div id="staff-picks-section">
+ 
 ## Staff Picks
 
 <table>
@@ -86,6 +99,8 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
   </td>
 </tr>
 </table>
+
+</div>
 
 ## Additional resources
 
