@@ -5,10 +5,9 @@ sub-product: Campaign Classic
 feature: Overview
 role: User, Admin, Developer
 level: Beginner
-recommendations: noCatalog, noDisplay
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 ---
-# Adobe Campaign Classic V7 Tutorials - Overview
+# Adobe Campaign Classic V7 tutorials
 
 Adobe Campaign provides a platform for designing cross-channel customer experiences and provides an environment for visual campaign orchestration, real time interaction management, and cross channel execution. This user guide contains videos and tutorials on the many features and capabilities of Adobe Campaign Classic V7.
 
@@ -17,30 +16,24 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 
 <div id="whats-new-section">
  
-## What's New
+## What's new
 
 * **[SMPP protocol deep dive and troubleshooting](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/smpp-deep-dive-and-troubleshooting.html)**
-
   *Learn how SMPP connections are established and how SMPP exchanges data through PDUs. Understand how to troubleshoot connections.*
 
 * **[Control Panel for hybrid hosting models](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/control-panel-for-hybrid-hosting-models.html?lang=en)**
-
   *Learn how to enable Control Panel for Adobe Campaign hybrid hosting models, access Control Panel, and unlock key features.*
 
 * **[Control Panel - Monitor workflows](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-workflows.html?lang=en){target="_blank"}**
-  
   *Learn how to monitor your workflows' temporary storage usage and where to configure workflow settings to avoid database or workflow issues on your instance.*
 
 * **[Control Panel - Monitor throughputs and latency](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-throughputs-and-latency.html?lang=en){target="_blank"}**
-
   *Learn how to monitor delivery throughputs and transactional message latencies of your campaign instance.*
 
 * **[Introduction to SMS](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/introduction-to-sms.html)**
-
   *Learn how SMS works and how Adobe Campaign sends SMS*
 
 * **[Set up an SMS account for a standard SMPP provider](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/set-up-account-for-standard-smpp-provider.html)**
-  
   *Learn how to adapt the SMS connector to your SMPP provider. Fine tune your SMS settings to handle connection limits, set up the maximum throughput, the sending window, and encryption with TLS.*
 
 </div>
@@ -54,7 +47,7 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 
 <div id="staff-picks-section">
  
-## Staff Picks
+## Staff picks
 
 <table>
 <tr>
