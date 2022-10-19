@@ -1,6 +1,6 @@
 ---
 title: Adobe Campaign Classic Tutorials - Overview
-description: Adobe Campaign provides a platform for designing cross-channel customer experiences and provides an environment for visual campaign orchestration, real time interaction management, and cross channel execution. This user guide contains videos and tutorials on the many features and capabilities of Adobe Campaign Standard.
+description: Adobe Campaign provides a platform for designing cross-channel customer experiences and provides an environment for visual campaign orchestration, real time interaction management, and Cross-channel Execution. This user guide contains videos and tutorials on the many features and capabilities of Adobe Campaign Standard.
 sub-product: Campaign Classic
 feature: Overview
 role: User, Admin, Developer
@@ -10,7 +10,7 @@ exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 ---
 # Adobe Campaign Classic V7 Tutorials - Overview
 
-Adobe Campaign provides a platform for designing cross-channel customer experiences and provides an environment for visual campaign orchestration, real time interaction management, and cross channel execution. This user guide contains videos and tutorials on the many features and capabilities of Adobe Campaign Classic V7.
+Adobe Campaign provides a platform for designing cross-channel customer experiences and provides an environment for visual campaign orchestration, real time interaction management, and cross-channel execution. This user guide contains videos and tutorials on the many features and capabilities of Adobe Campaign Classic V7.
 
 >[!INFO]
 > Do you have questions? Would you like to share your experience or exchange thoughts with your peers? Or, do you have feedback on the learning content for the Adobe team? Join the conversation in the [Adobe Campaign learning community thread](https://experienceleaguecommunities.adobe.com:443/t5/adobe-campaign-classic/join-the-discussion-on-adobe-campaign-learning/td-p/419096)!
