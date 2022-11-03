@@ -71,7 +71,7 @@ breadcrumb-title: Tutorials
   + [Configure Enrichment activities](/help/automating-with-workflows/enrichment-activity.md)
   + [Data Segmentation](/help/data-management/data-segmentation.md)
   + [Managing approvals](/help/automating-with-workflows/managing-approvals.md)
-  + [Workflow best practices (Customer Showcase)](/help/automating-with-workflows/workflow-best-practices-for-marketers.md)
+  + [Learn from your peers - Workflow best practices](/help/automating-with-workflows/workflow-best-practices-for-marketers.md)
 + Design content{#designing-content}
   + [Configure Landing Pages](/help/designing-content/configure-landingpages.md)
 + Monitor {#monitoring}
