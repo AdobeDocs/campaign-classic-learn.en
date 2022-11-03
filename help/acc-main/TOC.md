@@ -62,14 +62,14 @@ breadcrumb-title: Tutorials
   + [Accessing built-in reports](/help/reporting/accessing-built-in-reports.md)
   + [Generating a descriptive analysis report](/help/reporting/generating-a-descriptive-analysis-report.md)
 + Automate with workflow{#automating-with-workflows}
-  + [Creating a Workflow](/help/automating-with-workflows/creating-a-workflow.md)
+  + [Creating a workflow](/help/automating-with-workflows/creating-a-workflow.md)
   + [Creating a targeting workflow](/help/automating-with-workflows/creating-a-targeting-workflow.md)
   + [Refining targets by combining query results](/help/automating-with-workflows/refining-targets-by-combining-query-results.md)
   + [Refining targets by excluding query results](/help/automating-with-workflows/refining-targets-by-excluding-query-results.md)
   + [Using the update list activity to create a list with a workflow](/help/automating-with-workflows/using-the-update-list-activity.md)
   + [Configuring validation workflows](/help/automating-with-workflows/validation-flow-configuration.md)
-  + [Configure Enrichment activities](/help/automating-with-workflows/enrichment-activity.md)
-  + [Data Segmentation](/help/data-management/data-segmentation.md)
+  + [Configure enrichment activities](/help/automating-with-workflows/enrichment-activity.md)
+  + [Data segmentation](/help/data-management/data-segmentation.md)
   + [Managing approvals](/help/automating-with-workflows/managing-approvals.md)
   + [Learn from your peers - Workflow best practices](/help/automating-with-workflows/workflow-best-practices-for-marketers.md)
 + Design content{#designing-content}
