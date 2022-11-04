@@ -9,7 +9,7 @@ activity: use
 team: TM
 role: User
 level: Beginner
-last-substantial-update: 11/03/2022
+last-substantial-update: 2022-11-03
 ---
 
 # Top 5 Workflow Best Practices for Marketers from LoyaltyOne
