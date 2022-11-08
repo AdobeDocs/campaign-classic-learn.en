@@ -10,8 +10,8 @@ team: TM
 role: User
 level: Beginner
 last-substantial-update: 2022-11-03
+exl-id: 451b1e5d-6c03-454f-904a-65e3e0bce26f
 ---
-
 # Top 5 Workflow Best Practices for Marketers from LoyaltyOne
 
 Workflows, a powerful Adobe Campaign capability, help you manage campaigns and reach customers more effortlessly. Learn and apply five essential workflow best practices for marketers from Adam Wilson, Associate Director of Marketing, at LoyaltyOne.
