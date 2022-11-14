@@ -3,7 +3,7 @@ title: Top 5 Workflow Best Practices for Marketers from LoyaltyOne
 description: Learn and apply five essential workflow best practices for marketers from Adam Wilson, Associate Director of Marketing, at LoyaltyOne.
 feature: Workflows
 kt: 11423
-thumbnail: 3410837
+thumbnail: 3410837.jpg
 doc-type: feature video
 activity: use
 team: TM
