@@ -66,4 +66,3 @@ When trying new things, you don't always get it right the first time. Thus, test
 ## 10. Stay as agile as possible 
 
 The market continues to change and move at an ever-increasing rate. Encouraging your campaign teams to stay as light and agile as possible is critical to compete and continue meeting growing customer expectations. [35% of digital marketing leaders believe that the biggest challenges come from within their organization](https://www.gartner.com/en/newsroom/press-releases/gartner-says-35--of-digital-marketing-leaders-believe-the-bigges). To accomplish this, cross train on a few platforms, boost your understanding of data flows and structure or other Adobe solutions, and create contingency plans for campaigns. This mindset can be achieved in many ways, but an overall commitment to agility and planning is critical to achieving short- and long-term success.
-
