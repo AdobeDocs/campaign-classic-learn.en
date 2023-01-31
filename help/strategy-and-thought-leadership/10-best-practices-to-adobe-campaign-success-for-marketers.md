@@ -5,6 +5,7 @@ doc-type: article
 role: User
 level: Beginner
 kt: 11772
+last-update-author: 20230130
 ---
 
 # Ten best practices for [!DNL Adobe Campaign] success for marketers
