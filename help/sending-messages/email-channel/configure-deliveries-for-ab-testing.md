@@ -8,7 +8,7 @@ activity: use
 team: Customer Care
 role: User
 level: Beginner
-last
+last-substantial-update: 2023-02-01
 ---
 
 # Configure deliveries for A/B testing
