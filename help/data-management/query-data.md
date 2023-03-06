@@ -1,7 +1,6 @@
 ---
 title: Query data
 description: Learn how to query data using the query editor.
-feature: 
 kt: 11924
 doc-type: feature video
 activity: use
