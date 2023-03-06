@@ -78,6 +78,8 @@ breadcrumb-title: Tutorials
 + Monitor {#monitoring}
   + [Workflow Heatmap](/help/monitoring-campaign-classic/workflow-heatmap.md)
   + [Audit Trail](/help/monitoring-campaign-classic/audit-trail.md)
++ Data Management {#data-management}
+  + [Query data](/help/data-management/query-data.md)
 + Integrate {#integrating}
   + [Integrate with Adobe Target](/help/integrations/target-integration.md)
   + [Integrate with Dynamics 365](/help/integrations/dynamics365-integration.md)
