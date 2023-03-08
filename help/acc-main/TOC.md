@@ -71,7 +71,7 @@ breadcrumb-title: Tutorials
   + [Manage time zones](/help/automating-with-workflows/manage-time-zones.md)
   + [Configuring validation workflows](/help/automating-with-workflows/validation-flow-configuration.md)
   + [Configure enrichment activities](/help/automating-with-workflows/enrichment-activity.md)
-  + [Configure scheduler activities](/help/automating-with-workflows/configure-a-scheduler-activity.md)
+  + [Configure scheduler activities](/help/automating-with-workflows/configure-scheduler-activities.md)
   + [Data segmentation](/help/data-management/data-segmentation.md)
   + [Managing approvals](/help/automating-with-workflows/managing-approvals.md)
   + [Learn from your peers - Workflow best practices](/help/automating-with-workflows/workflow-best-practices-for-marketers.md)
