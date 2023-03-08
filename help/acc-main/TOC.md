@@ -68,6 +68,7 @@ breadcrumb-title: Tutorials
   + [Refining targets by combining query results](/help/automating-with-workflows/refining-targets-by-combining-query-results.md)
   + [Refining targets by excluding query results](/help/automating-with-workflows/refining-targets-by-excluding-query-results.md)
   + [Using the update list activity to create a list with a workflow](/help/automating-with-workflows/using-the-update-list-activity.md)
+  + [Manage time zones](/help/automating-with-workflows/manage-time-zones.md)
   + [Configuring validation workflows](/help/automating-with-workflows/validation-flow-configuration.md)
   + [Configure enrichment activities](/help/automating-with-workflows/enrichment-activity.md)
   + [Data segmentation](/help/data-management/data-segmentation.md)
