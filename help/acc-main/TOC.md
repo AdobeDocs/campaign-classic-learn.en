@@ -75,8 +75,9 @@ breadcrumb-title: Tutorials
   + [Data segmentation](/help/data-management/data-segmentation.md)
   + [Managing approvals](/help/automating-with-workflows/managing-approvals.md)
   + [Learn from your peers - Workflow best practices](/help/automating-with-workflows/workflow-best-practices-for-marketers.md)
-+ Design content{#designing-content}
++ Configure Landing Pages {#landing-pages}
   + [Configure Landing Pages](/help/designing-content/configure-landingpages.md)
+  + [Create a preference center](/help/designing-content/create-a-preference-center.md)
 + Monitor {#monitoring}
   + [Workflow Heatmap](/help/monitoring-campaign-classic/workflow-heatmap.md)
   + [Audit Trail](/help/monitoring-campaign-classic/audit-trail.md)
