@@ -53,6 +53,8 @@ breadcrumb-title: Tutorials
   + Fatigue Management{#fatigue-management}
     + [Using typology rules](/help/sending-messages/fatigue-management/typology-rules-for-fatigue-management.md)
     + [Using pre defined filters](/help/sending-messages/fatigue-management/fatigue-management-using-filters.md)
+  + Monitoring Messages {#monitoring-messages}
+    + [Understand quarantine management](/help/sending-messages/quarantine-management.md)
   + [Configuring and managing subscription services](/help/sending-messages/configuring-and-managing-subscription-services.md)
 + Orchestrate campaigns {#orchestration}
   + [Executing a campaign](/help/orchestrating-campaigns/executing-a-campaign.md)
