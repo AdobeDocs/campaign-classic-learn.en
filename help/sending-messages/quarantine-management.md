@@ -2,7 +2,7 @@
 title: Understand quarantine Management 
 description: TUnderstand how quarantine management works in Adobe Campaign and learn how to manage quarantined addresses.
 feature: Deliverability
-kt: 19119
+kt: 11919
 doc-type: feature video
 activity: use
 team: Support
