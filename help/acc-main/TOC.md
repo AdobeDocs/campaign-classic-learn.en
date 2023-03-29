@@ -37,6 +37,7 @@ breadcrumb-title: Tutorials
     + [Configure recurring and continuous email campaigns](/help/sending-messages/recurring-deliveries.md)
     + [Defining Interactive Email Content with AMP](/help/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)
     + [Troubleshooting email delivery issues](/help/sending-messages/email-channel/troubleshooting-email-delivery-issues.md)
+    + [Add attachments to an email delivery](/help/sending-messages/email-channel/add-attachments-to-an-email-delivery.md)
     + [Design emails for deliverability](/help/sending-messages/email-channel/design-emails-for-deliverability.md)
   + SMS Channel {#sms-channel}
     + [Create a SMS delivery](/help/sending-messages/mobile-channel/create-a-sms-delivery.md)
