@@ -35,6 +35,6 @@ The [!UICONTROL Audit Trail] logs and list operator actions, such as creation, m
 
 The video below describes where to access the Audit Trail logs and which settings that can be configured.
 
->[!VIDEO](https://video.tv.adobe.com/v/27425?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27425?quality=12&learn=on)
 
 More information can be found in the  [Audit Trail Documentation](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/audit-trail.html?lang=en).

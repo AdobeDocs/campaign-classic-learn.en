@@ -12,4 +12,4 @@ exl-id: 18b996f2-67f9-425f-a41b-baec564fe08f
 
 Learn how to confirm if the prerequisites are met when installing an SSL certificate.
 
->[!VIDEO](https://video.tv.adobe.com/v/335894?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335894?quality=12&learn=on)

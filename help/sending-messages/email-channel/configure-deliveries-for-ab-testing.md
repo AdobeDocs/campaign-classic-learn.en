@@ -15,4 +15,4 @@ last-substantial-update: 2023-02-01
 
 Learn how to configure a delivery for A/B testing.
 
->[!VIDEO](https://video.tv.adobe.com/v/3415929?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/3415929?quality=12&learn=on)

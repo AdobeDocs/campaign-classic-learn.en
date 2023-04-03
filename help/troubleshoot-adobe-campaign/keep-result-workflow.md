@@ -12,4 +12,4 @@ exl-id: b46a41a5-c439-440d-b492-dc6653ad5011
 
 Learn how to filter for workflows where the "keep result" condition is set to true.
 
->[!VIDEO](https://video.tv.adobe.com/v/335888?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335888?quality=12&learn=on)

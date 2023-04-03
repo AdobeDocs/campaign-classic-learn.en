@@ -14,7 +14,7 @@ exl-id: d54f5cdf-e026-41cb-b5a6-83344bb95125
 
 Adobe Campaign uses workflows to carry out targeting campaigns, build campaigns or execute Adobe Campaign technical processes. In this video we will focus on targeting workflows. Targeting workflows enable you to build several delivery targets.
 
->[!VIDEO](https://video.tv.adobe.com/v/25605?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25605?quality=12&learn=on)
 
 See the documentation [about Workflows](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html)
 and [about targeting activities](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html) for more information.

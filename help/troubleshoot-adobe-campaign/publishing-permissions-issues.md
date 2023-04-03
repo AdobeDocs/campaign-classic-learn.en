@@ -12,4 +12,4 @@ exl-id: 328cdb2a-e889-4bce-ab95-491ad544f060
 
 Learn how to fix publishing errors for non-admin users
 
->[!VIDEO](https://video.tv.adobe.com/v/335979?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335979?quality=12&learn=on)

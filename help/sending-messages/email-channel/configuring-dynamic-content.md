@@ -15,6 +15,6 @@ exl-id: a649e71c-1866-4596-88cf-0ede861c8845
 
 Understand the different types of dynamic content and learn how create and apply personalization blocks and conditional statements to a delivery.
 
->[!VIDEO](https://video.tv.adobe.com/v/329936?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/329936?quality=12&learn=on)
 
 For more information please see the [product documentation](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/conditional-content.html?lang=en).

@@ -20,11 +20,11 @@ Customers are generating data with every channel at their finger tips as they do
 
 Adobe Campaign’s integrated customer profile enables marketers to both capture and manage that data at a grand scale; everything from profile attributes like demographic details “zip code” “address” “gender” etc, to interaction data, “opening of a message”, “click on an email”, “website visit”, into conversion data and even offline data.
 
->[!VIDEO](https://video.tv.adobe.com/v/23629?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23629?quality=12&learn=on)
 
 ## Customer Profile Creation and Update {#customer-profile-creation-and-update}
 
->[!VIDEO](https://video.tv.adobe.com/v/23632?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23632?quality=12&learn=on)
 
 ## Customer Segmentation  {#customer-segmentation}
 
@@ -32,5 +32,5 @@ Once you have understood the profiles, you are ready to do advanced segmentation
 
 Please note: This video was recorded in Adobe Campaign Classic V6, the functionality is exactly the same, however the workflow icons have changed.
 
->[!VIDEO](https://video.tv.adobe.com/v/23635?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23635?quality=12&learn=on)
 

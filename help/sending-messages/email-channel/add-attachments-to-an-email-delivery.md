@@ -15,4 +15,4 @@ last-substantial-update: 2023-03-29
 
 Learn how to add attachments to an email delivery and how to configure different types of email attachments.
 
->[!VIDEO](https://video.tv.adobe.com/v/3415789?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/3415789?quality=12&learn=on)

@@ -13,4 +13,4 @@ last-substantial-update: 2023-03-07
 
 Learn how to apply time zones to scheduled workflow activities.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416040?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/3416040?quality=12&learn=on)

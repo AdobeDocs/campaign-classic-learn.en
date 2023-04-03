@@ -17,4 +17,4 @@ In a multi-channel campaign, a single marketing communication uses multiple chan
 
 Learn how to create a multi-channel campaign using email, SMS, and a direct mail delivery, based on the recipient's preferred channel.
 
->[!VIDEO](https://video.tv.adobe.com/v/24981?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/24981?quality=12&learn=on)

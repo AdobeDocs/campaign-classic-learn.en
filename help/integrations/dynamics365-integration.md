@@ -18,4 +18,4 @@ exl-id: d6ce139f-4d03-477f-94a5-9bab2c7b966c
 
 This video demonstrates how to integrate Dynamics 365 with Adobe Campaign Classic.
 
->[!VIDEO](https://video.tv.adobe.com/v/23837?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23837?quality=12&learn=on)

@@ -12,4 +12,4 @@ exl-id: 58fba53b-c071-4256-94a7-df79f6500e29
 
 Learn how to resolve the issue of the session expiring when approving an offer.
 
->[!VIDEO](https://video.tv.adobe.com/v/335898?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335898?quality=12&learn=on)

@@ -12,4 +12,4 @@ exl-id: 17032587-52c6-48de-89e6-a3ea634d3d63
 
 Learn how to fix errors encountered during console login
 
->[!VIDEO](https://video.tv.adobe.com/v/335896?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335896?quality=12&learn=on)

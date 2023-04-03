@@ -35,11 +35,11 @@ The Administrator must add the user to the Product Profile _Campaign-xxx-Admins_
 
 ### Helpful videos
 
->[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12&learn=on)
 
 *Check IMS Org ID (00:26 min)*
 
->[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12&learn=on)
 
 *How to add an administrator to the product profile administrators to be able to use [!UICONTROL Control panel] (01:03 min)*
 

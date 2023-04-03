@@ -12,4 +12,4 @@ exl-id: a34591be-966f-4b12-834a-a250437f5f4d
 
 Learn how to unpublish a web application in Adobe Campaign.
 
->[!VIDEO](https://video.tv.adobe.com/v/335892?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335892?quality=12&learn=on)

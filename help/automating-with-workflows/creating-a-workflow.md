@@ -16,4 +16,4 @@ Adobe Campaign includes a workflow module that empowers you to orchestrate the f
 
 This video explains how to create a workflow in Adobe Campaign Classic.
 
->[!VIDEO](https://video.tv.adobe.com/v/25559?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25559?quality=12&learn=on)

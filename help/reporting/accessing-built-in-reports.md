@@ -16,4 +16,4 @@ exl-id: 7c550413-4375-47ad-8687-e92195c69c7b
 
 Understand built-in reporting and analysis in Campaign Classic and learn how to generate a delivery report.
 
->[!VIDEO](https://video.tv.adobe.com/v/329935?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/329935?quality=12&learn=on)

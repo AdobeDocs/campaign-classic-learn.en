@@ -16,6 +16,6 @@ The enrichment activity is a workflow object that adds data to the working table
 
 Learn how to configure an enrichment activity based on delivery log information.
 
->[!VIDEO](https://video.tv.adobe.com/v/25193?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25193?quality=12&learn=on)
 
 For more information enrichment, see the [product documentation](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/enrichment.html)

@@ -15,4 +15,4 @@ In a cross-channel campaign, a single marketing communication uses different cha
 
 Learn how to create a cross-channel campaign using email and direct mail deliveries based on the customer's interaction with the first delivery.
 
->[!VIDEO](https://video.tv.adobe.com/v/330990?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/330990?quality=12&learn=on)

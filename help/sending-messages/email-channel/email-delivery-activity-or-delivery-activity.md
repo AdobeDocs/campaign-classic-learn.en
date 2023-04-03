@@ -14,4 +14,4 @@ A [!UICONTROL Delivery-type activity] lets you create a delivery action. It can 
 
 This video explains how to deploy an email delivery template. It explains the difference between an email delivery and a delivery workflow.
 
->[!VIDEO](https://video.tv.adobe.com/v/24065?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/24065?quality=12&learn=on)

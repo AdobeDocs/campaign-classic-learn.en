@@ -16,6 +16,6 @@ exl-id: 21d542e9-c021-4e05-b570-a55cac196c3a
 Approvals enable operators to make decisions governing a workflow or to confirm its continued execution.
 Learn how to set up approvals and a campaign and how to differentiate between delivery and workflow approvals.
 
->[!VIDEO](https://video.tv.adobe.com/v/329605?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/329605?quality=12&learn=on)
 
 To learn more about defining approvals, see the [Product Documentation](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/executing-a-workflow/defining-approvals.html?lang=en#sending-emails).

@@ -16,4 +16,4 @@ exl-id: 0a8f07b1-e663-4c64-9d6e-34dfc5b05517
 
 Understand the key concepts of [!UICONTROL Adobe Campaign] that help you effectively plan, execute, and measure cross-channel marketing campaigns.
 
->[!VIDEO](https://video.tv.adobe.com/v/35131?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/35131?quality=12&learn=on)

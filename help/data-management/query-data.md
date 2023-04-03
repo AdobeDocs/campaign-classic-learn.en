@@ -15,4 +15,4 @@ last-substantial-update: 2023-03-06
 
 Learn how to query data using the query editor.
 
->[!VIDEO](https://video.tv.adobe.com/v/3415814?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/3415814?quality=12&learn=on)

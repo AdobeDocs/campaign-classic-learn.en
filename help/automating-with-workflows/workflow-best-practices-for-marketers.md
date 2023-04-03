@@ -16,4 +16,4 @@ exl-id: 451b1e5d-6c03-454f-904a-65e3e0bce26f
 
 Workflows, a powerful Adobe Campaign capability, help you manage campaigns and reach customers more effortlessly. Learn and apply five essential workflow best practices for marketers from Adam Wilson, Associate Director of Marketing, at LoyaltyOne.
 
->[!VIDEO](https://video.tv.adobe.com/v/3410837?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/3410837?quality=12&learn=on)

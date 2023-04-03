@@ -35,7 +35,7 @@ Before you can begin, you will need to have the following:
 
     The [!DNL Mobile App channel] package needs to be installed on your [!DNL Campaign] instance. The following video explains how to check if the [!DNL Mobile App channel] is installed on your instance and if not, how to install it.
 
->[!VIDEO](https://video.tv.adobe.com/v/326544?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/326544?quality=12&learn=on)
 
 ## Tutorial Overview
 
