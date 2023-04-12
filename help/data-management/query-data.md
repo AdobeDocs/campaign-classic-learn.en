@@ -9,8 +9,8 @@ team: Customer Care
 role: User
 level: Beginner
 last-substantial-update: 2023-03-06
+exl-id: 78a03e83-1546-4832-a6bf-2b35215378e8
 ---
-
 # Query data
 
 Learn how to query data using the query editor.
