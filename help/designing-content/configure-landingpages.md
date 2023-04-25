@@ -9,6 +9,7 @@ team: Customer Care
 role: Developer, Admin
 level: Beginner
 last-substantial-update: 2023-03-10
+exl-id: 78703218-dc38-464a-bbab-f2ba5f715ab3
 ---
 # Configure Landing pages
 
