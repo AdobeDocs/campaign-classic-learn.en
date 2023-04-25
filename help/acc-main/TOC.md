@@ -81,6 +81,7 @@ breadcrumb-title: Tutorials
 + Configure Landing Pages {#landing-pages}
   + [Configure Landing Pages](/help/designing-content/configure-landingpages.md)
   + [Create a preference center](/help/designing-content/create-a-preference-center.md)
++ [Create a survey](/help/designing-content/create-a-survey.md) 
 + Monitor {#monitoring}
   + [Workflow Heatmap](/help/monitoring-campaign-classic/workflow-heatmap.md)
   + [Audit Trail](/help/monitoring-campaign-classic/audit-trail.md)
