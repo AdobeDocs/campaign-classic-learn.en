@@ -26,6 +26,7 @@ breadcrumb-title: Tutorials
 + Send messages{#sending-messages}
   + Email Channel{#email-channel}
     + [Create and design email deliveries](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)
+    + [Design email delivery content](/help/sending-messages/email-channel/design-email-delivery-content.md)
     + [Manage seed and proofs in an email](/help/sending-messages/email-channel/managing-seed-and-proofs.md)
     + [Send and validate proofs](/help/sending-messages/email-channel/send-and-validate-proofs.md)
     + [Use control groups](/help/sending-messages/email-channel/use-control-groups.md)
