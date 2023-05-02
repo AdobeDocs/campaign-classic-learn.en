@@ -1,7 +1,6 @@
 ---
 title: Design email delivery content
-description: Learn how to configure, personalize, and test email delivery content. Understand how to use templates, upload images, and embed bar codes.
-version: Classic v7
+description: Learn how to configure, personalize, and test email delivery content. Understand how to use templates, upload images, add emoticons, and embed bar codes and QR codes.
 feature: Email
 role: User
 level: Beginner
