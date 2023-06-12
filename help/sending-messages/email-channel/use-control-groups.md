@@ -16,3 +16,9 @@ exl-id: e0128b5f-3f09-460b-8524-624edeb27c4f
 Understand the concept of control groups and learn how to use a control group for your delivery.
 
 >[!VIDEO](https://video.tv.adobe.com/v/330955?quality=12&learn=on)
+
+Please refer to the product documentation for more information on:
+
+* [Ho to define a control groups](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/marketing-campaign-target.html?lang=en#defining-a-control-group)
+* [How to define the delivery target population](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/key-steps-when-creating-a-delivery/steps-defining-the-target-population.html?lang=en)
+ 
