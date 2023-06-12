@@ -1,7 +1,7 @@
 ---
 title: Personalizing emails - Create a multilingual newsletter using conditional content
 description: Learn how to add conditional content to a delivery on the example of a multi-lingual newsletter.
-feature: Dynamic Content, Personalization
+feature:  Personalization
 kt: 5922
 thumbnail: 24926.jpg
 doc-type: feature video

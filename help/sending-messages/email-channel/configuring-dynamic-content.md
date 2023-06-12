@@ -1,7 +1,7 @@
 ---
 title: Configuring dynamic content
 description: Understand the different types of dynamic content and learn how create and apply personalization blocks and conditional statements to a delivery.
-feature: Dynamic Content, Personalization, Email
+feature: Personalization, Email
 kt: 6824
 thumbnail: 329936.jpg
 doc-type: feature video
