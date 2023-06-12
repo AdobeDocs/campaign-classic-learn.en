@@ -8,7 +8,7 @@ breadcrumb-title: Tutorials
 
 # Adobe Campaign Classic Tutorials {#tutorials}
 
-+ [Adobe Campaign Classic V7](/help/overview.md)
++ [Adobe Campaign Classic V7 - Tutorials](/help/overview.md)
 + Get started {#getting-started}
   + [Introduction to Adobe Campaign Classic](/help/getting-started/introduction-to-adobe-campaign-classic.md)
   + [Install and setup the Adobe Campaign client](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
