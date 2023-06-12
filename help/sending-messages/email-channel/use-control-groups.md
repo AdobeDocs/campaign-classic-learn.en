@@ -18,5 +18,5 @@ Understand the concept of control groups and learn how to use a control group fo
 >[!VIDEO](https://video.tv.adobe.com/v/330955?quality=12&learn=on)
 
 >[!IMPORTANT]
->If there are multiple deliveries in the targeting workflow, you need to enable the control group settings on the delivery level and in campaign settings. 
+>If there are multiple deliveries in the targeting workflow, you need to enable the control group settings on the delivery level as well as in the campaign settings. 
 >Please refer to the product documentation for more information on [how to define a control groups](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/marketing-campaign-target.html?lang=en#defining-a-control-group){target="_blank"} and [the delivery target population](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/key-steps-when-creating-a-delivery/steps-defining-the-target-population.html?lang=en){target="_blank"} 
