@@ -2,7 +2,7 @@
 title: Deploying an ad-hoc email delivery template in Adobe Campaign Classic
 description: Learn how to deploy an ad-hoc email delivery template and understand the difference between an email delivery and a delivery workflow. 
 feature: Delivery Templates
-kt: 1565
+jira: KT-1565
 thumbnail: 24065.jpg
 doc-type: feature video
 activity: use

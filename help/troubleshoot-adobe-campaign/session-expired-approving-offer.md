@@ -5,7 +5,7 @@ feature: Task Management
 role: Admin
 level: Experienced
 type: Troubleshooting
-kt: 8394
+jira: KT-8394
 exl-id: 58fba53b-c071-4256-94a7-df79f6500e29
 ---
 # Session expires when approving an offer 

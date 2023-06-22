@@ -2,7 +2,7 @@
 title: Create a preference center
 description: Learn how to create a preference center using  Adobe Campaign's web application editor.
 feature: Landing Pages
-kt: 1562
+jira: KT-1562
 thumbnail: 25041.jpg
 doc-type: feature video
 activity: setup

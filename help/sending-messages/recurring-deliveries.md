@@ -2,7 +2,7 @@
 title: Configure recurring and continuous email campaigns
 description: Learn how to set up a recurring and a continuous delivery and understand the differences between the two approaches.
 feature: Workflows, Campaigns
-kt: 1560
+jira: KT-1560
 doc-type: feature video
 activity: use
 team: TM

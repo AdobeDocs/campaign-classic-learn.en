@@ -2,7 +2,7 @@
 title: How to personalize emails using dynamic content blocks
 description: This tutorial demonstrated how to personalize delivery content, use JavaScript code in delivery templates, and standardize and share content blocks in different delivery templates.
 feature: Personalization
-kt: 1559
+jira: KT-1559
 doc-type: feature video
 activity: use
 team: TM

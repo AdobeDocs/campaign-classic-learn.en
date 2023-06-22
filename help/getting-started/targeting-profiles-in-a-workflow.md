@@ -2,7 +2,7 @@
 title: How to target profiles in a workflow
 description: Understand the use of campaign workflows and learn how to create a workflow and target profiles in a workflow using filtering conditions.
 feature: Workflows
-kt: 5080
+jira: KT-5080
 thumbnail: 35614.jpg
 doc-type: feature video
 activity: use

@@ -2,7 +2,7 @@
 title: Difference between multi-channel and cross-channel campaigns
 description: Understand the difference between multi-channel and cross-channel campaign and what the use cases for multi-channel and cross-channel campaigns are.
 feature: Cross Channel Orchestration
-kt: 7018
+jira: KT-7018
 thumbnail: 330984.jpg
 doc-type: feature video
 activity: use

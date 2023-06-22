@@ -2,7 +2,7 @@
 title: Managing marketing fatigue with pressure rules
 description: Learn  how to implement fatigue management in Adobe Campaign Classic by using filters.
 feature: Fatigue Management, Typology Rules
-kt: 2148
+jira: KT-2148
 doc-type: feature video
 activity: use
 team: TM

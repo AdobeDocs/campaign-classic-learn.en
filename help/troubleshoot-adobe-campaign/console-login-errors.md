@@ -5,7 +5,7 @@ feature: Client Console
 role: Admin
 level: Experienced
 type: Troubleshooting
-kt: 8392
+jira: KT-8392
 exl-id: 17032587-52c6-48de-89e6-a3ea634d3d63
 ---
 # Fix console login errors

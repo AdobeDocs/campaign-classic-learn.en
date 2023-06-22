@@ -5,7 +5,7 @@ feature: Email
 role: Admin
 level: Experienced
 type: Troubleshooting
-kt: 8425
+jira: KT-8425
 exl-id: c21a4521-c207-43ad-9dfc-ea64b377e440
 ---
 # Disabled messages triggering e-mails

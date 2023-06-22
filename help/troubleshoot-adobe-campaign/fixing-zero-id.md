@@ -5,7 +5,7 @@ feature: Query Editor
 role: Admin
 level: Experienced
 type: Troubleshooting
-kt: 8430
+jira: KT-8430
 exl-id: 62b8b245-944e-40ce-8cae-a052cf96c99f
 ---
 # Fix zero id record error

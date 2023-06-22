@@ -5,7 +5,7 @@ feature: Task Management
 role: Admin
 level: Experienced
 type: Troubleshooting
-kt: 8418
+jira: KT-8418
 exl-id: 2e753b90-5e1a-498d-8cac-835791fc8be5
 ---
 # Fetching Delivery XML Data

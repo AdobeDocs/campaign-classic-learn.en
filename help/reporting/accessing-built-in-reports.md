@@ -2,7 +2,7 @@
 title: Accessing built-in reports
 description: Understand built-in reporting and analysis and learn how to generate a delivery report.
 feature: Reporting
-kt: 5090
+jira: KT-5090
 thumbnail: 329935.jpg
 doc-type: feature video
 activity: use

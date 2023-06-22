@@ -4,7 +4,7 @@ description: Learn how to troubleshoot out of memory error for on-premise instal
 role: Admin
 level: Experienced
 type: Troubleshooting
-kt: 8386
+jira: KT-8386
 exl-id: 36332542-5647-4485-a73a-c0c8b5229494
 ---
 # Out of memory error for on-premise installations

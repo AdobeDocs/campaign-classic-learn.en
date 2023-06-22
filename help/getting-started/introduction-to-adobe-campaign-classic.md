@@ -2,7 +2,7 @@
 title: Introduction to Adobe Campaign Classic
 description: Understand how Adobe Campaign Classic fits into the Adobe Digital Experience portfolio and get an overview over its primary features and capabilities.
 feature: Overview
-kt: 5457
+jira: KT-5457
 thumbnail: 35129.jpg
 doc-type: feature video
 activity: understand

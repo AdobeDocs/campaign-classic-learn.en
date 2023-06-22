@@ -2,7 +2,7 @@
 title: How to send and validate a proof
 description: Learn how to send and validate a proof.
 feature: Email, Proofs
-kt: 5094
+jira: KT-5094
 thumbnail: 330945.jpg
 doc-type: feature video
 activity: use

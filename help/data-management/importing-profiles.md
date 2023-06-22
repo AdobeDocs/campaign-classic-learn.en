@@ -2,7 +2,7 @@
 title: How to import profiles
 description: Learn how to import profiles in Adobe Campaign Classic
 feature: Profiles
-kt: 2176
+jira: KT-2176
 doc-type: feature video
 activity: use
 team: TM

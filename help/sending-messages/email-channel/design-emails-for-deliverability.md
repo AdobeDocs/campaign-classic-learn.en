@@ -2,7 +2,7 @@
 title: How do I ensure deliverability when designing emails?
 description: Learn how to apply deliverability best practices.
 feature: Email, Deliverability
-kt: 5095
+jira: KT-5095
 thumbnail: 330943.jpg
 doc-type: feature video
 activity: understand

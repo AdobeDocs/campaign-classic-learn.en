@@ -2,7 +2,7 @@
 title: Configure Landing pages
 description: Learn how to create and configure landing pages.
 feature: Landing Pages
-kt: 11918
+jira: KT-11918
 thumbnail: 3415819
 activity: setup
 team: Customer Care

@@ -2,7 +2,7 @@
 title: Setting delivery template properties in Adobe Campaign Classic
 description: Learn how to configure the delivery template properties.
 feature: Delivery Templates
-kt: 1981
+jira: KT-1981
 thumbnail: 24067.jpg
 doc-type: feature video
 activity: use

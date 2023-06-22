@@ -2,7 +2,7 @@
 title: Creating a targeting workflow
 description: Learn how to define  several delivery targets using a  targeting workflows.
 feature: Workflows, Targeting Activity, Query Editor
-kt: 2174
+jira: KT-2174
 doc-type: feature video
 activity: use
 team: DOC

@@ -4,7 +4,7 @@ description:  Learn how to access profile data, sort and filter profiles, and ma
 landing-page-description: Understand the concept of profiles. Learn how to access profile data, sort and filter profiles and manually create and manage profiles. Learn about GDPR and CCPA.
 short-description: Understand the concept of profiles. Learn how to access profile data, sort and filter profiles and manually create and manage profiles. Learn about GDPR and CCPA.
 feature: Profiles
-kt: 5081
+jira: KT-5081
 thumbnail: 35611.jpg
 doc-type: feature video
 activity: use

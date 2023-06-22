@@ -2,7 +2,7 @@
 title: Configuring and managing subscription services
 description: Learn how to setup and manage subscriptions and target subscribers.
 feature: Subscriptions     
-kt: 5088
+jira: KT-5088
 thumbnail: 329941.jpg
 doc-type: feature video
 activity: use

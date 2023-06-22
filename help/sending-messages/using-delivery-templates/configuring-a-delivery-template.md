@@ -2,7 +2,7 @@
 title: Configuring a delivery template in Adobe Campaign Classic
 description: Learn how to configure a template for an ad hoc delivery.
 feature: Delivery Templates
-kt: 1980
+jira: KT-1980
 thumbnail: 24066.jpg
 doc-type: feature video
 activity: use

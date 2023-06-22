@@ -2,7 +2,7 @@
 title: How to create a marketing plan, programs, and campaigns
 description: Understand the key concepts of Adobe Campaign that help effectively plan, execute, and measure cross-channel marketing campaigns.
 feature: Campaigns
-kt: 5347
+jira: KT-5347
 thumbnail: 35132.jpg
 doc-type: feature video
 activity: understand

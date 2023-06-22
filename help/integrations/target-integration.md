@@ -4,7 +4,7 @@ description: Learn how to personalize a delivery with dynamic content served fro
 feature: Target Integration
 role: User
 level: Beginner, Intermediate, Experienced
-kt: 9601
+jira: KT-9601
 thumbnail: 341030.jpg
 exl-id: 1338427d-d75e-4480-9377-f8e68e067364
 ---

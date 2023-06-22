@@ -5,7 +5,7 @@ feature: Web Apps
 role: Admin
 level: Experienced
 type: Troubleshooting
-kt: 8387
+jira: KT-8387
 exl-id: a34591be-966f-4b12-834a-a250437f5f4d
 ---
 # Unpublish a web application

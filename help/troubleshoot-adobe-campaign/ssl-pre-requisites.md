@@ -5,7 +5,7 @@ feature: Subdomains and Certificates
 role: Admin
 level: Experienced
 type: Troubleshooting
-kt: 8389
+jira: KT-8389
 exl-id: 18b996f2-67f9-425f-a41b-baec564fe08f
 ---
 # Prerequisites for configuring Adobe Campaign with SSL 

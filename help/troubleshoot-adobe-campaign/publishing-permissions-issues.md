@@ -5,7 +5,7 @@ feature: Email
 role: Admin
 level: Experienced
 type: Troubleshooting
-kt: 8423
+jira: KT-8423
 exl-id: 328cdb2a-e889-4bce-ab95-491ad544f060
 ---
 # Fix publishing errors 

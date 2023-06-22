@@ -1,7 +1,7 @@
 ---
 title: Query data
 description: Learn how to query data using the query editor.
-kt: 11924
+jira: KT-11924
 doc-type: feature video
 activity: use
 feature: Data Management

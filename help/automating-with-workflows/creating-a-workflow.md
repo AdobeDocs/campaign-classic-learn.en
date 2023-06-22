@@ -2,7 +2,7 @@
 title: Creating a workflow
 description: This video explains how to create a workflow.
 feature: Workflows
-kt: 2175
+jira: KT-2175
 doc-type: feature video
 activity: use
 team: DOC

@@ -2,7 +2,7 @@
 title: How to manage seed and proofs in an email
 description: Learn how to add seeds and proofs to an existing email and how to send it.
 feature: Email, Seed Address, Proofs
-kt: 2178
+jira: KT-2178
 thumbnail: 25606.jpg
 doc-type: feature video
 activity: use

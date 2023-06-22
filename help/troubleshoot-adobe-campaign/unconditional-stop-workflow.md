@@ -5,7 +5,7 @@ feature: Workflows
 role: Admin
 level: Experienced
 type: Troubleshooting
-kt: 8382
+jira: KT-8382
 exl-id: ba021df4-7dc3-4b3e-a03b-6f748d27cacd
 ---
 # Unconditional stop in campaign workflow

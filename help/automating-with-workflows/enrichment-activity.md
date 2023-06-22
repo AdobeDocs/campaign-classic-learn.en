@@ -2,7 +2,7 @@
 title: How to configure enrichment activities
 description: Learn how to configure an enrichment activity based on delivery log information.
 feature: Workflows, Enrichment Activity
-kt: 1561
+jira: KT-1561
 doc-type: feature video
 activity: use
 team: TM

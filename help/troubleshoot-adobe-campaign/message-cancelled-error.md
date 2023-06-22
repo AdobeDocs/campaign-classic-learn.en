@@ -5,7 +5,7 @@ feature: Email
 role: Admin
 level: Experienced
 type: Troubleshooting
-kt: 8391
+jira: KT-8391
 exl-id: e22d0976-a668-4dfd-99fc-1aa586a8632d
 ---
 # Debugging message cancelled error in a delivery

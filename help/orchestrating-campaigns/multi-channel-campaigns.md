@@ -2,7 +2,7 @@
 title: Create multi-channel campaigns
 description: Learn how to create a multi-channel campaign using email, SMS, and a direct mail delivery, based on the recipient's preferred channel.
 feature: Cross Channel Orchestration
-kt: 1563
+jira: KT-1563
 thumbnail: 24981.jpg
 doc-type: feature video
 activity: use

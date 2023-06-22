@@ -4,7 +4,7 @@ description: Learn how to fix load balancer issues encountered during instance r
 role: Admin
 level: Experienced
 type: Troubleshooting
-kt: 8428
+jira: KT-8428
 exl-id: 9cce6bfa-26e8-416a-bf98-96cd9b5d02ed
 ---
 # Load balancer issues

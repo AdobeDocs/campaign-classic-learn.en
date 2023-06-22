@@ -2,7 +2,7 @@
 title: Big data management on Snowflake
 description: Learn how to leverage the Snowflake connector in Adobe Campaign Classic
 feature: Federated Data Access, Data Management
-kt: 4405
+jira: KT-4405
 doc-type: feature video
 activity: use
 team: PM

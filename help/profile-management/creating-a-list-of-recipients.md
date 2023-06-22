@@ -2,7 +2,7 @@
 title: Creating a list of recipients
 description: Learn how to create an audience by configuring a list of recipients from the Explorer.
 feature: Audiences, Profiles
-kt: 2171
+jira: KT-2171
 thumbnail: 25602.jpg
 doc-type: feature video
 activity: setup

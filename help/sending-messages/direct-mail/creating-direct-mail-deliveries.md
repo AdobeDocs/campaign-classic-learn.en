@@ -2,7 +2,7 @@
 title: Creating direct mail deliveries
 description: Learn how to create, format, and execute a direct mail delivery.
 feature: Direct Mail
-kt: 3859
+jira: KT-3859
 thumbnail: 21377.jpg
 doc-type: feature video
 activity: set-up

@@ -2,7 +2,7 @@
 title: Configure deliveries for A/B testing
 description: Learn how to configure a delivery for A/B testing.
 feature: A/B Testing
-kt: 11910
+jira: KT-11910
 doc-type: feature video
 activity: use
 team: Customer Care

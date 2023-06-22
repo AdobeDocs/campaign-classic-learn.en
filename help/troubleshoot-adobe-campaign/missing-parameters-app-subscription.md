@@ -5,7 +5,7 @@ feature: Subscriptions
 role: Admin
 level: Experienced
 type: Troubleshooting
-kt: 8419
+jira: KT-8419
 exl-id: 9fd5ed20-a190-4759-84b6-fe7d08e61ea1
 ---
 # Add missing parameters to the mobile application subscription
