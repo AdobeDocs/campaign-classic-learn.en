@@ -2,6 +2,7 @@
 title: Ten best practices for Adobe Campaign success for marketers
 description: Learn the ten best practices to help Adobe Campaign practitioners unlock and accelerate the digital consumer transformation and a better experience for their customers.
 doc-type: article
+feature: Personalization, Campaigns, Subscriptions, Deliverability
 role: User
 level: Beginner
 jira: KT-11772
@@ -43,7 +44,7 @@ Just like your customers, you have a daily routine. The sending and orchestratio
 
 For example, if your customers are checking their phone in the morning for the best deals, consider texting them a promotion. If they are browsing at night for the next hot trend, consider sending a follow-up email with a promo code for free shipping. It's also important to use the heat map tool in [!DNL Campaign] to track when your workflows and sends are executing. Coordinating and facilitating communications across multiple brands can be challenging. [Keeping an eye on and knowing the rhythm, cadence, and timing of your emails](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic-blogs/predictive-send-time-optimization-with-adobe-campaign/ba-p/561554) are invaluable to overall stability and strength of your message and Campaign instance. 
   
-## 4. Use Personalization where it matters 
+## 4. Use personalization where it matters 
 
 Nowadays, consumers expect some level of personalization in the messages they receive. [80% of customers are more likely to purchase from a brand that provides personalized experiences](https://us.epsilon.com/power-of-me). Their name in the subject line is great. However, personalization can go much further. You can include the products they have browsed, connect them with similar products, or continue to reinforce the cohesive experience and look-and-feel of your brand. Every bit counts and drives engagement and open rates of your messages.  
 
