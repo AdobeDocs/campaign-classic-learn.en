@@ -6,6 +6,8 @@ jira: KT-7018
 thumbnail: 330984.jpg
 doc-type: feature video
 activity: use
+role: User
+level: Beginner
 team: TM
 exl-id: e715497a-bd61-458c-ac7d-365f210a2fd9
 ---
