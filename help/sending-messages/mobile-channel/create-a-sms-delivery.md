@@ -4,6 +4,7 @@ description: Learn how to create a SMS delivery.
 feature: SMS
 jira: KT-5083
 thumbnail: 330982.jpg
+role: User
 doc-type: feature video
 activity: use
 team: WWFRE
