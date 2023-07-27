@@ -1,5 +1,5 @@
 ---
-title: Integrate with Adobe Target
+title: Integrate Campaign Classic V7 with Adobe Target
 description: Learn how to personalize a delivery with dynamic content served from Adobe Target.
 feature: Target Integration
 role: User
@@ -7,8 +7,9 @@ level: Beginner, Intermediate, Experienced
 jira: KT-9601
 thumbnail: 341030.jpg
 exl-id: 1338427d-d75e-4480-9377-f8e68e067364
+badgeIntegration: label="Integration" type="positive"
 ---
-# Integrate with Adobe Target
+# Integrate Campaign Classic V7 with Adobe Target
 
 Learn how to personalize a delivery with dynamic content served from Adobe Target.
 
