@@ -1,6 +1,6 @@
 ---
 cloud: Experience Cloud
-product: adobe campaign
+product: Adobe Campaign
 type: Tutorial
 solution: Campaign, Campaign Classic v7
 version: Classic v7
