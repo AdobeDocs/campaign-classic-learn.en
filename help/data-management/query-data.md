@@ -15,4 +15,4 @@ exl-id: 78a03e83-1546-4832-a6bf-2b35215378e8
 
 Learn how to query data using the query editor.
 
->[!VIDEO](https://video.tv.adobe.com/v/3415814?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3415814?quality=12&learn=on){transcript=true}

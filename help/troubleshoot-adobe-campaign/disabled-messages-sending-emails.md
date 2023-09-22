@@ -11,4 +11,4 @@ exl-id: c21a4521-c207-43ad-9dfc-ea64b377e440
 # Disabled messages triggering e-mails
 
 Learn how to stop e-mails from disabled messaged
->[!VIDEO](https://video.tv.adobe.com/v/335981?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335981?quality=12&learn=on){transcript=true}

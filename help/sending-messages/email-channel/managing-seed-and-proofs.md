@@ -15,4 +15,4 @@ exl-id: a10824f4-c2ea-4c9a-bbf4-3290a96a0de8
 
 Learn how to add seeds and proofs to an existing email and how to send it.
 
->[!VIDEO](https://video.tv.adobe.com/v/25606?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/25606?quality=12&learn=on){transcript=true}

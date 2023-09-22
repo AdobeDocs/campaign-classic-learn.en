@@ -16,4 +16,4 @@ exl-id: 521b970a-55eb-498f-9350-3fd7546bf1df
 
 This lesson explains the main Adobe Campaign Classic user interface and shows you how to navigate the main functionality.
 
->[!VIDEO](https://video.tv.adobe.com/v/35130?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35130?quality=12&learn=on){transcript=true}

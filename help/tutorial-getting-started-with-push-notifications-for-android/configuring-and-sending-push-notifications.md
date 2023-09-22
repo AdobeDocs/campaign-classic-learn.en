@@ -15,7 +15,7 @@ exl-id: 42adcaca-248f-4637-88c4-f9d24cd26dd6
 
 Learn how to configure and send a [!DNL push] notification to users of an [!DNL Android] applications.
 
->[!VIDEO](https://video.tv.adobe.com/v/328154?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/328154?quality=12&learn=on){transcript=true}
 
 **Previous Step**
 

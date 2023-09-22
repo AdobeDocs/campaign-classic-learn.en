@@ -15,6 +15,6 @@ exl-id: 018e36bc-1afc-42c0-a459-4d51775ff6f8
 
 Understand the process of creating an email delivery and learn how to design and personalize email content.
 
->[!VIDEO](https://video.tv.adobe.com/v/330941?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/330941?quality=12&learn=on){transcript=true}
 
 For more information please see the [product documentation](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/sending-emails/defining-the-email-content.html)

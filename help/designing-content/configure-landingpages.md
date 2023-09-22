@@ -15,6 +15,6 @@ exl-id: 78703218-dc38-464a-bbab-f2ba5f715ab3
 
 Learn how to create and configure landing pages.
 
->[!VIDEO](https://video.tv.adobe.com/v/3415819/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3415819/?quality=12&learn=on){transcript=true}
 
 For more information see the detailed documentation on [Creating a landing page](https://experienceleague.adobe.com/docs/campaign-classic/using/designing-content/editing-html-content/creating-a-landing-page.html).

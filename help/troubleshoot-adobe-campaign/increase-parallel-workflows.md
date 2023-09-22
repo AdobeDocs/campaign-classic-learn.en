@@ -12,4 +12,4 @@ exl-id: 9a31159a-ffc0-41d2-8c3b-68a5d6f77fc4
 
 Learn how to increase the number of campaign workflows that can run on the instance in parallel.
 
->[!VIDEO](https://video.tv.adobe.com/v/335982?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335982?quality=12&learn=on){transcript=true}

@@ -15,4 +15,4 @@ exl-id: a362a627-9812-4753-a5de-8eb97ea1b606
 
 Learn how to troubleshoot email delivery issues in Campaign.
 
->[!VIDEO](https://video.tv.adobe.com/v/329920?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/329920?quality=12&learn=on){transcript=true}

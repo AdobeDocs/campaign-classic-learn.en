@@ -15,7 +15,7 @@ exl-id: 2df2986e-00f7-40fb-b37e-09fb3de9d710
 
 Learn how to apply deliverability best practices to your Campaign.
 
->[!VIDEO](https://video.tv.adobe.com/v/330943?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/330943?quality=12&learn=on){transcript=true}
 
 ## Additional resources
 

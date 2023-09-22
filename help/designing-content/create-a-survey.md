@@ -15,4 +15,4 @@ exl-id: 21a2036b-469c-4724-a9c8-b1ab6d7389a5
 
 Learn how to create a survey in Adobe Campaign Classic.
 
->[!VIDEO](https://video.tv.adobe.com/v/3415810/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3415810/?learn=on){transcript=true}

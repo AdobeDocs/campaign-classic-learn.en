@@ -23,18 +23,18 @@ This tutorial demonstrated how to personalize delivery content, use JavaScript c
 
 A personalization block is dynamic and contains specific rendering code that can be added to deliveries. For example, you can add images, email headers, email footers, mirror page links, unsubscription links, and much more.
 
->[!VIDEO](https://video.tv.adobe.com/v/24924?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/24924?quality=12&learn=on){transcript=true}
 
 ## Add a Personalization Field to a Delivery
 
 Personalization fields are used for first-level personalization of the content of delivered messages. The fields you insert in a main content show the position where to insert the data from the selected data source.
 
->[!VIDEO](https://video.tv.adobe.com/v/24925?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/24925?quality=12&learn=on){transcript=true}
 
 ## Add conditional content to a delivery
 
 By configuring conditional content fields, you can create advanced personalization. Complete text blocks and/or images are replaced when a particular condition is satisfied. This video demonstrated how to add conditional content to a delivery on the example of a multi-lingual newsletter.
 
->[!VIDEO](https://video.tv.adobe.com/v/24926?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/24926?quality=12&learn=on){transcript=true}
 
 To learn more about Personalization, see the [product documentation](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=en).

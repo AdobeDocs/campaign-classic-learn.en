@@ -12,4 +12,4 @@ exl-id: 62b8b245-944e-40ce-8cae-a052cf96c99f
 
 Learn how to fix the issue of zero (0) id
 
->[!VIDEO](https://video.tv.adobe.com/v/335987?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335987?quality=12&learn=on){transcript=true}

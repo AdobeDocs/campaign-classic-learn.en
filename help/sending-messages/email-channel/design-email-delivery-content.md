@@ -14,4 +14,4 @@ thumbnail: 3419047.jpeg
 
 Learn how to configure, personalize, and test email delivery content. Understand how to use templates, upload images, add emoticons, and embed bar codes and QR codes.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419047/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3419047?learn=on){transcript=true}

@@ -13,7 +13,7 @@ badgeIntegration: label="Integration" type="positive"
 
 Learn how to personalize a delivery with dynamic content served from Adobe Target.
 
->[!VIDEO](https://video.tv.adobe.com/v/341030?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/341030?quality=12&learn=on){transcript=true}
 
 >[!NOTE]
 > The video has been recorded in Campaign V8, the functionality is the same for both Campaign Classic V7 and Campaign V8.

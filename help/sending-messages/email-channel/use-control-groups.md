@@ -15,7 +15,7 @@ exl-id: e0128b5f-3f09-460b-8524-624edeb27c4f
 
 Understand the concept of control groups and learn how to use a control group for your delivery.
 
->[!VIDEO](https://video.tv.adobe.com/v/330955?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/330955?quality=12&learn=on){transcript=true}
 
 >[!IMPORTANT]
 >If there are multiple deliveries in the targeting workflow, you need to enable the control group settings on the delivery level as well as in the campaign settings. 

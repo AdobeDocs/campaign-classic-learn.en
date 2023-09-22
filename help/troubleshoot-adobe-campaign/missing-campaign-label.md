@@ -11,4 +11,4 @@ exl-id: 3bb6e76e-9a19-4e7a-a82e-28d0b232be46
 
 Learn how to fix missing campaign label in Analytics
 
->[!VIDEO](https://video.tv.adobe.com/v/335983?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335983?quality=12&learn=on){transcript=true}

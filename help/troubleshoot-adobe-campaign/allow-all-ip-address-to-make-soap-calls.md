@@ -13,4 +13,4 @@ exl-id: cc624d6a-40a2-4566-8cfc-ebd83f12ff9d
 
 Understand how to enable IP address to make SOAP requests
 
->[!VIDEO](https://video.tv.adobe.com/v/335978?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335978?quality=12&learn=on){transcript=true}

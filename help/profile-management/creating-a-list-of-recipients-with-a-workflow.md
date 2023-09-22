@@ -15,4 +15,4 @@ exl-id: 101e32c1-6a70-49a6-b987-6aa55de3e72a
 
 Learn how create a workflow in order to target recipients and how to make it recurring before using the list in an email target.
 
->[!VIDEO](https://video.tv.adobe.com/v/25603?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/25603?quality=12&learn=on){transcript=true}

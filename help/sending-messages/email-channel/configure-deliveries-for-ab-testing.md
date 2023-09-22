@@ -15,4 +15,4 @@ exl-id: 3c2b2eb0-7f06-4e9f-8a94-cc26729dc9b1
 
 Learn how to configure a delivery for A/B testing.
 
->[!VIDEO](https://video.tv.adobe.com/v/3415929?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3415929?quality=12&learn=on){transcript=true}

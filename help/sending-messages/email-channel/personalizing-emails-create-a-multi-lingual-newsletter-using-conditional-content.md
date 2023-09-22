@@ -17,6 +17,6 @@ By configuring conditional content fields, you can create advanced personalizati
 
 Learn how to add conditional content to a delivery on the example of a multi-lingual newsletter.
 
->[!VIDEO](https://video.tv.adobe.com/v/24926?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/24926?quality=12&learn=on){transcript=true}
 
 To learn more about personalization, see the [product documentation](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html).

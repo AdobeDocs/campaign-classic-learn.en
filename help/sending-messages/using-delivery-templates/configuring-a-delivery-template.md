@@ -27,4 +27,4 @@ A template can systematically include:
 
 The following video demonstrates how to configure a template for an ad hoc delivery.
 
->[!VIDEO](https://video.tv.adobe.com/v/24066?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/24066?quality=12&learn=on){transcript=true}

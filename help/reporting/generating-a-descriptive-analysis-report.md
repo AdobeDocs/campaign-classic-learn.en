@@ -16,4 +16,4 @@ exl-id: cc9e256f-67bb-4bb3-aa24-da5de70fc776
 
 Learn how to generate a [!UICONTROL descriptive analysis report] from a workflow.
 
->[!VIDEO](https://video.tv.adobe.com/v/35616?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35616?quality=12&learn=on){transcript=true}

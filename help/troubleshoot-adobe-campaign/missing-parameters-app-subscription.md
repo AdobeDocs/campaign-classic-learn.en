@@ -12,4 +12,4 @@ exl-id: 9fd5ed20-a190-4759-84b6-fe7d08e61ea1
 
 Learn how add additional parameters to the app subscription RCP if they are not populating.
 
->[!VIDEO](https://video.tv.adobe.com/v/335950?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335950?quality=12&learn=on){transcript=true}

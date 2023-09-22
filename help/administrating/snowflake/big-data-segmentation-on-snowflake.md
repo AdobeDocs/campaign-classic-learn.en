@@ -24,6 +24,6 @@ You will learn how to
 * Search and report on the data
 * How to export data in lists and create real-tie targeting filters
 
->[!VIDEO](https://video.tv.adobe.com/v/31588?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/31588?quality=12&learn=on){transcript=true}
 
 For more information on how to configure access to Snowflake see the [product documentation](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/accessing-external-database/configure-fda/config-databases/configure-fda-snowflake.html?lang=en#installing-campaign-classic).

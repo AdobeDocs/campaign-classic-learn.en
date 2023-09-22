@@ -13,4 +13,4 @@ exl-id: 6cd10717-87ed-4ae0-8ccf-ff8881315b23
 
 Learn how to configure a scheduler activity in a workflow.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416037?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416037?quality=12&learn=on){transcript=true}

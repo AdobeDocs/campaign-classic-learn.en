@@ -15,4 +15,4 @@ exl-id: 1da9b462-7cfe-48e2-9a84-6a070e4d305a
 
 The following video shows how to set the delivery template properties and explains each property in detail.
 
->[!VIDEO](https://video.tv.adobe.com/v/24067?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/24067?quality=12&learn=on){transcript=true}

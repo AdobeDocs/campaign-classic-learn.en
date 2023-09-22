@@ -15,5 +15,5 @@ exl-id: 078bd5d2-e441-4af5-b81c-89a1892601e3
 
 Understand the concept of lists in Adobe Campaign Classic and learn how to create a list using the update list activity in a workflow.
 
->[!VIDEO](https://video.tv.adobe.com/v/35620?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35620?quality=12&learn=on){transcript=true}
 

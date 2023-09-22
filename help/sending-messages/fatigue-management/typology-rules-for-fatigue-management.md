@@ -18,6 +18,6 @@ Typology rules allow marketers to standardize business practices across all deli
 
 This video explains how to implement fatigue management in Adobe Campaign Classic by applying typology rules.
 
->[!VIDEO](https://video.tv.adobe.com/v/25090?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/25090?quality=12&learn=on){transcript=true}
 
 Visit the product documentation to learn more about [campaign typologies](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html?lang=en).

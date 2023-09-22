@@ -15,4 +15,4 @@ exl-id: 2345999f-074d-4456-a967-b9fd9760a328
 
 Learn how to add attachments to an email delivery and how to configure different types of email attachments.
 
->[!VIDEO](https://video.tv.adobe.com/v/3415789?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3415789?quality=12&learn=on){transcript=true}

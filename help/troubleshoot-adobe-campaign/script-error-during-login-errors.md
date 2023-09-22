@@ -12,4 +12,4 @@ exl-id: 32caed73-2410-4b55-8820-bf9d149250a6
 
 Learn how to fix errors or warnings shown during the process of login into Adobe Campaign.
 
->[!VIDEO](https://video.tv.adobe.com/v/335975?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335975?quality=12&learn=on){transcript=true}

@@ -15,4 +15,4 @@ exl-id: 3bd6a4cf-95ae-4f4a-b53a-ac04a29843f7
 
 Learn how to refine your target by combining query results in a workflow using the **[!UICONTROL intersection]** or the **[!UICONTROL union]** activities.
 
->[!VIDEO](https://video.tv.adobe.com/v/36832?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/36832?quality=12&learn=on){transcript=true}
