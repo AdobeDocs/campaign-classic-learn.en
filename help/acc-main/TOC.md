@@ -41,6 +41,8 @@ auto-video-transcripts: true
     + [Troubleshooting email delivery issues](/help/sending-messages/email-channel/troubleshooting-email-delivery-issues.md)
     + [Add attachments to an email delivery](/help/sending-messages/email-channel/add-attachments-to-an-email-delivery.md)
     + [Design emails for deliverability](/help/sending-messages/email-channel/design-emails-for-deliverability.md)
+    + [Maximize email ROI and best practices for subscriber re-engagement](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=en)
+    + [Deliverability best practice guide](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html)
   + SMS Channel {#sms-channel}
     + [Create a SMS delivery](/help/sending-messages/mobile-channel/create-a-sms-delivery.md)
   + Push Channel {#push-channel}
@@ -100,5 +102,4 @@ auto-video-transcripts: true
 + [Troubleshoot Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html)
 + Strategy & thought leadership{#strategy}
   + [Ten best practices for Adobe Campaign success for marketers](/help/strategy/10-best-practices-for-marketers.md)
-  + [Maximize email ROI and best practices for subscriber re-engagement](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=en)
-  + [Deliverability best practice guide](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html)
+  + 
