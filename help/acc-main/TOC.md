@@ -102,4 +102,3 @@ auto-video-transcripts: true
 + [Troubleshoot Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html)
 + Strategy & thought leadership{#strategy}
   + [Ten best practices for Adobe Campaign success for marketers](/help/strategy/10-best-practices-for-marketers.md)
-  + 
