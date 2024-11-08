@@ -7,7 +7,7 @@ doc-type: feature video
 activity: use
 team: TM
 role: User
-level: Beginner
+level: Intermediate
 exl-id: 1bb86ce5-39b1-4081-aa63-72b218a02f28
 ---
 # How to set up fatigue management using typology rules

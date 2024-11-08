@@ -7,7 +7,7 @@ doc-type: feature video
 activity: use
 team: Customer Care
 role: User
-level: Beginner
+level: Intermediate
 last-substantial-update: 2023-02-01
 exl-id: 3c2b2eb0-7f06-4e9f-8a94-cc26729dc9b1
 ---

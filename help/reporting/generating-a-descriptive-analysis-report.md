@@ -8,7 +8,7 @@ doc-type: feature video
 activity: use
 team: WWFRE
 role: User
-skill level: beginner
+skill level: Intermediate
 level: Beginner
 exl-id: cc9e256f-67bb-4bb3-aa24-da5de70fc776
 ---

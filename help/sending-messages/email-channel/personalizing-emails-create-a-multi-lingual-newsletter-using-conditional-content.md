@@ -8,7 +8,7 @@ doc-type: feature video
 activity: use
 team: TM
 role: User
-level: Beginner
+level: Intermediate
 exl-id: 080f5229-9eae-45b6-b0e0-13b4721ad79c
 ---
 # Personalizing emails - Create a multilingual newsletter using conditional content

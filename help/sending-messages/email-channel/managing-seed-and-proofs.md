@@ -8,7 +8,7 @@ doc-type: feature video
 activity: use
 team: DOC
 role: User
-level: Beginner
+level: Intermediate
 exl-id: a10824f4-c2ea-4c9a-bbf4-3290a96a0de8
 ---
 # How to manage seed and proofs in an email

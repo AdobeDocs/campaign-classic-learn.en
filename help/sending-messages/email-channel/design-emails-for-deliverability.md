@@ -8,7 +8,7 @@ doc-type: feature video
 activity: understand
 team: WWFRE
 role: User
-level: Beginner
+level: Intermediate
 exl-id: 2df2986e-00f7-40fb-b37e-09fb3de9d710
 ---
 # Design emails for deliverability

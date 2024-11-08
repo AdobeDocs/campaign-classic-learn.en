@@ -6,7 +6,7 @@ jira: KT-11919
 doc-type: feature video
 activity: use
 role: User
-level: Beginner
+level: Intermediate
 team: Support
 last-substantial-update: 2023-03-28
 exl-id: 1273792a-e778-4a85-8443-2e5a872ea2e8
