@@ -1,7 +1,6 @@
 ---
 title: Create a survey
 description: Learn how to create a survey in Adobe Campaign Classic.
-version: Classic v7
 feature: Surveys
 role: User
 level: Beginner

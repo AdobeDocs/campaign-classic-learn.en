@@ -3,7 +3,7 @@ cloud: Experience Cloud
 product: Adobe Campaign
 type: Tutorial
 solution: Campaign, Campaign Classic v7
-version: Classic v7
+version: Campaign Classic v7
 feature-set: Campaign
 mini-toc-levels: 3
 git-repo: https://github.com/AdobeDocs/campaign-classic-learn.en
