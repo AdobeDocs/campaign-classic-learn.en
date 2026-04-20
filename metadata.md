@@ -5,6 +5,8 @@ type: Tutorial
 solution: Campaign, Campaign Classic v7
 version: Campaign Classic v7
 feature-set: Campaign
+landing-page-name: campaign
+landing-page-breadcrumb-title: Campaign
 mini-toc-levels: 3
 git-repo: https://github.com/AdobeDocs/campaign-classic-learn.en
 index: true
