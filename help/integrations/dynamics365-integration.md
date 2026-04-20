@@ -10,8 +10,8 @@ activity: setup
 team: DOC
 role: Admin, Developer
 level: Experienced
-hide: yes
-hidefromtoc: yes
+hide: true
+hidefromtoc: true
 exl-id: d6ce139f-4d03-477f-94a5-9bab2c7b966c
 ---
 # How to Integrate Dynamics 365 with Adobe Campaign Classic
