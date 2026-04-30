@@ -93,7 +93,7 @@ auto-video-transcripts: true
   + [Query data](/help/data-management/query-data.md)
 + Integrate {#integrating}
   + [Integrate with Adobe Target](/help/integrations/target-integration.md)
-  + [Integrate with Dynamics 365](/help/integrations/dynamics365-integration.md)
+  + {hide-from-toc} [Integrate with Dynamics 365](/help/integrations/dynamics365-integration.md)
 + Administrate {#administrating}
   + [Control Panel](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html){target="_blank"}
   + [Set up SMS for Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html)
