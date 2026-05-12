@@ -1,6 +1,6 @@
 ---
 title: Data Segmentation in Adobe Campaign Classic
-description: Understand the integrated customer profile, how to create and update the profiles and how to create customer segments based on these profiles. 
+description: Understand the integrated customer profile, how to create and update the profiles and how to create customer segments based on these profiles.
 feature: Profiles, Data Management Activity
 jira: KT-1656
 doc-type: feature video
@@ -9,6 +9,25 @@ team: evangelist
 role: User
 level: Beginner
 exl-id: d31023ca-aa81-4a65-a4c7-ddbf0d0a4a99
+TQID: https://experienceleague.adobe.com/GO7vLCIH3da7Y5Q6a3t1zUrgXUKOBfxef-6RetcpEho
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+feature_v2:
+  - id: a658c786-869b-4194-a780-2594d663adda
+    internal-label: Data management
+subfeature_v2:
+  - id: ce296ecd-3d06-45ab-83c3-37214e8ce31c
+    internal-label: Approvals
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+topic_v2:
+  - id: ebde5b41-29c9-4f5e-9ef6-1197e85409e3
+    internal-label: Data management
 ---
 # Data Segmentation
 
