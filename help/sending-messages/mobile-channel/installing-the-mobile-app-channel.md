@@ -1,5 +1,5 @@
 ---
-title:  Installing the mobile app channel
+title: Installing the mobile app channel
 description: Learn how to check if the Mobile App channel is installed on your instance and how to install it.
 feature: Push
 jira: KT-6438
@@ -10,6 +10,16 @@ team: TM
 role: Admin
 level: Beginner
 exl-id: f1e71f7d-4af1-4122-ae30-14c9f2ff2a19
+TQID: https://experienceleague.adobe.com/2o9Qaq-EsGMpWod3-2Vhkk6-g07zHrn3SbsS1U--kpc
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 ---
 # Installing the mobile app channel
 

@@ -1,6 +1,6 @@
 ---
 title: How to use the Audit Trail
-description: Audit Trail captures, in real time, a comprehensive list of actions and events occurring within Adobe Campaign. 
+description: Audit Trail captures, in real time, a comprehensive list of actions and events occurring within Adobe Campaign.
 feature: Audit Trail
 jira: KT-2835
 doc-type: feature video
@@ -9,6 +9,16 @@ team: PM
 role: Admin
 level: Intermediate
 exl-id: 66ce7a21-f0ca-47a5-80f7-ee8596fac7a7
+TQID: https://experienceleague.adobe.com/CG2JuTLv5UzoHcKc62AoAN24xYuR01tRd8vAm9jdEpE
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 ---
 # How to use the Audit Trail
 

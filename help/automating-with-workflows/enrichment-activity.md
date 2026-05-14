@@ -9,6 +9,15 @@ team: TM
 role: User, Developer
 level: Experienced
 exl-id: a8e60b8f-48a6-4ef7-9d4e-994241ff2d97
+TQID: https://experienceleague.adobe.com/hSAAPj9Q3CNKSo5iEmk-L1n-7gJ8-VIlqyCdLgLZr4g
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 ---
 # How to configure enrichment activities
 
