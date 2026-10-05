@@ -10,10 +10,15 @@ team: DOC
 role: User, Admin, Developer
 level: Beginner
 exl-id: d8d99d05-c974-4450-b6b4-b2c5dac27409
-TQID: https://experienceleague.adobe.com/5lQeDZPoxEy9H9Bf5dHHUyDTYg26Oz7fhcWC7Re00VI
+TQID: 'https://experienceleague.adobe.com/5lQeDZPoxEy9H9Bf5dHHUyDTYg26Oz7fhcWC7Re00VI'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
     internal-label: Campaign
+  - id: fd6e6e36-54e4-4f1a-96fc-1a750e400d50
+    internal-label: Campaign Classic v7
+feature_v2:
+  - id: 5ea984c6-e1ec-59c0-bf35-0d3c05f585e1
+    internal-label: Client Console
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

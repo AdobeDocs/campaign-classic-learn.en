@@ -9,10 +9,18 @@ team: PM
 role: Admin
 level: Intermediate
 exl-id: 66ce7a21-f0ca-47a5-80f7-ee8596fac7a7
-TQID: https://experienceleague.adobe.com/CG2JuTLv5UzoHcKc62AoAN24xYuR01tRd8vAm9jdEpE
+TQID: 'https://experienceleague.adobe.com/CG2JuTLv5UzoHcKc62AoAN24xYuR01tRd8vAm9jdEpE'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
     internal-label: Campaign
+  - id: fd6e6e36-54e4-4f1a-96fc-1a750e400d50
+    internal-label: Campaign Classic v7
+feature_v2:
+  - id: c5474392-5419-4296-9e41-f6f4ce4f6e9b
+    internal-label: Administration
+subfeature_v2:
+  - id: cebd7cfa-b9fa-4d9f-a2ab-fce31f32c4a3
+    internal-label: Audit trail
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin

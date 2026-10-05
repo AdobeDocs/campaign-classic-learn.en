@@ -6,6 +6,14 @@ jira: KT-2938
 doc-type: article
 activity: use
 team: PM
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+  - id: fd6e6e36-54e4-4f1a-96fc-1a750e400d50
+    internal-label: Campaign Classic v7
+feature_v2:
+  - id: ae9127b0-c11d-467b-903d-a84cef43f6ed
+    internal-label: Control Panel
 ---
 
 # Trouble shooting [!UICONTROL Control Panel]

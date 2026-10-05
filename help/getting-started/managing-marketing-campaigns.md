@@ -11,10 +11,12 @@ role: User
 skill level: beginner
 level: Beginner
 exl-id: 0a8f07b1-e663-4c64-9d6e-34dfc5b05517
-TQID: https://experienceleague.adobe.com/8w6yPhIP8tTYjiPSL5vEfkYZawEqKMuKs7jW0eRBMzg
+TQID: 'https://experienceleague.adobe.com/8w6yPhIP8tTYjiPSL5vEfkYZawEqKMuKs7jW0eRBMzg'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
     internal-label: Campaign
+  - id: fd6e6e36-54e4-4f1a-96fc-1a750e400d50
+    internal-label: Campaign Classic v7
 feature_v2:
   - id: a075b2c1-7748-4328-b7f6-343aa314616a
     internal-label: Campaigns
