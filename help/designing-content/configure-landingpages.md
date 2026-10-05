@@ -10,10 +10,18 @@ role: Developer, Admin
 level: Beginner
 last-substantial-update: 2023-03-10T00:00:00.000Z
 exl-id: 78703218-dc38-464a-bbab-f2ba5f715ab3
-TQID: https://experienceleague.adobe.com/7hbh3Ph6gnnxl1BS2UiGScltGCYQWeNWnKaRbH-PJhw
+TQID: 'https://experienceleague.adobe.com/7hbh3Ph6gnnxl1BS2UiGScltGCYQWeNWnKaRbH-PJhw'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
     internal-label: Campaign
+  - id: fd6e6e36-54e4-4f1a-96fc-1a750e400d50
+    internal-label: Campaign Classic v7
+feature_v2:
+  - id: a4671286-a59f-47e3-b97b-90627a1977d5
+    internal-label: Communication channels
+subfeature_v2:
+  - id: d7be2b01-dc9c-40f7-aace-a151707504ed
+    internal-label: Landing pages
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin

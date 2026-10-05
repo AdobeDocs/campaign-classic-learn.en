@@ -8,10 +8,12 @@ jira: KT-9601
 thumbnail: 341030.jpg
 exl-id: 1338427d-d75e-4480-9377-f8e68e067364
 badgeIntegration: label="Integration" type="positive"
-TQID: https://experienceleague.adobe.com/W3JIGZ3C878CoChf4IiE6ZC-JzZbIY1-nDoHWqDk-2M
+TQID: 'https://experienceleague.adobe.com/W3JIGZ3C878CoChf4IiE6ZC-JzZbIY1-nDoHWqDk-2M'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
     internal-label: Campaign
+  - id: fd6e6e36-54e4-4f1a-96fc-1a750e400d50
+    internal-label: Campaign Classic v7
 feature_v2:
   - id: a658c786-869b-4194-a780-2594d663adda
     internal-label: Data management

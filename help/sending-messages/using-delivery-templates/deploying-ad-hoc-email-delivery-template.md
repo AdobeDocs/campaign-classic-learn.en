@@ -10,10 +10,15 @@ team: TM
 role: Admin
 level: Beginner
 exl-id: 2e4bb39d-fd03-44f5-8249-dc415b87808a
-TQID: https://experienceleague.adobe.com/8S4Lc0Zozb1CjVyqtN--iB6GgvwB8ZyugoWBqxPLSt0
+TQID: 'https://experienceleague.adobe.com/8S4Lc0Zozb1CjVyqtN--iB6GgvwB8ZyugoWBqxPLSt0'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
     internal-label: Campaign
+  - id: fd6e6e36-54e4-4f1a-96fc-1a750e400d50
+    internal-label: Campaign Classic v7
+feature_v2:
+  - id: fc09322a-8f3d-5905-be3d-96adfa806a40
+    internal-label: Delivery Templates
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin

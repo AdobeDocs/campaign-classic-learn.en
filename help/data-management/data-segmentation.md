@@ -9,16 +9,24 @@ team: evangelist
 role: User
 level: Beginner
 exl-id: d31023ca-aa81-4a65-a4c7-ddbf0d0a4a99
-TQID: https://experienceleague.adobe.com/GO7vLCIH3da7Y5Q6a3t1zUrgXUKOBfxef-6RetcpEho
+TQID: 'https://experienceleague.adobe.com/GO7vLCIH3da7Y5Q6a3t1zUrgXUKOBfxef-6RetcpEho'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
     internal-label: Campaign
+  - id: fd6e6e36-54e4-4f1a-96fc-1a750e400d50
+    internal-label: Campaign Classic v7
 feature_v2:
   - id: a658c786-869b-4194-a780-2594d663adda
     internal-label: Data management
+  - id: afa4204e-6d08-4e29-bc35-26aafb656d48
+    internal-label: Profiles and audiences
 subfeature_v2:
   - id: ce296ecd-3d06-45ab-83c3-37214e8ce31c
     internal-label: Approvals
+  - id: f529d0bd-1401-4c88-9833-43228cc1d40f
+    internal-label: Profiles
+  - id: 97f7b899-98c8-5133-9446-bfaf99a51b9f
+    internal-label: Data Management Activity
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

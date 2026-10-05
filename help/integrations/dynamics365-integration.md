@@ -11,10 +11,12 @@ role: Admin, Developer
 level: Experienced
 hide: true
 exl-id: d6ce139f-4d03-477f-94a5-9bab2c7b966c
-TQID: https://experienceleague.adobe.com/xmBWyfnBU8mkw9uwz4h0BmQrCw1SS5cMF-CTeZl2wM0
+TQID: 'https://experienceleague.adobe.com/xmBWyfnBU8mkw9uwz4h0BmQrCw1SS5cMF-CTeZl2wM0'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
     internal-label: Campaign
+  - id: fd6e6e36-54e4-4f1a-96fc-1a750e400d50
+    internal-label: Campaign Classic v7
 feature_v2:
   - id: d5ef99fa-df0c-4153-bf94-105ad0724167
     internal-label: Integrations
@@ -26,6 +28,9 @@ role_v2:
     internal-label: Admin
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
     internal-label: Developer
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 ---
 # How to Integrate Dynamics 365 with Adobe Campaign Classic
 
